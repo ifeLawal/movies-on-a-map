@@ -1,25 +1,59 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { useState, useEffect } from 'react';
+import { Container } from 'react-bootstrap'
+import { Helper } from './helpers.js'
+import { ScrapedData } from './staticScrapedData'
+import Location from './components/Location'
+import SearchForm from './components/SearchForm'
+
 
 function App() {
+
+  const [params, setParams] = useState({"title":"","neighborhood":""});
+  const [locations, setLocationList] = useState(ScrapedData.locationList);
+
+  function handleParamChange(e) {
+    const param = e.target.name;
+    const value = e.target.value;
+    
+    // set parameter list for filtering location list
+    setParams(prevParam => {
+      return {...prevParam, [param]: value}
+    });
+    
+    // filter for the parameter values
+    // there is a delay in the parameter update so use the current value for the latest parameter
+    // to look into doing this with useEffect()
+    setLocationList(ScrapedData.locationList.filter(location => {
+      for(let selector in params) {
+        let lowerParam = location[selector].toLowerCase();
+        let valToCheck = value;
+        if(selector != param) {
+          valToCheck = params[selector].toLowerCase();
+        }
+        if(valToCheck != "" && !lowerParam.includes(valToCheck.toLowerCase())){
+          return false;
+        }
+      }
+      return true;
+    }))
+  }
+
+  // useEffect()
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Container className="mt-3">
+      <h1>Movie Scenes List</h1>
+      <SearchForm 
+        onParamChange={handleParamChange
+        }/>
+      {locations.map((location,index) => {
+        return <Location 
+          key={index}
+          location={location}
+        />
+      })}
+
+    </Container>
   );
 }
 

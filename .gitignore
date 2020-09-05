@@ -10,6 +10,11 @@
 
 # production
 /build
+/src/data
+/src/helperMethods
+scraper.js
+scraperAxios.js
+
 
 # misc
 .DS_Store
