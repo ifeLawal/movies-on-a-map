@@ -1,0 +1,18 @@
+.poster {
+    position: absolute;
+    width: 140px;
+    bottom: 0px;
+    right: 0px;
+}
+
+.box-custom {
+    border: 1px solid chocolate;
+    box-shadow: 0 3px 6px -4px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+    padding: 5px;
+    transition: transform .3s, box-shadow .3s, background-color .3s, color .3s, opacity .3s
+}
+
+.box-custom:hover {
+    transform: translateY(-2px);
+    box-shadow: 0px 30px 40px 0px rgba(0,0,0,0.2);
+}
