@@ -27,10 +27,10 @@ function App() {
       for(let selector in params) {
         let lowerParam = location[selector].toLowerCase();
         let valToCheck = value;
-        if(selector != param) {
+        if(selector !== param) {
           valToCheck = params[selector].toLowerCase();
         }
-        if(valToCheck != "" && !lowerParam.includes(valToCheck.toLowerCase())){
+        if(valToCheck !== "" && !lowerParam.includes(valToCheck.toLowerCase())){
           return false;
         }
       }
