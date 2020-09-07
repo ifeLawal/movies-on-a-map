@@ -1,12 +1,12 @@
 import React, { useState, useEffect } from 'react';
 import { Container } from 'react-bootstrap'
-import { Helper } from './helpers.js'
-import { ScrapedData } from './staticScrapedData'
-import Location from './components/Location'
-import SearchForm from './components/SearchForm'
+import { Helper } from '../helpers.js'
+import { ScrapedData } from '../staticScrapedData'
+import Location from './Location'
+import SearchForm from './SearchForm'
 
 
-function App() {
+export const LocationCardList = (props) => {
 
   const [params, setParams] = useState({"title":"","neighborhood":""});
   const [locations, setLocationList] = useState(ScrapedData.locationList);
@@ -57,4 +57,4 @@ function App() {
   );
 }
 
-export default App;
+export default LocationCardList;
