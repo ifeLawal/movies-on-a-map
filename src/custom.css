@@ -1,6 +1,6 @@
 .poster {
     position: absolute;
-    width: 140px;
+    width: 110px;
     bottom: 0px;
     right: 0px;
 }
@@ -15,4 +15,37 @@
 .box-custom:hover {
     transform: translateY(-2px);
     box-shadow: 0px 30px 40px 0px rgba(0,0,0,0.2);
+}
+
+#map {
+    /* position: absolute;
+    top: 0;
+    bottom: 0; */
+    width: 80%;
+    margin: 0 auto;
+    min-height: 600px;
+}
+
+.carousel {
+    position: relative;
+}
+
+.carousel-icon-left {
+    position: absolute;
+    top: 50%;
+    left: 0%;
+    transform: translate(50%, -50%);
+    cursor: pointer;
+    color: white;
+    border-radius: 50%;
+}
+
+.carousel-icon-right {
+    position: absolute;
+    top: 50%;
+    right: 0%;
+    transform: translate(-50%, -50%);
+    cursor: pointer;
+    color: white;
+    border-radius: 50%;
 }

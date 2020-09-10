@@ -1,14 +1,15 @@
 import React from 'react'
-import { Container } from 'react-bootstrap'
+import { Row, Button, Col } from 'react-bootstrap'
+import { Link } from 'react-router-dom'
 
 
 export default function Navbar() {
     return (
-        <Container className="justifiy-content-center">
-            <Navbar>
-                <Link to="">List View</Link>
-                <Link to="">Map View</Link>
-            </Navbar>
-        </Container>
+        <Row className="justify-content-center">
+            <Col>
+                <Link to="/"><Button>List View</Button></Link>
+                <Link to="/map-view" className="ml-3"><Button>Map View</Button></Link>
+            </Col>
+        </Row>
     )
 }

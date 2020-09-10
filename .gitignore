@@ -12,6 +12,7 @@
 /build
 /src/data
 /src/helperMethods
+/secret
 scraper.js
 scraperAxios.js
 

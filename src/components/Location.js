@@ -1,5 +1,7 @@
 import React from 'react'
 import { Card, Row } from 'react-bootstrap'
+import Carousel from './Carousel'
+
 import '../custom.css'
 
 export default function Location({location}) {
@@ -8,8 +10,10 @@ export default function Location({location}) {
             <Row border="">
                 <div className="col-sm-6">
                     <Card>
-                        <Card.Img src={location.images[0]} alt={"A scene from" + location.title}>
-                        </Card.Img>
+                        <Carousel 
+                            images={location.images}
+                            alt={"A scene from" + location.title}
+                        />
                         <img className="poster" src={location.moviePoster} alt={"A movie poster from" + location.title}/>
                         <Card.Body>
                             <Card.Title>{location.title} ({location.year})

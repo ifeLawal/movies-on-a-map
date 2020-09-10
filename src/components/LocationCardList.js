@@ -4,6 +4,7 @@ import { Helper } from '../helpers.js'
 import { ScrapedData } from '../staticScrapedData'
 import Location from './Location'
 import SearchForm from './SearchForm'
+import Navbar from './Navbar';
 
 
 export const LocationCardList = (props) => {
@@ -42,6 +43,7 @@ export const LocationCardList = (props) => {
 
   return (
     <Container className="mt-3">
+      <Navbar />
       <h1>Movie Scenes List</h1>
       <SearchForm 
         onParamChange={handleParamChange

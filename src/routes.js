@@ -5,6 +5,7 @@ import {
 } from 'react-router-dom';
 
 import LocationCardList from './components/LocationCardList';
+import MapLocation from './components/MapLocation';
 
 export const Routes = (props) => {
     return (
@@ -13,6 +14,12 @@ export const Routes = (props) => {
                 exact path="/" 
                 render={(props) => {
                     return <LocationCardList />
+                }}
+            />
+            <Route
+                path="/map-view"
+                render={(props) => {
+                    return <MapLocation />
                 }}
             />
         </Router>

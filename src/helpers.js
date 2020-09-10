@@ -1,5 +1,9 @@
 const Helper = (function() {
 
+    const coordList = [
+
+    ];
+
     const locationList = [
         {
             "title": "Serpico",
@@ -88,7 +92,10 @@ const Helper = (function() {
         }
     ]
 
-    return { locationList : locationList}
+    return { 
+        locationList : locationList,
+        coordList: coordList,
+    }
 }());
 
 export { Helper };
