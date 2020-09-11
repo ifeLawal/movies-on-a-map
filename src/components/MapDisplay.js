@@ -1,6 +1,3 @@
-/* global map */
-/* global L */
-
 import React from 'react'
 import { Map, TileLayer, Marker, Popup } from 'react-leaflet'
 
@@ -13,8 +10,8 @@ export class MapDisplay extends React.Component {
     // }
 
     state = {
-        lat: 40.721812,
-        lng: -73.9828486,
+        lat: 40.7651838,
+        lng: -73.9829905,
         zoom: 14,
     }
 
@@ -48,7 +45,7 @@ export class MapDisplay extends React.Component {
                             <Marker position={point} key={index} >
                                 <Popup>
                                     <span>Movie: {obj.title}</span>
-                                    <img style={{width:"100%"}} src={obj.poster} alt={`Movie image from ${obj.title}`}/>
+                                    <img style={{width:"100%"}} src={obj.poster} alt={`A scene from the movie ${obj.title}`}/>
                                 </Popup>
                             </Marker>
                         )

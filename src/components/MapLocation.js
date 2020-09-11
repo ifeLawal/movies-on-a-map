@@ -13,10 +13,12 @@ export const MapLocation = () => {
     return (
         <div>
             <Navbar />
-            <Container className="mt-3">
+            <Container className="my-3">
                 
                 <h1>Map of Scenes</h1>
+                
                 <div className="d-md-flex">
+                    <MapDisplay />
                     <div className="h-100 col-md-5 mr-2">
                         {testData.map((location,index) => {
                             return <Location 
@@ -25,7 +27,6 @@ export const MapLocation = () => {
                             />
                         })}
                     </div>
-                    <MapDisplay />
                 </div>
             </Container>
         </div>
