@@ -1,7 +1,8 @@
 import React, { useState, useEffect } from 'react';
 import { Container } from 'react-bootstrap'
-// import { Helper } from '../helpers.js'
-import { ScrapedData } from '../staticScrapedData'
+
+import { ScrapedData } from '../data/staticScrapedData'
+
 import Location from './Location'
 import SearchForm from './SearchForm'
 import Navbar from './Navbar';
@@ -70,25 +71,27 @@ export const LocationCardList = (props) => {
   // useEffect()
 
   return (
-    <Container className="mt-3">
+    <div>
       <Navbar />
-      <h1>Movie Scenes List</h1>
-      <SearchForm 
-        onParamChange={handleParamChange
-        }/>
-        <LocationsPagination 
-          page={page}
-          setPage={setPageThenCheckForNextPage}
-          hasNextPage={hasNextPage}
-        />
-      {locations.map((location,index) => {
-        return <Location 
-          key={index}
-          location={location}
-        />
-      })}
+        <Container className="mt-3">
+        <h1>Movie Scenes List</h1>
+        <SearchForm 
+          onParamChange={handleParamChange
+          }/>
+          <LocationsPagination 
+            page={page}
+            setPage={setPageThenCheckForNextPage}
+            hasNextPage={hasNextPage}
+          />
+        {locations.map((location,index) => {
+          return <Location 
+            key={index}
+            location={location}
+          />
+        })}
 
-    </Container>
+      </Container>
+    </div>
   );
 }
 

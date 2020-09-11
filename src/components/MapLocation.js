@@ -1,16 +1,34 @@
 import React from 'react'
 import { Container } from 'react-bootstrap'
-// import { ScrapedData } from '../staticScrapedData'
-import MapDisplay from './Map'
+import Location from './Location'
+
+import { ScrapedData } from '../data/staticScrapedData'
+
+import MapDisplay from './MapDisplay'
 import Navbar from './Navbar';
 
 export const MapLocation = () => {
+    const testData = ScrapedData.locationList.slice(0,2);
+
     return (
-        <Container className="mt-3">
+        <div>
             <Navbar />
-            <h1>Map of Scenes</h1>
-            <MapDisplay />
-        </Container>
+            <Container className="mt-3">
+                
+                <h1>Map of Scenes</h1>
+                <div className="d-md-flex">
+                    <div className="h-100 col-md-5 mr-2">
+                        {testData.map((location,index) => {
+                            return <Location 
+                                key={index}
+                                location={location}
+                            />
+                        })}
+                    </div>
+                    <MapDisplay />
+                </div>
+            </Container>
+        </div>
     )
 }
 

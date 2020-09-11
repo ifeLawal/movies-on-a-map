@@ -1,8 +1,12 @@
 .poster {
     position: absolute;
-    width: 110px;
+    width: 25%;
     bottom: 0px;
     right: 0px;
+}
+
+.movie-title {
+    font-size: 1rem;
 }
 
 .box-custom {
@@ -49,3 +53,20 @@
     color: white;
     border-radius: 50%;
 }
+
+.navbar {
+    box-shadow: 0 3px 0px -4px rgba(0,0,0,0.06), 0 3px 6px rgba(0,0,0,0.10);
+    width: 100%;
+    /* position: fixed; */
+}
+
+.nav-link {
+    font-size: 24px;
+    opacity: 60%;
+}
+
+.active .nav-link {
+    font-weight: 700;
+    opacity: 100% !important;
+}
+

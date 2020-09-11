@@ -1,12 +1,19 @@
 import React, { useState } from 'react';
 import { Card } from 'react-bootstrap';
+
 import * as Icon from 'react-bootstrap-icons';
 
 
-export default function Carousel(props) {
+ export const Carousel = (props) => {
     // new state variable
     const [index, setIndex] = useState(0);
-    const size = 45;
+    // const [img, setImg] = useState(props.images[index]);
+    const size = 30;
+
+    // function handleCarousel(amount) {
+    //     setIndex(amount);
+    //     setImg(props.images[amount]);
+    // }
 
     return (
         <div className="w-100 carousel">
@@ -27,3 +34,5 @@ export default function Carousel(props) {
         </div>
     )
 }
+
+export default Carousel;
