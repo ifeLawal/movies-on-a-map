@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { Container } from 'react-bootstrap'
 
 import { ScrapedData } from '../data/staticScrapedData'
+import { Helper } from '../helpers'
 
 import Location from './Location'
 import SearchForm from './SearchForm'
@@ -11,7 +12,8 @@ import LocationsPagination from './LocationsPagination';
 
 export const LocationCardList = (props) => {
 
-  const fullLocationList = ScrapedData.locationList;
+  // const fullLocationList = ScrapedData.locationList;
+  const fullLocationList = Helper.locationList;
   let numItems = 25;
 
   const [params, setParams] = useState({"title":"","neighborhood":""});

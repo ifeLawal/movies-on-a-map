@@ -15,7 +15,10 @@ export default function Location({location}) {
                             images={location.images}
                             alt={"A scene from" + location.title}
                         />
-                        <img className="poster d-lg-block d-none" src={location.moviePoster} alt={"A movie poster from" + location.title}/>
+                        <img 
+                            className="poster d-lg-block d-none" 
+                            src={process.env.PUBLIC_URL + `/imgs${location.moviePoster}`}
+                            alt={"A movie poster from" + location.title}/>
                         <Card.Body>
                             <Card.Title className="movie-title">{location.title} ({location.year})
                             </Card.Title>

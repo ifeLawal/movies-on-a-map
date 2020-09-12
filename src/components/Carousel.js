@@ -18,7 +18,7 @@ import * as Icon from 'react-bootstrap-icons';
     return (
         <div className="w-100 carousel">
             <Card.Img MapLocation
-                src={props.images[index]} 
+                src={process.env.PUBLIC_URL + `/imgs/${props.images[index]}`} 
                 alt={props.alt} 
             ></Card.Img>
             <Icon.ArrowLeftCircleFill 
