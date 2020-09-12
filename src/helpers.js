@@ -1,7 +1,7 @@
 const Helper = (function() {
 
     function shuffle() {
-        shuffleArr(locationList);
+        return shuffleArr(locationList);
     }
 
     const coordList = [

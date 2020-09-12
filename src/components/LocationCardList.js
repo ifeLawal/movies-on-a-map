@@ -13,7 +13,7 @@ import LocationsPagination from './LocationsPagination';
 export const LocationCardList = (props) => {
 
   // const fullLocationList = ScrapedData.locationList;
-  const fullLocationList = Helper.locationList;
+  const fullLocationList = Helper.shuffle();
   let numItems = 25;
 
   const [params, setParams] = useState({"title":"","neighborhood":""});

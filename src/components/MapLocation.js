@@ -3,12 +3,13 @@ import { Container } from 'react-bootstrap'
 import Location from './Location'
 
 import { ScrapedData } from '../data/staticScrapedData'
+import { Helper } from '../helpers'
 
 import MapDisplay from './MapDisplay'
 import Navbar from './Navbar';
 
 export const MapLocation = () => {
-    const testData = ScrapedData.locationList.slice(0,2);
+    const testData = Helper.locationList.slice(0,2);
 
     return (
         <div>
