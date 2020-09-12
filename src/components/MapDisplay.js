@@ -21,8 +21,8 @@ export class MapDisplay extends React.Component {
 
     render() {
         // const imgSize = 
-        const placeholder = [{title:"They Came Together",poster:"http://onthesetofnewyork.com/locations/theycametogether/theycametogether30.jpg",coords:[40.7641964,-73.9639248]},
-                             {title:"Alien Space Avenger ",poster:"http://onthesetofnewyork.com/locations/alienspaceavenger/alienspaceavenger12.jpg",coords:[40.7677275,-73.9826591]}];
+        const placeholder = [{title:"They Came Together",poster:"theycametogether/theycametogether30.jpg",coords:[40.7641964,-73.9639248]},
+                             {title:"Alien Space Avenger ",poster:"alienspaceavenger/alienspaceavenger12.jpg",coords:[40.7677275,-73.9826591]}];
 
         const mapStyle = {width: "100%", height: "900px"}
         return (
