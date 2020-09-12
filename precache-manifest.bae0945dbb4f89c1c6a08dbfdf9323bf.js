@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "10ade2727dcd24125710388029f46f9c",
+    "revision": "9bb210457c217822678a0087350a2363",
     "url": "/movies-on-a-map/index.html"
   },
   {
-    "revision": "ef23195b66edf4c58937",
+    "revision": "7c0f90cb24ed26899c00",
     "url": "/movies-on-a-map/static/css/main.9aeb609e.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/movies-on-a-map/static/js/2.0dc845de.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ef23195b66edf4c58937",
-    "url": "/movies-on-a-map/static/js/main.d1568d19.chunk.js"
+    "revision": "7c0f90cb24ed26899c00",
+    "url": "/movies-on-a-map/static/js/main.03c08516.chunk.js"
   },
   {
     "revision": "37e1cd200ac8c7131be7",
