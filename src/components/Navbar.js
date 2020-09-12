@@ -1,10 +1,9 @@
 import React from 'react'
 import { Col } from 'react-bootstrap'
 import { NavLink } from 'react-router-dom'
+import '../custom.css'
 
 const isActive = (match, location) => {
-    console.log(match);
-    console.log(location);
     return match && match.url === location.pathname;
 }
 

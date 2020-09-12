@@ -62,11 +62,11 @@
 
 .nav-link {
     font-size: 24px;
-    opacity: 60%;
+    /* opacity: 60%; */
 }
 
 .active .nav-link {
     font-weight: 700;
-    opacity: 100% !important;
+    /* opacity: 100% !important; */
 }
 
