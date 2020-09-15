@@ -9,7 +9,7 @@ import MapDisplay from './MapDisplay'
 import Navbar from './Navbar';
 
 export const MapLocation = () => {
-    const testData = Helper.locationList.slice(0,2);
+    const testData = Helper.locationList;
 
     return (
         <div>
@@ -19,8 +19,10 @@ export const MapLocation = () => {
                 <h1>Map of Scenes</h1>
                 
                 <div className="d-md-flex">
-                    <MapDisplay />
-                    <div className="h-100 col-md-5 mr-2">
+                    <MapDisplay 
+                        location={testData}
+                    />
+                    <div className="h-100 col-md-5 mr-2 map-list">
                         {testData.map((location,index) => {
                             return <Location 
                                 key={index}

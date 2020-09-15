@@ -4,10 +4,6 @@ const Helper = (function() {
         return shuffleArr(locationList);
     }
 
-    const coordList = [
-
-    ];
-
     // random shuffle array code from stackoverflow
     // used to shuffle board order
     /**
@@ -46,8 +42,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "2nd Avenue",
                 "coords": [
-                    0,
-                    1
+                    -73.979116,
+                    40.745148
                 ]
             },
             "images": [
@@ -58,8 +54,45 @@ const Helper = (function() {
                 "/theycametogether/theycametogether51.jpg",
                 "/theycametogether/theycametogether50.jpg"
             ],
-            "neighborhood": "Manhattan",
-            "comment": ""
+            "neighborhood": "Manhattan, Gramercy",
+            "comment": "",
+            "place_name": "2nd Ave Deli, 162 E 33rd St, New York, New York 10016, United States",
+            "Year": "2014",
+            "Rated": "R",
+            "Released": "05 Sep 2014",
+            "Runtime": "83 min",
+            "Genre": "Comedy, Romance",
+            "Director": "David Wain",
+            "Writer": "Michael Showalter, David Wain",
+            "Actors": "Paul Rudd, Amy Poehler, Bill Hader, Ellie Kemper",
+            "Plot": "Molly owns a quaint little sweet shop. Joel works for a gigantic candy company threatening to shut her down. How they meet, fall in love, break up and get back together is hilariously recounted in this rom-com spoof.",
+            "Language": "English",
+            "Country": "USA",
+            "Awards": "N/A",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTkzNzA2Nzc1Ml5BMl5BanBnXkFtZTgwNzcwNzk3MTE@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "5.5/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "68%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "60/100"
+                }
+            ],
+            "Metascore": "60",
+            "imdbRating": "5.5",
+            "imdbVotes": "20,922",
+            "imdbID": "tt2398249",
+            "Type": "movie",
+            "DVD": "02 Sep 2014",
+            "BoxOffice": "N/A",
+            "Production": "Lionsgate",
+            "Website": "N/A"
         },
         {
             "title": "Alien Space Avenger",
@@ -69,8 +102,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "Merchant's Gate Fountain, Columbus Circle and Central Park West",
                 "coords": [
-                    0,
-                    1
+                    -73.98167875,
+                    40.768813625
                 ]
             },
             "images": [
@@ -79,8 +112,37 @@ const Helper = (function() {
                 "/alienspaceavenger/alienspaceavenger21.jpg",
                 "/alienspaceavenger/alienspaceavenger22.jpg"
             ],
-            "neighborhood": "Manhattan",
-            "comment": ""
+            "neighborhood": "Manhattan, Upper West Side",
+            "comment": "",
+            "place_name": "Merchants' Gate, Columbus Cir, New York, New York 10023, United States",
+            "Year": "1989",
+            "Rated": "N/A",
+            "Released": "04 Jun 1992",
+            "Runtime": "80 min",
+            "Genre": "Comedy, Horror, Sci-Fi",
+            "Director": "Richard W. Haines",
+            "Writer": "Lynwood Shiva Sawyer (screenplay), Leslie Delano (contributing screenwriter), Brad Dunker (contributing screenwriter), Richard W. Haines, Kay Gelfman (contributing screenwriter)",
+            "Actors": "Robert Prichard, Michael McCleery, Charity Staley, Gina Mastrogiacomo",
+            "Plot": "In 1939 a spaceship carrying four alien escaped prisoners crash-lands on Earth and the aliens take over the bodies of four locals. Fifty years later the aliens find out that an artist has ...",
+            "Language": "English",
+            "Country": "USA",
+            "Awards": "N/A",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BNDQwMTdmMTUtNjFhYi00Mzc2LThmMDktMjI1MzRhMDUzNGUwXkEyXkFqcGdeQXVyMTQ2MjQyNDc@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "5.1/10"
+                }
+            ],
+            "Metascore": "N/A",
+            "imdbRating": "5.1",
+            "imdbVotes": "216",
+            "imdbID": "tt0101296",
+            "Type": "movie",
+            "DVD": "04 Jun 1992",
+            "BoxOffice": "N/A",
+            "Production": "A I P Home Video",
+            "Website": "N/A"
         },
         {
             "title": "Miss Congeniality 2: Armed & Fabulous",
@@ -90,8 +152,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "PS 11 William T Harris School, 320 West 21st Street and 8th Avenue",
                 "coords": [
-                    0,
-                    1
+                    -74.000558,
+                    40.74443
                 ]
             },
             "images": [
@@ -102,8 +164,45 @@ const Helper = (function() {
                 "/misscongeniality2/misscongeniality2_11.jpg",
                 "/misscongeniality2/misscongeniality2_10.jpg"
             ],
-            "neighborhood": "Manhattan",
-            "comment": "Notice that the sign on the front of the school clearly shows PS 31, when \n\t\t\t\t\t\t\t\t\t\t\t\t\t\tin fact the school is PS 11 on 21st Street."
+            "neighborhood": "Manhattan, Chelsea",
+            "comment": "Notice that the sign on the front of the school clearly shows PS 31, when \n\t\t\t\t\t\t\t\t\t\t\t\t\t\tin fact the school is PS 11 on 21st Street.",
+            "place_name": "P.S. 11 William T. Harris Elementary School, 320 W 21st St, New York, New York 10011, United States",
+            "Year": "2005",
+            "Rated": "PG-13",
+            "Released": "24 Mar 2005",
+            "Runtime": "115 min",
+            "Genre": "Action, Comedy, Crime",
+            "Director": "John Pasquin",
+            "Writer": "Marc Lawrence (characters), Katie Ford (characters), Caryn Lucas (characters), Marc Lawrence",
+            "Actors": "Sandra Bullock, Regina King, Enrique Murciano, William Shatner",
+            "Plot": "After Cheryl Frasier (Heather Burns) and Stan Fields (William Shatner) are kidnapped, Gracie Hart (Sandra Bullock) goes undercover in Las Vegas, Nevada to find them.",
+            "Language": "English",
+            "Country": "USA",
+            "Awards": "2 wins & 5 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMjAxNzk2OTI2OV5BMl5BanBnXkFtZTcwODk0MDIzMw@@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "5.1/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "15%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "34/100"
+                }
+            ],
+            "Metascore": "34",
+            "imdbRating": "5.1",
+            "imdbVotes": "68,298",
+            "imdbID": "tt0385307",
+            "Type": "movie",
+            "DVD": "21 Jun 2005",
+            "BoxOffice": "$47,100,000",
+            "Production": "Warner Bros.",
+            "Website": "N/A"
         },
         {
             "title": "Most Beautiful Island",
@@ -113,8 +212,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "Grand Central Terminal, 89 East 42nd Street and Park Avenue",
                 "coords": [
-                    0,
-                    1
+                    -73.977264,
+                    40.752817
                 ]
             },
             "images": [
@@ -123,8 +222,45 @@ const Helper = (function() {
                 "/mostbeautifulisland/mostbeautifulisland01.jpg",
                 "/mostbeautifulisland/mostbeautifulisland09.jpg"
             ],
-            "neighborhood": "Manhattan",
-            "comment": ""
+            "neighborhood": "Manhattan, Midtown",
+            "comment": "",
+            "place_name": "Grand Central Terminal Clock, Grand Central Terminal, New York, New York 10017, United States",
+            "Year": "2017",
+            "Rated": "N/A",
+            "Released": "03 Nov 2017",
+            "Runtime": "80 min",
+            "Genre": "Drama, Horror, Thriller",
+            "Director": "Ana Asensio",
+            "Writer": "Ana Asensio",
+            "Actors": "Ana Asensio, Natasha Romanova, David Little, Nicholas Tucci",
+            "Plot": "Most Beautiful Island is a chilling portrait of an undocumented young woman's struggle for survival as she finds redemption from a tortured past in a dangerous game.",
+            "Language": "English, Spanish",
+            "Country": "USA",
+            "Awards": "3 wins & 6 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BY2FiYTk1MTEtYjgyMi00MjA5LWJkZjktMTNhZmVkMWI3NWRkXkEyXkFqcGdeQXVyMjE4NzUxNDA@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "5.7/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "93%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "73/100"
+                }
+            ],
+            "Metascore": "73",
+            "imdbRating": "5.7",
+            "imdbVotes": "2,876",
+            "imdbID": "tt4866448",
+            "Type": "movie",
+            "DVD": "02 Nov 2017",
+            "BoxOffice": "N/A",
+            "Production": "Samuel Goldwyn Films",
+            "Website": "N/A"
         },
         {
             "title": "Down to You",
@@ -145,7 +281,43 @@ const Helper = (function() {
                 "/downtoyou/downtoyou25.jpg"
             ],
             "neighborhood": "Manhattan",
-            "comment": ""
+            "comment": "",
+            "Year": "2000",
+            "Rated": "PG-13",
+            "Released": "21 Jan 2000",
+            "Runtime": "91 min",
+            "Genre": "Comedy, Drama, Romance",
+            "Director": "Kris Isacsson",
+            "Writer": "Kris Isacsson",
+            "Actors": "Freddie Prinze Jr., Julia Stiles, Selma Blair, Shawn Hatosy",
+            "Plot": "A young man wins and loses the first serious love of his life. Al Connelly falls in love with the girl of his dreams. After the summer she breaks up with him. As he tries to recover Al goes to desperate measures.",
+            "Language": "English, French",
+            "Country": "USA",
+            "Awards": "1 win & 4 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTI3NDIxMTIwMF5BMl5BanBnXkFtZTcwNTQ3MTIyMQ@@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "5.0/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "3%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "13/100"
+                }
+            ],
+            "Metascore": "13",
+            "imdbRating": "5.0",
+            "imdbVotes": "14,054",
+            "imdbID": "tt0186975",
+            "Type": "movie",
+            "DVD": "11 Jul 2000",
+            "BoxOffice": "N/A",
+            "Production": "Miramax",
+            "Website": "N/A"
         },
         {
             "title": "Can You Ever Forgive Me?",
@@ -155,8 +327,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "Central Park",
                 "coords": [
-                    0,
-                    1
+                    -73.98,
+                    40.77
                 ]
             },
             "images": [
@@ -167,8 +339,45 @@ const Helper = (function() {
                 "/canyoueverforgiveme/canyoueverforgiveme78.jpg",
                 "/canyoueverforgiveme/canyoueverforgiveme79.jpg"
             ],
-            "neighborhood": "Manhattan",
-            "comment": ""
+            "neighborhood": "Manhattan, Manhattan",
+            "comment": "",
+            "place_name": "Central Park, Manhattan, New York, New York 10024, United States",
+            "Year": "2018",
+            "Rated": "R",
+            "Released": "02 Nov 2018",
+            "Runtime": "106 min",
+            "Genre": "Biography, Comedy, Crime, Drama",
+            "Director": "Marielle Heller",
+            "Writer": "Nicole Holofcener (screenplay by), Jeff Whitty (screenplay by)",
+            "Actors": "Melissa McCarthy, Richard E. Grant, Dolly Wells, Ben Falcone",
+            "Plot": "When Lee Israel falls out of step with current tastes, she turns her art form to deception.",
+            "Language": "English",
+            "Country": "USA",
+            "Awards": "Nominated for 3 Oscars. Another 53 wins & 93 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTFkZmFmNzEtM2FjZC00MmQ1LThlMjctODc1M2RmNzE5NjFjXkEyXkFqcGdeQXVyODY1NDk1NjE@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "7.1/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "98%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "87/100"
+                }
+            ],
+            "Metascore": "87",
+            "imdbRating": "7.1",
+            "imdbVotes": "44,734",
+            "imdbID": "tt4595882",
+            "Type": "movie",
+            "DVD": "N/A",
+            "BoxOffice": "N/A",
+            "Production": "Fox Searchlight Pictures",
+            "Website": "N/A"
         },
         {
             "title": "Single White Female",
@@ -178,8 +387,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "Broadway and West 75th Street",
                 "coords": [
-                    0,
-                    1
+                    -73.9814257,
+                    40.7810582
                 ]
             },
             "images": [
@@ -187,8 +396,45 @@ const Helper = (function() {
                 "/singlewhitefemale/singlewhitefemale101.jpg",
                 "/singlewhitefemale/singlewhitefemale157.jpg"
             ],
-            "neighborhood": "Manhattan",
-            "comment": ""
+            "neighborhood": "Manhattan, Upper West Side",
+            "comment": "",
+            "place_name": "Broadway and West 75th Street, New York, New York 10023, United States",
+            "Year": "1992",
+            "Rated": "R",
+            "Released": "14 Aug 1992",
+            "Runtime": "107 min",
+            "Genre": "Drama, Thriller",
+            "Director": "Barbet Schroeder",
+            "Writer": "John Lutz (novel), Don Roos (screenplay)",
+            "Actors": "Bridget Fonda, Jennifer Jason Leigh, Steven Weber, Peter Friedman",
+            "Plot": "A woman advertising for a new roommate finds that something very strange is going on with the tenant who decides to move in.",
+            "Language": "English",
+            "Country": "USA",
+            "Awards": "1 win & 1 nomination.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BYjNmMTNjYzEtNGIzOC00ZDc2LWFjN2UtZTNmZjgxZDJkNzBlXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "6.4/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "54%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "63/100"
+                }
+            ],
+            "Metascore": "63",
+            "imdbRating": "6.4",
+            "imdbVotes": "31,439",
+            "imdbID": "tt0105414",
+            "Type": "movie",
+            "DVD": "24 Feb 1998",
+            "BoxOffice": "N/A",
+            "Production": "Columbia Pictures",
+            "Website": "N/A"
         },
         {
             "title": "Confessions of a Shopaholic",
@@ -198,8 +444,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "Madison Avenue",
                 "coords": [
-                    0,
-                    1
+                    -73.983094,
+                    40.744777
                 ]
             },
             "images": [
@@ -210,8 +456,45 @@ const Helper = (function() {
                 "/confessionsofashopaholic/confessionsofashopaholic104.jpg",
                 "/confessionsofashopaholic/confessionsofashopaholic107.jpg"
             ],
-            "neighborhood": "Manhattan",
-            "comment": ""
+            "neighborhood": "Manhattan, Flatiron District",
+            "comment": "",
+            "place_name": "Madison Avenue Baptist Church, 30 E 31st St, New York, New York 10016, United States",
+            "Year": "2009",
+            "Rated": "PG",
+            "Released": "13 Feb 2009",
+            "Runtime": "104 min",
+            "Genre": "Comedy, Romance",
+            "Director": "P.J. Hogan",
+            "Writer": "Tracey Jackson (screenplay), Tim Firth (screenplay), Kayla Alpert (screenplay), Sophie Kinsella (books)",
+            "Actors": "Isla Fisher, Hugh Dancy, Krysten Ritter, Joan Cusack",
+            "Plot": "A college grad lands a job as a financial journalist in New York City to support where she nurtures her shopping addiction and falls for a wealthy entrepreneur.",
+            "Language": "English, Finnish, Spanish, French",
+            "Country": "USA",
+            "Awards": "1 win & 3 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ1MzcyMTkwOF5BMl5BanBnXkFtZTcwMDM3MTc5MQ@@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "5.9/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "25%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "38/100"
+                }
+            ],
+            "Metascore": "38",
+            "imdbRating": "5.9",
+            "imdbVotes": "73,572",
+            "imdbID": "tt1093908",
+            "Type": "movie",
+            "DVD": "23 Jun 2009",
+            "BoxOffice": "$44,239,688",
+            "Production": "Walt Disney Studios",
+            "Website": "N/A"
         },
         {
             "title": "The Odd Couple",
@@ -221,8 +504,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "Shea Stadium, 12301 Roosevelt Avenue, Flushing Meadows Park",
                 "coords": [
-                    0,
-                    1
+                    -73.722477,
+                    40.715036
                 ]
             },
             "images": [
@@ -234,8 +517,45 @@ const Helper = (function() {
                 "/theoddcouple/theoddcouple27.jpg",
                 "/theoddcouple/theoddcouple25.jpg"
             ],
-            "neighborhood": "Queens",
-            "comment": "The scene at Shea Stadium, which also featured Heywood Hale Broun, \nwas filmed right before a real game btw the New York Mets and the Pittsburgh Pirates on June 27, 1967. Roberto Clemente was asked to hit into the \ntriple play that Oscar misses, but he refused to do it and Bill Mazeroski took his place."
+            "neighborhood": "Queens, Elmont",
+            "comment": "The scene at Shea Stadium, which also featured Heywood Hale Broun, \nwas filmed right before a real game btw the New York Mets and the Pittsburgh Pirates on June 27, 1967. Roberto Clemente was asked to hit into the \ntriple play that Oscar misses, but he refused to do it and Bill Mazeroski took his place.",
+            "place_name": "Belmont Park Racetrack, 2150 Hempstead Tpke, Elmont, New York 11003, United States",
+            "Year": "1968",
+            "Rated": "G",
+            "Released": "16 May 1968",
+            "Runtime": "105 min",
+            "Genre": "Comedy",
+            "Director": "Gene Saks",
+            "Writer": "Neil Simon (from the play by), Neil Simon (screenplay)",
+            "Actors": "Jack Lemmon, Walter Matthau, John Fiedler, Herb Edelman",
+            "Plot": "Two friends try sharing an apartment, but their ideas of housekeeping and lifestyles are as different as night and day.",
+            "Language": "English",
+            "Country": "USA",
+            "Awards": "Nominated for 2 Oscars. Another 3 wins & 7 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BZDVhNzQxZDEtMzcyZC00ZDg1LWFkZDctOWYxZTY0ZmYzYjc2XkEyXkFqcGdeQXVyMjA0MDQ0Mjc@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "7.7/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "97%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "86/100"
+                }
+            ],
+            "Metascore": "86",
+            "imdbRating": "7.7",
+            "imdbVotes": "30,883",
+            "imdbID": "tt0063374",
+            "Type": "movie",
+            "DVD": "12 Dec 2000",
+            "BoxOffice": "N/A",
+            "Production": "Paramount Home Video",
+            "Website": "N/A"
         },
         {
             "title": "The Anomaly",
@@ -245,8 +565,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "72 Walker Street and Cortlandt Alley",
                 "coords": [
-                    0,
-                    1
+                    -73.682189,
+                    40.672836
                 ]
             },
             "images": [
@@ -255,8 +575,41 @@ const Helper = (function() {
                 "/theanomaly/theanomaly01.jpg",
                 "/theanomaly/theanomaly13.jpg"
             ],
-            "neighborhood": "Manhattan",
-            "comment": ""
+            "neighborhood": "Manhattan, Central Valley Stream",
+            "comment": "",
+            "place_name": "72 Walker Street, Malverne, New York 11565, United States",
+            "Year": "2014",
+            "Rated": "Not Rated",
+            "Released": "04 Jul 2014",
+            "Runtime": "97 min",
+            "Genre": "Action, Mystery, Sci-Fi, Thriller",
+            "Director": "Noel Clarke",
+            "Writer": "Simon Lewis, Noel Clarke (additional material by)",
+            "Actors": "Noel Clarke, Ian Somerhalder, Brian Cox, Alexis Knapp",
+            "Plot": "An ex-soldier named Ryan Reeve is taken captive by the \"Anomaly\" organization where he learns that he only has 9:47 minutes/seconds to find out why they want him dead.",
+            "Language": "English, Russian",
+            "Country": "UK",
+            "Awards": "1 nomination.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BYzQ0MTIyOTEtZGI1Mi00NzgwLWE2NzAtNTU2NmEwZTM3NTVmXkEyXkFqcGdeQXVyMTYxNjkxOQ@@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "4.7/10"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "27/100"
+                }
+            ],
+            "Metascore": "27",
+            "imdbRating": "4.7",
+            "imdbVotes": "7,152",
+            "imdbID": "tt2962726",
+            "Type": "movie",
+            "DVD": "N/A",
+            "BoxOffice": "N/A",
+            "Production": "N/A",
+            "Website": "N/A"
         },
         {
             "title": "Desperately Seeking Susan",
@@ -266,8 +619,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "Times Square",
                 "coords": [
-                    0,
-                    1
+                    -73.983761,
+                    40.7624195
                 ]
             },
             "images": [
@@ -276,8 +629,45 @@ const Helper = (function() {
                 "/desperatelyseekingsusan/desperatelyseekingsusan205.jpg",
                 "/desperatelyseekingsusan/desperatelyseekingsusan204.jpg"
             ],
-            "neighborhood": "Manhattan",
-            "comment": ""
+            "neighborhood": "Manhattan, Midtown",
+            "comment": "",
+            "place_name": "Times Square Church, 237 W 51st St, New York, New York 10019, United States",
+            "Year": "1985",
+            "Rated": "PG-13",
+            "Released": "12 Apr 1985",
+            "Runtime": "104 min",
+            "Genre": "Comedy, Drama",
+            "Director": "Susan Seidelman",
+            "Writer": "Leora Barish",
+            "Actors": "Rosanna Arquette, Madonna, Aidan Quinn, Mark Blum",
+            "Plot": "A bored suburban housewife, seeking escape from her life, suffers amnesia after an accident, wakes up, and is mistaken for a free-spirited New York City drifter named Susan.",
+            "Language": "English",
+            "Country": "USA",
+            "Awards": "Nominated for 1 Golden Globe. Another 1 win & 3 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BZGY2ZGU4OGMtODMxMC00M2M1LWE0ZGQtOGM1Yjk4MTJmNTZlXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "6.0/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "83%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "71/100"
+                }
+            ],
+            "Metascore": "71",
+            "imdbRating": "6.0",
+            "imdbVotes": "20,525",
+            "imdbID": "tt0089017",
+            "Type": "movie",
+            "DVD": "13 Jun 2000",
+            "BoxOffice": "$27,400,000",
+            "Production": "MGM Home Entertainment",
+            "Website": "N/A"
         },
         {
             "title": "Marathon Man",
@@ -287,8 +677,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "Central Park Zoo",
                 "coords": [
-                    0,
-                    1
+                    -73.971747,
+                    40.7677165
                 ]
             },
             "images": [
@@ -299,8 +689,45 @@ const Helper = (function() {
                 "/marathonman/marathonman37.jpg",
                 "/marathonman/marathonman38.jpg"
             ],
-            "neighborhood": "Manhattan",
-            "comment": "The fence which run around the reservior has since been replaced by an iron railing fence."
+            "neighborhood": "Manhattan, Central Park",
+            "comment": "The fence which run around the reservior has since been replaced by an iron railing fence.",
+            "place_name": "Central Park Zoo, Central Park, New York, New York 10024, United States",
+            "Year": "1976",
+            "Rated": "R",
+            "Released": "08 Oct 1976",
+            "Runtime": "125 min",
+            "Genre": "Crime, Thriller",
+            "Director": "John Schlesinger",
+            "Writer": "William Goldman (screenplay), William Goldman (from: his novel)",
+            "Actors": "Dustin Hoffman, Laurence Olivier, Roy Scheider, William Devane",
+            "Plot": "A graduate history student is unwittingly caught in the middle of an international conspiracy involving stolen diamonds, an exiled Nazi war criminal, and a rogue government agent.",
+            "Language": "English, French, German, Spanish, Yiddish",
+            "Country": "USA",
+            "Awards": "Nominated for 1 Oscar. Another 4 wins & 9 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BZmEzYTg1YzktMWUwNy00ZmQ4LWJlYTItNjViOGMzNDJkODA4XkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "7.4/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "80%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "64/100"
+                }
+            ],
+            "Metascore": "64",
+            "imdbRating": "7.4",
+            "imdbVotes": "56,739",
+            "imdbID": "tt0074860",
+            "Type": "movie",
+            "DVD": "28 Aug 2001",
+            "BoxOffice": "N/A",
+            "Production": "Paramount Home Video",
+            "Website": "N/A"
         },
         {
             "title": "Buying the Cow",
@@ -310,8 +737,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "Main Street and Plymouth Street",
                 "coords": [
-                    0,
-                    1
+                    -73.9906309,
+                    40.7038903
                 ]
             },
             "images": [
@@ -321,8 +748,37 @@ const Helper = (function() {
                 "/buyingthecow/buyingthecow01.jpg",
                 "/buyingthecow/buyingthecow03.jpg"
             ],
-            "neighborhood": "Brooklyn",
-            "comment": "The exterior shot was filmed in Brooklyn on Main Street. The interior shots have yet to be identified."
+            "neighborhood": "Brooklyn, DUMBO",
+            "comment": "The exterior shot was filmed in Brooklyn on Main Street. The interior shots have yet to be identified.",
+            "place_name": "Main Street and Plymouth Street, Brooklyn, New York 11201, United States",
+            "Year": "2002",
+            "Rated": "R",
+            "Released": "08 Jun 2002",
+            "Runtime": "88 min",
+            "Genre": "Comedy, Romance",
+            "Director": "Walt Becker",
+            "Writer": "Walt Becker, Peter W. Nelson",
+            "Actors": "Jerry O'Connell, Bridgette Wilson-Sampras, Ryan Reynolds, Bill Bellamy",
+            "Plot": "A commitment-averse man frantically hits the dating scene after his girlfriend starts pressuring him to pop the question.",
+            "Language": "English",
+            "Country": "USA",
+            "Awards": "N/A",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BYTYyMWYzMWQtNTc5Yi00MDdlLTk0ZDAtYTM4ZTU5NDJhN2I3XkEyXkFqcGdeQXVyNzQzNzQxNzI@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "5.8/10"
+                }
+            ],
+            "Metascore": "N/A",
+            "imdbRating": "5.8",
+            "imdbVotes": "6,609",
+            "imdbID": "tt0218864",
+            "Type": "movie",
+            "DVD": "17 Dec 2002",
+            "BoxOffice": "N/A",
+            "Production": "Destination Films",
+            "Website": "N/A"
         },
         {
             "title": "Turk 182",
@@ -332,8 +788,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "Mayor's Office, 51 Chambers Street and Centre Street",
                 "coords": [
-                    0,
-                    1
+                    -73.98315,
+                    40.763836
                 ]
             },
             "images": [
@@ -342,8 +798,45 @@ const Helper = (function() {
                 "/turk182/turk182_01.jpg",
                 "/turk182/turk182_20.jpg"
             ],
-            "neighborhood": "Manhattan",
-            "comment": ""
+            "neighborhood": "Manhattan, Midtown",
+            "comment": "",
+            "place_name": "Mayor's Office of Film, 1697 Broadway, New York, New York 10019, United States",
+            "Year": "1985",
+            "Rated": "PG-13",
+            "Released": "15 Feb 1985",
+            "Runtime": "102 min",
+            "Genre": "Comedy, Drama",
+            "Director": "Bob Clark",
+            "Writer": "James Gregory Kingston (story by), James Gregory Kingston (screenplay by), Denis Hamill (screenplay by), John Hamill (screenplay by)",
+            "Actors": "Timothy Hutton, Robert Urich, Kim Cattrall, Robert Culp",
+            "Plot": "Jimmy Lynch is angry because his older brother, who was injured as a result of an off duty fire rescue, is denied benefits by the city.",
+            "Language": "English",
+            "Country": "USA",
+            "Awards": "2 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMmQwNWQ5MTEtNDM5Zi00M2NlLWIyODgtZGNhY2FhNjBhMzNjXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "5.9/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "20%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "23/100"
+                }
+            ],
+            "Metascore": "23",
+            "imdbRating": "5.9",
+            "imdbVotes": "3,406",
+            "imdbID": "tt0090217",
+            "Type": "movie",
+            "DVD": "13 Aug 2002",
+            "BoxOffice": "N/A",
+            "Production": "Anchor Bay Entertainment",
+            "Website": "N/A"
         },
         {
             "title": "Forgetting the Girl",
@@ -353,8 +846,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "10th Avenue and West 39th Street",
                 "coords": [
-                    0,
-                    1
+                    -73.9968472,
+                    40.7577413
                 ]
             },
             "images": [
@@ -364,8 +857,45 @@ const Helper = (function() {
                 "/forgettingthegirl/forgettingthegirl15.jpg",
                 "/forgettingthegirl/forgettingthegirl16.jpg"
             ],
-            "neighborhood": "Manhattan",
-            "comment": ""
+            "neighborhood": "Manhattan, Clinton",
+            "comment": "",
+            "place_name": "10th Avenue and West 39th Street, New York, New York 10018, United States",
+            "Year": "2012",
+            "Rated": "Not Rated",
+            "Released": "02 Mar 2012",
+            "Runtime": "85 min",
+            "Genre": "Drama, Thriller",
+            "Director": "Nate Taylor",
+            "Writer": "Peter Moore Smith (story and screenplay)",
+            "Actors": "Christopher Denham, Lindsay Beamish, Elizabeth Rice, Paul Sparks",
+            "Plot": "Haunted by a traumatic history, photographer Kevin Wolfe (Christopher Denham) struggles to systematically forget all his bad memories, but erasing his past threatens to consume his future. ...",
+            "Language": "English",
+            "Country": "USA",
+            "Awards": "2 wins & 1 nomination.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTU5Nzc5MDU3Ml5BMl5BanBnXkFtZTgwNzkyMDkyMDE@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "5.3/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "71%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "55/100"
+                }
+            ],
+            "Metascore": "55",
+            "imdbRating": "5.3",
+            "imdbVotes": "977",
+            "imdbID": "tt1492842",
+            "Type": "movie",
+            "DVD": "01 Apr 2014",
+            "BoxOffice": "N/A",
+            "Production": "Film Movement",
+            "Website": "N/A"
         },
         {
             "title": "Malcolm X",
@@ -375,8 +905,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "West 125th Street and 8th Avenue",
                 "coords": [
-                    0,
-                    1
+                    -73.9511777,
+                    40.8101762
                 ]
             },
             "images": [
@@ -387,8 +917,45 @@ const Helper = (function() {
                 "/malcolmx/malcolmx10.jpg",
                 "/malcolmx/malcolmx09.jpg"
             ],
-            "neighborhood": "Manhattan",
-            "comment": ""
+            "neighborhood": "Manhattan, Harlem",
+            "comment": "",
+            "place_name": "West 125th Street and 8th Avenue, New York, New York 10039, United States",
+            "Year": "1992",
+            "Rated": "PG-13",
+            "Released": "18 Nov 1992",
+            "Runtime": "202 min",
+            "Genre": "Biography, Drama, History",
+            "Director": "Spike Lee",
+            "Writer": "Alex Haley (book), Malcolm X (book), Arnold Perl (screenplay), Spike Lee (screenplay)",
+            "Actors": "Denzel Washington, Angela Bassett, Albert Hall, Al Freeman Jr.",
+            "Plot": "Biographical epic of the controversial and influential Black Nationalist leader, from his early life and career as a small-time gangster, to his ministry as a member of the Nation of Islam.",
+            "Language": "English",
+            "Country": "USA, Japan",
+            "Awards": "Nominated for 2 Oscars. Another 19 wins & 22 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BZDkzOTFmMTUtMmI2OS00MDE4LTg5YTUtODMwNDMzNmI5OGYwL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "7.7/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "88%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "73/100"
+                }
+            ],
+            "Metascore": "73",
+            "imdbRating": "7.7",
+            "imdbVotes": "83,236",
+            "imdbID": "tt0104797",
+            "Type": "movie",
+            "DVD": "18 Jan 2000",
+            "BoxOffice": "N/A",
+            "Production": "Warner Bros.",
+            "Website": "N/A"
         },
         {
             "title": "For Richer or Poorer",
@@ -398,8 +965,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "Sexton's Office, 180 Maiden Lane and Front Street",
                 "coords": [
-                    0,
-                    1
+                    -74.001789,
+                    40.715083
                 ]
             },
             "images": [
@@ -410,8 +977,41 @@ const Helper = (function() {
                 "/forricherorpoorer/forricherorpoorer38.jpg",
                 "/forricherorpoorer/forricherorpoorer44.jpg"
             ],
-            "neighborhood": "Manhattan",
-            "comment": ""
+            "neighborhood": "Manhattan, Lower East Side",
+            "comment": "",
+            "place_name": "Office of the City Clerk - Marriage Bureau, 141 Worth St, New York, New York 10013, United States",
+            "Year": "1997",
+            "Rated": "PG-13",
+            "Released": "12 Dec 1997",
+            "Runtime": "115 min",
+            "Genre": "Comedy",
+            "Director": "Bryan Spicer",
+            "Writer": "Jana Howington, Steve LuKanic",
+            "Actors": "Tim Allen, Kirstie Alley, Jay O. Sanders, Michael Lerner",
+            "Plot": "A real estate hustler and his wife hide from the IRS among the Amish.",
+            "Language": "English",
+            "Country": "USA",
+            "Awards": "1 nomination.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMGU0ODhmODEtZTJlOC00YjA3LThhYWItZjQ0Mzk3NDNhNzIwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "5.8/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "14%"
+                }
+            ],
+            "Metascore": "N/A",
+            "imdbRating": "5.8",
+            "imdbVotes": "9,915",
+            "imdbID": "tt0119142",
+            "Type": "movie",
+            "DVD": "05 May 1998",
+            "BoxOffice": "N/A",
+            "Production": "Universal Pictures",
+            "Website": "N/A"
         },
         {
             "title": "Big Business",
@@ -433,7 +1033,43 @@ const Helper = (function() {
                 "/bigbusiness/bigbusiness21.jpg"
             ],
             "neighborhood": "Manhattan",
-            "comment": ""
+            "comment": "",
+            "Year": "1988",
+            "Rated": "PG",
+            "Released": "10 Jun 1988",
+            "Runtime": "97 min",
+            "Genre": "Comedy",
+            "Director": "Jim Abrahams",
+            "Writer": "Dori Pierson, Marc Reid Rubel",
+            "Actors": "Bette Midler, Lily Tomlin, Fred Ward, Edward Herrmann",
+            "Plot": "Two couples of sisters from New York and from the countryside discover that they are connected in an incredible way.",
+            "Language": "English, Italian",
+            "Country": "USA",
+            "Awards": "1 win & 1 nomination.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BNGU2MmY2NWYtYTc1Yy00NzgzLTkwODMtYTQwYTA5MmJiZGM2XkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "6.5/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "44%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "53/100"
+                }
+            ],
+            "Metascore": "53",
+            "imdbRating": "6.5",
+            "imdbVotes": "11,895",
+            "imdbID": "tt0094739",
+            "Type": "movie",
+            "DVD": "13 Aug 2002",
+            "BoxOffice": "N/A",
+            "Production": "N/A",
+            "Website": "N/A"
         },
         {
             "title": "Something Borrowed",
@@ -443,8 +1079,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "Crimson Club, 915 Broadway and East 21st Street",
                 "coords": [
-                    0,
-                    1
+                    -73.66580675,
+                    40.58465725000001
                 ]
             },
             "images": [
@@ -455,8 +1091,45 @@ const Helper = (function() {
                 "/somethingborrowed/somethingborrowed01.jpg",
                 "/somethingborrowed/somethingborrowed40.jpg"
             ],
-            "neighborhood": "Manhattan",
-            "comment": ""
+            "neighborhood": "Manhattan, North Lynbrook",
+            "comment": "",
+            "place_name": "Long Beach, Long Beach, New York 11561, United States",
+            "Year": "2011",
+            "Rated": "PG-13",
+            "Released": "06 May 2011",
+            "Runtime": "112 min",
+            "Genre": "Comedy, Drama, Romance",
+            "Director": "Luke Greenfield",
+            "Writer": "Jennie Snyder Urman (screenplay), Emily Giffin (novel)",
+            "Actors": "Ginnifer Goodwin, Kate Hudson, Colin Egglesfield, John Krasinski",
+            "Plot": "Friendships are tested and secrets come to the surface when terminally single Rachel falls for Dex, her best friend Darcy's fiancé.",
+            "Language": "English",
+            "Country": "USA",
+            "Awards": "5 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BNzczNzMzODk0Nl5BMl5BanBnXkFtZTcwMjgwMjI0NA@@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "5.9/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "15%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "36/100"
+                }
+            ],
+            "Metascore": "36",
+            "imdbRating": "5.9",
+            "imdbVotes": "56,853",
+            "imdbID": "tt0491152",
+            "Type": "movie",
+            "DVD": "16 Aug 2011",
+            "BoxOffice": "$39,000,000",
+            "Production": "Warner Bros.",
+            "Website": "N/A"
         },
         {
             "title": "Purple Violets",
@@ -466,8 +1139,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "Brian's Apartment, 142 Duane Street and West Broadway",
                 "coords": [
-                    0,
-                    1
+                    -73.783095,
+                    40.649816
                 ]
             },
             "images": [
@@ -478,8 +1151,37 @@ const Helper = (function() {
                 "/purpleviolets/purpleviolets66.jpg",
                 "/purpleviolets/purpleviolets82.jpg"
             ],
-            "neighborhood": "Manhattan",
-            "comment": ""
+            "neighborhood": "Manhattan, John F. Kennedy International Airport",
+            "comment": "",
+            "place_name": "Apartment 7B Deli & Market, JFK Terminal 7, New York, New York 11430, United States",
+            "Year": "2007",
+            "Rated": "N/A",
+            "Released": "20 Feb 2009",
+            "Runtime": "103 min",
+            "Genre": "Comedy, Drama, Romance",
+            "Director": "Edward Burns",
+            "Writer": "Edward Burns",
+            "Actors": "Annette Arnold, Max Baker, Selma Blair, James Biberi",
+            "Plot": "Patti Petalson (Blair) struggles with the pressure of becoming the next important American writer.",
+            "Language": "English",
+            "Country": "USA",
+            "Awards": "1 win.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMjAwOTU3Nzk4MV5BMl5BanBnXkFtZTcwMzU2NzAzMg@@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "6.4/10"
+                }
+            ],
+            "Metascore": "N/A",
+            "imdbRating": "6.4",
+            "imdbVotes": "3,044",
+            "imdbID": "tt0491109",
+            "Type": "movie",
+            "DVD": "26 Aug 2008",
+            "BoxOffice": "N/A",
+            "Production": "Lucky Day Pictures",
+            "Website": "N/A"
         },
         {
             "title": "Nine 1/2 Weeks",
@@ -489,8 +1191,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "Mulberry Street",
                 "coords": [
-                    0,
-                    1
+                    -73.996992,
+                    40.720271
                 ]
             },
             "images": [
@@ -500,8 +1202,9 @@ const Helper = (function() {
                 "/nineandahalfweeks/nineweeks157.jpg",
                 "/nineandahalfweeks/nineweeks158.jpg"
             ],
-            "neighborhood": "Manhattan",
-            "comment": ""
+            "neighborhood": "Manhattan, Little Italy",
+            "comment": "",
+            "place_name": "Mulberry Street Bar, 176 1/2 Mulberry St, New York, New York 10013, United States"
         },
         {
             "title": "Die Hard: With a Vengeance",
@@ -511,8 +1214,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "William Street",
                 "coords": [
-                    0,
-                    1
+                    -74.007879,
+                    40.707328
                 ]
             },
             "images": [
@@ -524,8 +1227,9 @@ const Helper = (function() {
                 "/diehard3/diehardwithavengeance183.jpg",
                 "/diehard3/diehardwithavengeance189.jpg"
             ],
-            "neighborhood": "Manhattan",
-            "comment": "The park on top of the Wall Street station in the film was a vacant lot that was made into a park for the film. It was turned back into a vacant lot after filming was completed."
+            "neighborhood": "Manhattan, Financial District",
+            "comment": "The park on top of the Wall Street station in the film was a vacant lot that was made into a park for the film. It was turned back into a vacant lot after filming was completed.",
+            "place_name": "William Street Residence, 84 William St, New York, New York 10038, United States"
         },
         {
             "title": "Regarding Henry",
@@ -535,8 +1239,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "Capri Cinema, 738 8th Avenue",
                 "coords": [
-                    0,
-                    1
+                    -73.977113,
+                    40.7429855
                 ]
             },
             "images": [
@@ -546,8 +1250,45 @@ const Helper = (function() {
                 "/regardinghenry/regardinghenry34.jpg",
                 "/regardinghenry/regardinghenry33.jpg"
             ],
-            "neighborhood": "Manhattan",
-            "comment": ""
+            "neighborhood": "Manhattan, Gramercy",
+            "comment": "",
+            "place_name": "AMC Kips Bay 15, 570 2nd Ave, New York, New York 10016, United States",
+            "Year": "1991",
+            "Rated": "PG-13",
+            "Released": "10 Jul 1991",
+            "Runtime": "108 min",
+            "Genre": "Drama, Romance",
+            "Director": "Mike Nichols",
+            "Writer": "J.J. Abrams",
+            "Actors": "Harrison Ford, Annette Bening, Michael Haley, Stanley Swerdlow",
+            "Plot": "After being shot, a lawyer loses his memory and must relearn speech and mobility, but he has a loving family to support him.",
+            "Language": "English",
+            "Country": "USA",
+            "Awards": "1 win & 2 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMDU0YzM4MzAtZTNmNi00Yzc4LTliNTgtYzFmZmEzNmM4MmRmXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "6.7/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "41%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "47/100"
+                }
+            ],
+            "Metascore": "47",
+            "imdbRating": "6.7",
+            "imdbVotes": "28,716",
+            "imdbID": "tt0102768",
+            "Type": "movie",
+            "DVD": "09 Sep 2003",
+            "BoxOffice": "N/A",
+            "Production": "Paramount Home Video",
+            "Website": "N/A"
         },
         {
             "title": "Morning Glory",
@@ -557,8 +1298,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "5th Avenue and East 59th Street",
                 "coords": [
-                    0,
-                    1
+                    -73.9730126,
+                    40.7642791
                 ]
             },
             "images": [
@@ -569,8 +1310,45 @@ const Helper = (function() {
                 "/morningglory/morningglory79.jpg",
                 "/morningglory/morningglory66.jpg"
             ],
-            "neighborhood": "Manhattan",
-            "comment": ""
+            "neighborhood": "Manhattan, Midtown",
+            "comment": "",
+            "place_name": "5th Avenue and East 59th Street, New York, New York 10022, United States",
+            "Year": "2010",
+            "Rated": "PG-13",
+            "Released": "10 Nov 2010",
+            "Runtime": "107 min",
+            "Genre": "Comedy, Drama, Romance",
+            "Director": "Roger Michell",
+            "Writer": "Aline Brosh McKenna",
+            "Actors": "Rachel McAdams, Noah Bean, Jack Davidson, Vanessa Aspillaga",
+            "Plot": "An upstart television producer accepts the challenge of reviving a struggling morning show program with warring co-hosts.",
+            "Language": "English, Ukrainian",
+            "Country": "USA",
+            "Awards": "1 win & 3 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTYxNDM1NTQ4N15BMl5BanBnXkFtZTcwOTQ0Njg5Mw@@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "6.5/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "55%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "57/100"
+                }
+            ],
+            "Metascore": "57",
+            "imdbRating": "6.5",
+            "imdbVotes": "71,637",
+            "imdbID": "tt1126618",
+            "Type": "movie",
+            "DVD": "08 Mar 2011",
+            "BoxOffice": "$30,982,329",
+            "Production": "Paramount Studios",
+            "Website": "N/A"
         },
         {
             "title": "Bright Lights, Big City",
@@ -580,8 +1358,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "Laight Street and Greenwich Street",
                 "coords": [
-                    0,
-                    1
+                    -74.0097659,
+                    40.7221396
                 ]
             },
             "images": [
@@ -595,8 +1373,45 @@ const Helper = (function() {
                 "/brightlightsbigcity/brightlightsbigcity32.jpg",
                 "/brightlightsbigcity/brightlightsbigcity05.jpg"
             ],
-            "neighborhood": "Manhattan",
-            "comment": ""
+            "neighborhood": "Manhattan, Tribeca",
+            "comment": "",
+            "place_name": "Laight Street and Greenwich Street, New York, New York 10013, United States",
+            "Year": "1988",
+            "Rated": "R",
+            "Released": "01 Apr 1988",
+            "Runtime": "107 min",
+            "Genre": "Drama",
+            "Director": "James Bridges",
+            "Writer": "Jay McInerney (novel), Jay McInerney (screenplay)",
+            "Actors": "Michael J. Fox, Kiefer Sutherland, Phoebe Cates, Swoosie Kurtz",
+            "Plot": "A disillusioned young writer living in New York City turns to drugs and drinking to block out the memories of his dead mother and estranged wife.",
+            "Language": "English, French",
+            "Country": "USA",
+            "Awards": "2 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTU0NzI3MDExNl5BMl5BanBnXkFtZTcwNzU3NDcyNA@@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "5.7/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "60%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "51/100"
+                }
+            ],
+            "Metascore": "51",
+            "imdbRating": "5.7",
+            "imdbVotes": "7,241",
+            "imdbID": "tt0094799",
+            "Type": "movie",
+            "DVD": "05 Aug 2003",
+            "BoxOffice": "N/A",
+            "Production": "MGM Home Entertainment",
+            "Website": "N/A"
         },
         {
             "title": "Shame",
@@ -606,8 +1421,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "Broadway and West 31st Street",
                 "coords": [
-                    0,
-                    1
+                    -73.9883321,
+                    40.7475512
                 ]
             },
             "images": [
@@ -617,8 +1432,45 @@ const Helper = (function() {
                 "/shame/shame45.jpg",
                 "/shame/shame46.jpg"
             ],
-            "neighborhood": "Manhattan",
-            "comment": ""
+            "neighborhood": "Manhattan, Garment District",
+            "comment": "",
+            "place_name": "Broadway and West 31st Street, New York, New York 10001, United States",
+            "Year": "2011",
+            "Rated": "NC-17",
+            "Released": "13 Jan 2012",
+            "Runtime": "101 min",
+            "Genre": "Drama",
+            "Director": "Steve McQueen",
+            "Writer": "Steve McQueen, Abi Morgan, Harold Manning (french adaptation)",
+            "Actors": "Michael Fassbender, Lucy Walters, Mari-Ange Ramirez, James Badge Dale",
+            "Plot": "A sex addict's carefully cultivated private life falls apart after his sister arrives for an indefinite stay.",
+            "Language": "English",
+            "Country": "UK, Canada, USA",
+            "Awards": "Nominated for 1 Golden Globe. Another 51 wins & 91 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BOGU4Mjc0ZWMtNGQ0OS00ZWQ4LThkNDUtOTE1Y2EzYjgzMDU5XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "7.2/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "79%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "72/100"
+                }
+            ],
+            "Metascore": "72",
+            "imdbRating": "7.2",
+            "imdbVotes": "180,017",
+            "imdbID": "tt1723811",
+            "Type": "movie",
+            "DVD": "17 Apr 2012",
+            "BoxOffice": "$2,971,782",
+            "Production": "Fox Searchlight",
+            "Website": "N/A"
         },
         {
             "title": "The Dark Tower",
@@ -628,8 +1480,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "Dixie Pig, 135 Plymouth Street and Anchorage Place",
                 "coords": [
-                    0,
-                    1
+                    -73.984891,
+                    40.719275
                 ]
             },
             "images": [
@@ -639,8 +1491,45 @@ const Helper = (function() {
                 "/thedarktower/thedarktower85.jpg",
                 "/thedarktower/thedarktower89.jpg"
             ],
-            "neighborhood": "Brooklyn",
-            "comment": ""
+            "neighborhood": "Brooklyn, Lower East Side",
+            "comment": "",
+            "place_name": "Pig and Khao, 66 Clinton St, New York, New York 10002, United States",
+            "Year": "2017",
+            "Rated": "PG-13",
+            "Released": "04 Aug 2017",
+            "Runtime": "95 min",
+            "Genre": "Action, Adventure, Fantasy, Horror, Sci-Fi, Western",
+            "Director": "Nikolaj Arcel",
+            "Writer": "Akiva Goldsman (screenplay by), Jeff Pinkner (screenplay by), Anders Thomas Jensen (screenplay by), Nikolaj Arcel (screenplay by), Stephen King (based on \"The Dark Tower\" novels by)",
+            "Actors": "Matthew McConaughey, Idris Elba, Tom Taylor, Dennis Haysbert",
+            "Plot": "A boy haunted by visions of a dark tower from a parallel reality teams up with the tower's disillusioned guardian to stop an evil warlock known as the Man in Black who plans to use the boy to destroy the tower and open the gates of Hell.",
+            "Language": "English",
+            "Country": "USA",
+            "Awards": "4 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTU3MjUwMzQ3MF5BMl5BanBnXkFtZTgwMjcwNjkxMjI@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "5.6/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "16%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "34/100"
+                }
+            ],
+            "Metascore": "34",
+            "imdbRating": "5.6",
+            "imdbVotes": "123,195",
+            "imdbID": "tt1648190",
+            "Type": "movie",
+            "DVD": "31 Oct 2017",
+            "BoxOffice": "$50,644,837",
+            "Production": "Sony Pictures",
+            "Website": "N/A"
         },
         {
             "title": "One Fine Day",
@@ -650,8 +1539,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "6th Avenue and Bleecker Street",
                 "coords": [
-                    0,
-                    1
+                    -74.0021622,
+                    40.7297532
                 ]
             },
             "images": [
@@ -661,8 +1550,41 @@ const Helper = (function() {
                 "/onefineday/onefineday227.jpg",
                 "/onefineday/onefineday226.jpg"
             ],
-            "neighborhood": "Manhattan",
-            "comment": ""
+            "neighborhood": "Manhattan, Greenwich Village",
+            "comment": "",
+            "place_name": "6th Avenue and Bleecker Street, New York, New York 10014, United States",
+            "Year": "1996",
+            "Rated": "PG",
+            "Released": "20 Dec 1996",
+            "Runtime": "108 min",
+            "Genre": "Comedy, Drama, Romance",
+            "Director": "Michael Hoffman",
+            "Writer": "Terrel Seltzer, Ellen Simon",
+            "Actors": "Michelle Pfeiffer, George Clooney, Mae Whitman, Alex D. Linz",
+            "Plot": "The lives of two strangers and their young children unexpectedly intersect on one hectic, stressful day in New York City.",
+            "Language": "English, Spanish",
+            "Country": "USA",
+            "Awards": "Nominated for 1 Oscar. Another 4 wins & 5 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BNDdhMjgxODQtZjNhNS00YjZiLWFmYTAtODZmM2RhM2M3YmIwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "6.5/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "50%"
+                }
+            ],
+            "Metascore": "N/A",
+            "imdbRating": "6.5",
+            "imdbVotes": "42,560",
+            "imdbID": "tt0117247",
+            "Type": "movie",
+            "DVD": "08 Jan 2002",
+            "BoxOffice": "N/A",
+            "Production": "Twentieth Century Fox Home Entertainment",
+            "Website": "N/A"
         },
         {
             "title": "The Smurfs",
@@ -672,8 +1594,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "Times Square",
                 "coords": [
-                    0,
-                    1
+                    -73.983761,
+                    40.7624195
                 ]
             },
             "images": [
@@ -684,8 +1606,45 @@ const Helper = (function() {
                 "/thesmurfs/thesmurfs57.jpg",
                 "/thesmurfs/thesmurfs56.jpg"
             ],
-            "neighborhood": "Manhattan",
-            "comment": ""
+            "neighborhood": "Manhattan, Midtown",
+            "comment": "",
+            "place_name": "Times Square Church, 237 W 51st St, New York, New York 10019, United States",
+            "Year": "2011",
+            "Rated": "PG",
+            "Released": "29 Jul 2011",
+            "Runtime": "103 min",
+            "Genre": "Animation, Adventure, Comedy, Family, Fantasy",
+            "Director": "Raja Gosnell",
+            "Writer": "J. David Stem (screenplay by), David N. Weiss (screenplay by), Jay Scherick (screenplay by), David Ronn (screenplay by), J. David Stem (story by), David N. Weiss (story by), Peyo (based on characters created by)",
+            "Actors": "Hank Azaria, Neil Patrick Harris, Jayma Mays, Sofía Vergara",
+            "Plot": "When the evil wizard Gargamel chases the tiny blue Smurfs out of their village, they tumble from their magical world into New York City.",
+            "Language": "English",
+            "Country": "USA, Belgium, Canada",
+            "Awards": "2 wins & 8 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BNDUyMmFiYTctZDcyYS00OGY4LTk1ZmYtZjBmODBlZTc1NjU4XkEyXkFqcGdeQXVyNTk1MTAyODc@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "5.4/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "21%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "30/100"
+                }
+            ],
+            "Metascore": "30",
+            "imdbRating": "5.4",
+            "imdbVotes": "81,840",
+            "imdbID": "tt0472181",
+            "Type": "movie",
+            "DVD": "02 Dec 2011",
+            "BoxOffice": "$142,614,158",
+            "Production": "Sony Pictures Columbia",
+            "Website": "N/A"
         },
         {
             "title": "People I Know",
@@ -695,8 +1654,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "Eli Wurman's Apartment, 11 5th Avenue and West 8th Street",
                 "coords": [
-                    0,
-                    1
+                    -73.783095,
+                    40.649816
                 ]
             },
             "images": [
@@ -704,8 +1663,45 @@ const Helper = (function() {
                 "/peopleiknow/peopleiknow01.jpg",
                 "/peopleiknow/peopleiknow14.jpg"
             ],
-            "neighborhood": "Manhattan",
-            "comment": ""
+            "neighborhood": "Manhattan, John F. Kennedy International Airport",
+            "comment": "",
+            "place_name": "Apartment 7B Deli & Market, JFK Terminal 7, New York, New York 11430, United States",
+            "Year": "2002",
+            "Rated": "R",
+            "Released": "21 Nov 2002",
+            "Runtime": "100 min",
+            "Genre": "Crime, Drama",
+            "Director": "Daniel Algrant",
+            "Writer": "Jon Robin Baitz",
+            "Actors": "Al Pacino, Kim Basinger, Ryan O'Neal, Téa Leoni",
+            "Plot": "A New York press agent must scramble when his major client becomes embroiled in a huge scandal.",
+            "Language": "English",
+            "Country": "USA, Germany",
+            "Awards": "N/A",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BZjMzNjg4N2EtYmUwNi00NzMxLTkzZTQtNGZmMWYzMGY2NzE4XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "5.5/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "44%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "53/100"
+                }
+            ],
+            "Metascore": "53",
+            "imdbRating": "5.5",
+            "imdbVotes": "10,848",
+            "imdbID": "tt0274711",
+            "Type": "movie",
+            "DVD": "20 Jul 2004",
+            "BoxOffice": "N/A",
+            "Production": "Miramax Films",
+            "Website": "N/A"
         },
         {
             "title": "Broken English",
@@ -715,8 +1711,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "15 West 56th Street",
                 "coords": [
-                    0,
-                    1
+                    -73.975429,
+                    40.762808
                 ]
             },
             "images": [
@@ -725,8 +1721,45 @@ const Helper = (function() {
                 "/brokenenglish/brokenenglish01.jpg",
                 "/brokenenglish/brokenenglish10.jpg"
             ],
-            "neighborhood": "Manhattan",
-            "comment": ""
+            "neighborhood": "Manhattan, Midtown",
+            "comment": "",
+            "place_name": "15 West 56th Street, New York, New York 10019, United States",
+            "Year": "2007",
+            "Rated": "PG-13",
+            "Released": "16 Jul 2008",
+            "Runtime": "93 min",
+            "Genre": "Comedy, Drama, Romance",
+            "Director": "Zoe R. Cassavetes",
+            "Writer": "Zoe R. Cassavetes",
+            "Actors": "Parker Posey, Drea de Matteo, Tim Guinee, Gena Rowlands",
+            "Plot": "Nora Wilder is freaking out. Everyone around her is in a relationship, is married, or has children. Nora is in her thirties, alone with job she's outgrown and a mother who constantly ...",
+            "Language": "English, French",
+            "Country": "France, Japan, USA",
+            "Awards": "1 win & 6 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTA2NzMwNjIwMDJeQTJeQWpwZ15BbWU3MDMyNDgzNTE@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "6.3/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "64%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "61/100"
+                }
+            ],
+            "Metascore": "61",
+            "imdbRating": "6.3",
+            "imdbVotes": "6,029",
+            "imdbID": "tt0772157",
+            "Type": "movie",
+            "DVD": "21 Aug 2007",
+            "BoxOffice": "$818,674",
+            "Production": "Magnolia Pictures",
+            "Website": "N/A"
         },
         {
             "title": "Trading Places",
@@ -736,8 +1769,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "Greenwich Street",
                 "coords": [
-                    0,
-                    1
+                    -74.010019,
+                    40.720777
                 ]
             },
             "images": [
@@ -747,8 +1780,45 @@ const Helper = (function() {
                 "/tradingplaces/tradingplaces101.jpg",
                 "/tradingplaces/tradingplaces117.jpg"
             ],
-            "neighborhood": "Manhattan",
-            "comment": ""
+            "neighborhood": "Manhattan, Tribeca",
+            "comment": "",
+            "place_name": "Greenwich Street Tavern, 399 Greenwich St, New York, New York 10013, United States",
+            "Year": "1983",
+            "Rated": "R",
+            "Released": "08 Jun 1983",
+            "Runtime": "116 min",
+            "Genre": "Comedy",
+            "Director": "John Landis",
+            "Writer": "Timothy Harris, Herschel Weingrod",
+            "Actors": "Denholm Elliott, Dan Aykroyd, Maurice Woods, Richard D. Fisher Jr.",
+            "Plot": "A snobbish investor and a wily street con artist find their positions reversed as part of a bet by two callous millionaires.",
+            "Language": "English",
+            "Country": "USA",
+            "Awards": "Nominated for 1 Oscar. Another 3 wins & 4 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BYTEzMjBiMzktMjQyMS00YzBhLTgzNWQtNzA0NmEwMTNmMDQ2XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "7.5/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "87%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "69/100"
+                }
+            ],
+            "Metascore": "69",
+            "imdbRating": "7.5",
+            "imdbVotes": "131,595",
+            "imdbID": "tt0086465",
+            "Type": "movie",
+            "DVD": "24 Sep 2002",
+            "BoxOffice": "N/A",
+            "Production": "Paramount Pictures",
+            "Website": "N/A"
         },
         {
             "title": "Collateral Beauty",
@@ -758,8 +1828,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "West 58th Street and 5th Avenue",
                 "coords": [
-                    0,
-                    1
+                    -73.974111,
+                    40.7639334
                 ]
             },
             "images": [
@@ -769,8 +1839,45 @@ const Helper = (function() {
                 "/collateralbeauty/collateralbeauty200.jpg",
                 "/collateralbeauty/collateralbeauty201.jpg"
             ],
-            "neighborhood": "Manhattan.",
-            "comment": ""
+            "neighborhood": "Manhattan., Midtown",
+            "comment": "",
+            "place_name": "West 58th Street and 5th Avenue, New York, New York 10019, United States",
+            "Year": "2016",
+            "Rated": "PG-13",
+            "Released": "16 Dec 2016",
+            "Runtime": "97 min",
+            "Genre": "Drama, Romance",
+            "Director": "David Frankel",
+            "Writer": "Allan Loeb",
+            "Actors": "Will Smith, Edward Norton, Kate Winslet, Michael Peña",
+            "Plot": "Retreating from life after a tragedy, a man questions the universe by writing to Love, Time, and Death. Receiving unexpected answers, he begins to see how these things interlock and how even loss can reveal moments of meaning and beauty.",
+            "Language": "English",
+            "Country": "USA",
+            "Awards": "1 win & 6 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ5ODE4MTY2NV5BMl5BanBnXkFtZTgwMzM2NzEzMDI@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "6.8/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "14%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "23/100"
+                }
+            ],
+            "Metascore": "23",
+            "imdbRating": "6.8",
+            "imdbVotes": "88,744",
+            "imdbID": "tt4682786",
+            "Type": "movie",
+            "DVD": "14 Mar 2017",
+            "BoxOffice": "$30,982,955",
+            "Production": "New Line Cinema",
+            "Website": "N/A"
         },
         {
             "title": "Thanks for Sharing",
@@ -780,8 +1887,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "Lido Bar, 2168 Frederick Douglass Blvd & West 117th Street",
                 "coords": [
-                    0,
-                    1
+                    -73.644,
+                    40.6045
                 ]
             },
             "images": [
@@ -791,8 +1898,45 @@ const Helper = (function() {
                 "/thanksforsharing/thanksforsharing55.jpg",
                 "/thanksforsharing/thanksforsharing57.jpg"
             ],
-            "neighborhood": "Harlem",
-            "comment": ""
+            "neighborhood": "Harlem, New York",
+            "comment": "",
+            "place_name": "Barnum Island, New York, United States",
+            "Year": "2012",
+            "Rated": "R",
+            "Released": "14 Sep 2013",
+            "Runtime": "112 min",
+            "Genre": "Comedy, Drama, Romance",
+            "Director": "Stuart Blumberg",
+            "Writer": "Stuart Blumberg, Matt Winston",
+            "Actors": "Mark Ruffalo, Tim Robbins, Gwyneth Paltrow, Josh Gad",
+            "Plot": "A romantic comedy that brings together three disparate characters who are learning to face a challenging and often confusing world as they struggle together against a common demon: sex addiction.",
+            "Language": "English",
+            "Country": "USA",
+            "Awards": "2 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMjA5MzI3ODcxMF5BMl5BanBnXkFtZTcwODY5MTc4OQ@@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "6.4/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "51%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "54/100"
+                }
+            ],
+            "Metascore": "54",
+            "imdbRating": "6.4",
+            "imdbVotes": "26,183",
+            "imdbID": "tt1932718",
+            "Type": "movie",
+            "DVD": "07 Jan 2014",
+            "BoxOffice": "$752,929",
+            "Production": "Roadside Attractions",
+            "Website": "N/A"
         },
         {
             "title": "One Night Stand",
@@ -802,8 +1946,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "20 Exchange Place and William Street",
                 "coords": [
-                    0,
-                    1
+                    -74.033379,
+                    40.716323
                 ]
             },
             "images": [
@@ -814,8 +1958,41 @@ const Helper = (function() {
                 "/onenightstand/onenightstand15.jpg",
                 "/onenightstand/onenightstand24.jpg"
             ],
-            "neighborhood": "Manhattan",
-            "comment": ""
+            "neighborhood": "Manhattan, The Waterfront",
+            "comment": "",
+            "place_name": "20 Exchange Place, Jersey City, New Jersey 07302, United States",
+            "Year": "1997",
+            "Rated": "R",
+            "Released": "17 Sep 1997",
+            "Runtime": "102 min",
+            "Genre": "Drama, Romance",
+            "Director": "Mike Figgis",
+            "Writer": "Mike Figgis",
+            "Actors": "Wesley Snipes, Nastassja Kinski, Kyle MacLachlan, Ming-Na Wen",
+            "Plot": "Max/W.Snipes has a one night stand with Karen/N.Kinski in NYC. He returns to his wife, 2 kids and career in LA but is affected. A year later, Max and Karen meet again by chance, but this time they're with their spouses.",
+            "Language": "English",
+            "Country": "USA",
+            "Awards": "1 win & 3 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BNTUxZGM0ODMtMDk1OS00ZTlhLWEwZGYtMjM5MTg3NTE4MjE0XkEyXkFqcGdeQXVyNjMwMjk0MTQ@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "5.8/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "32%"
+                }
+            ],
+            "Metascore": "N/A",
+            "imdbRating": "5.8",
+            "imdbVotes": "6,366",
+            "imdbID": "tt0119832",
+            "Type": "movie",
+            "DVD": "31 Mar 1998",
+            "BoxOffice": "N/A",
+            "Production": "New Line Home Entertainment",
+            "Website": "N/A"
         },
         {
             "title": "Bride Wars",
@@ -825,8 +2002,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "Pulitzer Fountain, W 58th Street and Grand Army Plaza",
                 "coords": [
-                    0,
-                    1
+                    -73.97355975,
+                    40.76402325
                 ]
             },
             "images": [
@@ -834,8 +2011,45 @@ const Helper = (function() {
                 "/bridewars/bridewars05.jpg",
                 "/bridewars/bridewars06.jpg"
             ],
-            "neighborhood": "Manhattan",
-            "comment": ""
+            "neighborhood": "Manhattan, Midtown",
+            "comment": "",
+            "place_name": "Pulitzer Fountain, 58th Street & 5th Avenue, New York, New York 10019, United States",
+            "Year": "2009",
+            "Rated": "PG",
+            "Released": "09 Jan 2009",
+            "Runtime": "89 min",
+            "Genre": "Comedy, Romance",
+            "Director": "Gary Winick",
+            "Writer": "Greg DePaul (screenplay), Casey Wilson (screenplay), June Diane Raphael (screenplay), Greg DePaul (story)",
+            "Actors": "Kate Hudson, Anne Hathaway, Bryan Greenberg, Chris Pratt",
+            "Plot": "Two best friends become rivals when they schedule their respective weddings on the same day.",
+            "Language": "English",
+            "Country": "USA",
+            "Awards": "1 win & 8 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTUyNTg2OTUwN15BMl5BanBnXkFtZTgwNzEzMzg5MTI@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "5.5/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "11%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "24/100"
+                }
+            ],
+            "Metascore": "24",
+            "imdbRating": "5.5",
+            "imdbVotes": "98,772",
+            "imdbID": "tt0901476",
+            "Type": "movie",
+            "DVD": "28 Apr 2009",
+            "BoxOffice": "$58,637,818",
+            "Production": "20th Century Fox",
+            "Website": "N/A"
         },
         {
             "title": "Eraser",
@@ -845,8 +2059,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "Doyers Street and Pell Street, Chinatown",
                 "coords": [
-                    0,
-                    1
+                    -73.9980379,
+                    40.7148267
                 ]
             },
             "images": [
@@ -854,8 +2068,45 @@ const Helper = (function() {
                 "/eraser/eraser10.jpg",
                 "/eraser/eraser01.jpg"
             ],
-            "neighborhood": "Manhattan",
-            "comment": ""
+            "neighborhood": "Manhattan, Chinatown",
+            "comment": "",
+            "place_name": "Doyers Street and Pell Street, New York, New York 10013, United States",
+            "Year": "1996",
+            "Rated": "R",
+            "Released": "21 Jun 1996",
+            "Runtime": "115 min",
+            "Genre": "Action, Drama, Thriller",
+            "Director": "Chuck Russell",
+            "Writer": "Tony Puryear (story), Walon Green (story), Michael S. Chernuchin (story), Tony Puryear (screenplay), Walon Green (screenplay)",
+            "Actors": "Arnold Schwarzenegger, James Caan, Vanessa Williams, James Coburn",
+            "Plot": "A Witness Protection specialist becomes suspicious of his co-workers when dealing with a case involving high-tech weapons.",
+            "Language": "English",
+            "Country": "USA",
+            "Awards": "Nominated for 1 Oscar. Another 3 wins & 1 nomination.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BOTczMTNlN2UtMWE2NS00ZTUyLTgzYTQtYTFkNWIzODJkYzIwXkEyXkFqcGdeQXVyNDc2NjEyMw@@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "6.1/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "37%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "56/100"
+                }
+            ],
+            "Metascore": "56",
+            "imdbRating": "6.1",
+            "imdbVotes": "101,981",
+            "imdbID": "tt0116213",
+            "Type": "movie",
+            "DVD": "24 Nov 1998",
+            "BoxOffice": "N/A",
+            "Production": "Warner Home Video",
+            "Website": "N/A"
         },
         {
             "title": "The Bag Man",
@@ -865,8 +2116,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "Broadway and Chambers Street",
                 "coords": [
-                    0,
-                    1
+                    -74.0063041,
+                    40.7141733
                 ]
             },
             "images": [
@@ -877,8 +2128,45 @@ const Helper = (function() {
                 "/thebagman/thebagman01.jpg",
                 "/thebagman/thebagman06.jpg"
             ],
-            "neighborhood": "Manhattan",
-            "comment": ""
+            "neighborhood": "Manhattan, Tribeca",
+            "comment": "",
+            "place_name": "Broadway and Chambers Street, New York, New York 10007, United States",
+            "Year": "2014",
+            "Rated": "R",
+            "Released": "20 Mar 2014",
+            "Runtime": "108 min",
+            "Genre": "Action, Crime, Drama, Thriller",
+            "Director": "David Grovic",
+            "Writer": "David Grovic, Paul Conway, James Russo (original screenplay \"Motel\")",
+            "Actors": "John Cusack, Rebecca Da Costa, Robert De Niro, Crispin Glover",
+            "Plot": "A criminal bides his time at a seedy motel, waiting for his boss after killing several men and making away with a mystery bag.",
+            "Language": "English",
+            "Country": "Bahamas, USA",
+            "Awards": "N/A",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMjE4NDc3NjUyNl5BMl5BanBnXkFtZTgwMDA4MDQwMTE@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "5.2/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "11%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "28/100"
+                }
+            ],
+            "Metascore": "28",
+            "imdbRating": "5.2",
+            "imdbVotes": "15,970",
+            "imdbID": "tt2212008",
+            "Type": "movie",
+            "DVD": "01 Apr 2014",
+            "BoxOffice": "$48,817",
+            "Production": "Cinedigm Entertainment",
+            "Website": "N/A"
         },
         {
             "title": "The Sorcerer's Apprentice",
@@ -888,8 +2176,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "Alley, Franklin Place and White Street",
                 "coords": [
-                    0,
-                    1
+                    -73.758292,
+                    40.761303
                 ]
             },
             "images": [
@@ -898,8 +2186,45 @@ const Helper = (function() {
                 "/thesorcerersapprentice/thesorcerersapprentice53.jpg",
                 "/thesorcerersapprentice/thesorcerersapprentice59.jpg"
             ],
-            "neighborhood": "Manhattan",
-            "comment": ""
+            "neighborhood": "Manhattan, Bayside",
+            "comment": "",
+            "place_name": "Alley Pond Park, Springfield Boulevard, New York, New York 11361, United States",
+            "Year": "2010",
+            "Rated": "PG",
+            "Released": "14 Jul 2010",
+            "Runtime": "109 min",
+            "Genre": "Action, Adventure, Family, Fantasy",
+            "Director": "Jon Turteltaub",
+            "Writer": "Lawrence Konner (screen story), Mark Rosenthal (screen story), Matt Lopez (screen story), Matt Lopez (screenplay), Doug Miro (screenplay), Carlo Bernard (screenplay)",
+            "Actors": "Nicolas Cage, Jay Baruchel, Alfred Molina, Teresa Palmer",
+            "Plot": "Master sorcerer Balthazar Blake must find and train Merlin's descendant to defeat dark sorceress Morgana la Fée.",
+            "Language": "English, Cantonese, Ukrainian",
+            "Country": "USA",
+            "Awards": "1 win & 1 nomination.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BN2EwMzg3YWUtMTQyYS00ZDY3LTgzNTctOWI5NzY3MmZkOTk2XkEyXkFqcGdeQXVyNjE1OTQ0NjA@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "6.1/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "40%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "46/100"
+                }
+            ],
+            "Metascore": "46",
+            "imdbRating": "6.1",
+            "imdbVotes": "150,273",
+            "imdbID": "tt0963966",
+            "Type": "movie",
+            "DVD": "30 Nov 2010",
+            "BoxOffice": "$63,143,812",
+            "Production": "Walt Disney Studios",
+            "Website": "N/A"
         },
         {
             "title": "Demolition",
@@ -909,8 +2234,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "Office, 250 Greenwich Street and Barclay Street",
                 "coords": [
-                    0,
-                    1
+                    -74.001789,
+                    40.715083
                 ]
             },
             "images": [
@@ -920,8 +2245,45 @@ const Helper = (function() {
                 "/demolition/demolition23.jpg",
                 "/demolition/demolition24.jpg"
             ],
-            "neighborhood": "Manhattan",
-            "comment": ""
+            "neighborhood": "Manhattan, Lower East Side",
+            "comment": "",
+            "place_name": "Office of the City Clerk - Marriage Bureau, 141 Worth St, New York, New York 10013, United States",
+            "Year": "2015",
+            "Rated": "R",
+            "Released": "08 Apr 2016",
+            "Runtime": "101 min",
+            "Genre": "Action, Comedy, Drama",
+            "Director": "Jean-Marc Vallée",
+            "Writer": "Bryan Sipe",
+            "Actors": "Jake Gyllenhaal, Naomi Watts, Chris Cooper, Judah Lewis",
+            "Plot": "A successful investment banker struggles after losing his wife in a tragic car crash. With the help of a customer service rep and her young son, he starts to rebuild, beginning with the demolition of the life he once knew.",
+            "Language": "English",
+            "Country": "USA",
+            "Awards": "1 win & 2 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTg4Nzg1MTYxMl5BMl5BanBnXkFtZTgwMjUxNDMyODE@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "7.0/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "53%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "49/100"
+                }
+            ],
+            "Metascore": "49",
+            "imdbRating": "7.0",
+            "imdbVotes": "85,989",
+            "imdbID": "tt1172049",
+            "Type": "movie",
+            "DVD": "19 Jul 2016",
+            "BoxOffice": "$1,656,098",
+            "Production": "Fox Searchlight",
+            "Website": "N/A"
         },
         {
             "title": "The Wanderers",
@@ -931,8 +2293,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "Kingsbridge Terrace",
                 "coords": [
-                    0,
-                    1
+                    -73.9024998,
+                    40.8741415
                 ]
             },
             "images": [
@@ -942,8 +2304,45 @@ const Helper = (function() {
                 "/thewanderers/thewanderers02.jpg",
                 "/thewanderers/thewanderers03.jpg"
             ],
-            "neighborhood": "Bronx",
-            "comment": ""
+            "neighborhood": "Bronx, Kingsbridge",
+            "comment": "",
+            "place_name": "Kingsbridge Terrace, Bronx, New York 10463, United States",
+            "Year": "1979",
+            "Rated": "R",
+            "Released": "04 Jul 1979",
+            "Runtime": "112 min",
+            "Genre": "Drama",
+            "Director": "Philip Kaufman",
+            "Writer": "Richard Price (novel), Rose Kaufman (screenplay), Philip Kaufman (screenplay)",
+            "Actors": "Ken Wahl, John Friedrich, Karen Allen, Toni Kalem",
+            "Plot": "The Wanderers is a teenage, Italian gang in Bronx, NYC, 1963. They have their confrontations with other gangs. Drugs and weapons are uncool. Adult life awaits them.",
+            "Language": "English",
+            "Country": "USA",
+            "Awards": "1 nomination.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BZGY2MTUwZGYtOTI3MS00YTE4LWJiNTUtNzc5NmQ5ZDJiZGE1XkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "7.4/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "89%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "64/100"
+                }
+            ],
+            "Metascore": "64",
+            "imdbRating": "7.4",
+            "imdbVotes": "9,785",
+            "imdbID": "tt0080117",
+            "Type": "movie",
+            "DVD": "03 Sep 2002",
+            "BoxOffice": "$14,492",
+            "Production": "Warner Home Video",
+            "Website": "N/A"
         },
         {
             "title": "P.S. I Love You",
@@ -953,8 +2352,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "Holly and Gerry's Apartment, 254 Broome Street and Orchard Street",
                 "coords": [
-                    0,
-                    1
+                    -73.783095,
+                    40.649816
                 ]
             },
             "images": [
@@ -963,8 +2362,41 @@ const Helper = (function() {
                 "/psiloveyou/psiloveyou09.jpg",
                 "/psiloveyou/psiloveyou10.jpg"
             ],
-            "neighborhood": "Manhattan",
-            "comment": ""
+            "neighborhood": "Manhattan, John F. Kennedy International Airport",
+            "comment": "",
+            "place_name": "Apartment 7B Deli & Market, JFK Terminal 7, New York, New York 11430, United States",
+            "Year": "2007",
+            "Rated": "PG-13",
+            "Released": "21 Dec 2007",
+            "Runtime": "126 min",
+            "Genre": "Comedy, Drama, Romance",
+            "Director": "Richard LaGravenese",
+            "Writer": "Richard LaGravenese (screenplay), Steven Rogers (screenplay), Cecelia Ahern (novel)",
+            "Actors": "Hilary Swank, Gerard Butler, Lisa Kudrow, Gina Gershon",
+            "Plot": "A young widow discovers that her late husband has left her 10 messages intended to help ease her pain and start a new life.",
+            "Language": "English",
+            "Country": "USA",
+            "Awards": "2 wins & 4 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BNTg2MDg4MjI5NV5BMl5BanBnXkFtZTcwMzQ0MDczMw@@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "7.0/10"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "39/100"
+                }
+            ],
+            "Metascore": "39",
+            "imdbRating": "7.0",
+            "imdbVotes": "197,751",
+            "imdbID": "tt0431308",
+            "Type": "movie",
+            "DVD": "05 Feb 2008",
+            "BoxOffice": "N/A",
+            "Production": "N/A",
+            "Website": "N/A"
         },
         {
             "title": "Sharknado 2: The Second One",
@@ -974,8 +2406,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "Circle Line Ferry",
                 "coords": [
-                    0,
-                    1
+                    -73.6366111,
+                    40.7928197
                 ]
             },
             "images": [
@@ -985,8 +2417,41 @@ const Helper = (function() {
                 "/sharknado2/sharknado2_14.jpg",
                 "/sharknado2/sharknado2_15.jpg"
             ],
-            "neighborhood": "New York Harbour",
-            "comment": ""
+            "neighborhood": "New York Harbour, Searingtown",
+            "comment": "",
+            "place_name": "Circle Lane, Roslyn Heights, New York 11577, United States",
+            "Year": "2014",
+            "Rated": "TV-14",
+            "Released": "30 Jul 2014",
+            "Runtime": "95 min",
+            "Genre": "Action, Adventure, Comedy, Horror, Sci-Fi, Thriller",
+            "Director": "Anthony C. Ferrante",
+            "Writer": "Thunder Levin",
+            "Actors": "Ian Ziering, Tara Reid, Vivica A. Fox, Mark McGrath",
+            "Plot": "Fin and April are on their way to New York City, until a category seven hurricane spawns heavy rain, storm surges, and deadly Sharknadoes.",
+            "Language": "English",
+            "Country": "USA",
+            "Awards": "N/A",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMjA0MTIxMDEwNF5BMl5BanBnXkFtZTgwMDk3ODIxMjE@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "4.0/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "61%"
+                }
+            ],
+            "Metascore": "N/A",
+            "imdbRating": "4.0",
+            "imdbVotes": "17,564",
+            "imdbID": "tt3062074",
+            "Type": "movie",
+            "DVD": "07 Oct 2014",
+            "BoxOffice": "N/A",
+            "Production": "NCM Fathom",
+            "Website": "N/A"
         },
         {
             "title": "The House on 92nd Street",
@@ -1009,7 +2474,39 @@ const Helper = (function() {
                 "/thehouseon92ndstreet/thehouseon92ndstreet35.jpg"
             ],
             "neighborhood": "George Washington Bridge",
-            "comment": ""
+            "comment": "",
+            "Year": "1945",
+            "Rated": "Approved",
+            "Released": "16 Oct 1945",
+            "Runtime": "88 min",
+            "Genre": "Crime, Drama, Film-Noir, Mystery, Thriller, War",
+            "Director": "Henry Hathaway",
+            "Writer": "Barré Lyndon (screenplay), Charles G. Booth (screenplay), John Monks Jr. (screenplay), Charles G. Booth (story)",
+            "Actors": "William Eythe, Lloyd Nolan, Signe Hasso, Gene Lockhart",
+            "Plot": "Bill Dietrich becomes a double agent for the F.B.I. in a Nazi spy ring.",
+            "Language": "English, German",
+            "Country": "USA",
+            "Awards": "Won 1 Oscar. Another 1 win.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BZTRlNDI2MjUtNzdmOS00NTViLTlhM2MtMmNjZmUxZmEzZmU2XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "6.6/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "50%"
+                }
+            ],
+            "Metascore": "N/A",
+            "imdbRating": "6.6",
+            "imdbVotes": "2,581",
+            "imdbID": "tt0037795",
+            "Type": "movie",
+            "DVD": "06 Sep 2005",
+            "BoxOffice": "N/A",
+            "Production": "Twentieth Century Fox",
+            "Website": "N/A"
         },
         {
             "title": "Emanuelle and the Last Cannibals",
@@ -1019,8 +2516,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "Plymouth Street and Washington Street",
                 "coords": [
-                    0,
-                    1
+                    -73.9895378,
+                    40.703854
                 ]
             },
             "images": [
@@ -1030,8 +2527,37 @@ const Helper = (function() {
                 "/emanuelleandthelastcannibals/emanuelleandthelastcannibals34.jpg",
                 "/emanuelleandthelastcannibals/emanuelleandthelastcannibals35.jpg"
             ],
-            "neighborhood": "Brooklyn",
-            "comment": ""
+            "neighborhood": "Brooklyn, DUMBO",
+            "comment": "",
+            "place_name": "Plymouth Street and Washington Street, Brooklyn, New York 11201, United States",
+            "Year": "1977",
+            "Rated": "R",
+            "Released": "01 Jun 1984",
+            "Runtime": "91 min",
+            "Genre": "Adventure, Horror",
+            "Director": "Joe D'Amato",
+            "Writer": "Joe D'Amato (story), Romano Scandariato (script), Joe D'Amato (script)",
+            "Actors": "Laura Gemser, Gabriele Tinti, Nieves Navarro, Donald O'Brien",
+            "Plot": "Photojournalist Emanuelle accompanies an anthropologist, two female missionary workers and a treacherous hunter's party in a trek through the Amazon to find a cannibalistic tribe long thought extinct.",
+            "Language": "Italian",
+            "Country": "Italy",
+            "Awards": "N/A",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BYmQyNTM4NTctOWYwMC00ZjI1LTg2NWYtNGYyOWJlNzdmODdmXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "5.1/10"
+                }
+            ],
+            "Metascore": "N/A",
+            "imdbRating": "5.1",
+            "imdbVotes": "2,590",
+            "imdbID": "tt0075984",
+            "Type": "movie",
+            "DVD": "20 Jun 2006",
+            "BoxOffice": "N/A",
+            "Production": "N/A",
+            "Website": "N/A"
         },
         {
             "title": "Miracle on 34th Street",
@@ -1041,8 +2567,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "New York County Supreme Court, 60 Centre Street, Financial",
                 "coords": [
-                    0,
-                    1
+                    -73.989347,
+                    40.693598
                 ]
             },
             "images": [
@@ -1052,8 +2578,45 @@ const Helper = (function() {
                 "/miracleon34thstreet/miracleon34thstreet14.jpg",
                 "/miracleon34thstreet/miracleon34thstreet13.jpg"
             ],
-            "neighborhood": "Manhattan",
-            "comment": ""
+            "neighborhood": "Manhattan, Downtown",
+            "comment": "",
+            "place_name": "Kings County Supreme Court, 360 Adams St, New York, New York 11201, United States",
+            "Year": "1947",
+            "Rated": "Not Rated",
+            "Released": "02 Oct 1947",
+            "Runtime": "96 min",
+            "Genre": "Comedy, Drama, Family",
+            "Director": "George Seaton",
+            "Writer": "George Seaton (written for the screen by), Valentine Davies (story)",
+            "Actors": "Maureen O'Hara, John Payne, Edmund Gwenn, Gene Lockhart",
+            "Plot": "When a nice old man who claims to be Santa Claus is institutionalized as insane, a young lawyer decides to defend him by arguing in court that he is the real thing.",
+            "Language": "English, Dutch",
+            "Country": "USA",
+            "Awards": "Won 3 Oscars. Another 5 wins & 1 nomination.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BNjRkOGEwYTUtY2E5Yy00ODg4LTk2ZWItY2IyMzUxOGVhMTM1XkEyXkFqcGdeQXVyNDk0MDg4NDk@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "7.9/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "96%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "88/100"
+                }
+            ],
+            "Metascore": "88",
+            "imdbRating": "7.9",
+            "imdbVotes": "39,089",
+            "imdbID": "tt0039628",
+            "Type": "movie",
+            "DVD": "16 Oct 2001",
+            "BoxOffice": "N/A",
+            "Production": "20th Century Fox",
+            "Website": "N/A"
         },
         {
             "title": "Regarding Henry",
@@ -1063,8 +2626,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "5th Avenue and East 82nd Street",
                 "coords": [
-                    0,
-                    1
+                    -73.9623161,
+                    40.7789525
                 ]
             },
             "images": [
@@ -1075,8 +2638,45 @@ const Helper = (function() {
                 "/regardinghenry/regardinghenry30.jpg",
                 "/regardinghenry/regardinghenry35.jpg"
             ],
-            "neighborhood": "Manhattan",
-            "comment": ""
+            "neighborhood": "Manhattan, Upper East Side",
+            "comment": "",
+            "place_name": "5th Avenue and East 82nd Street, New York, New York 10028, United States",
+            "Year": "1991",
+            "Rated": "PG-13",
+            "Released": "10 Jul 1991",
+            "Runtime": "108 min",
+            "Genre": "Drama, Romance",
+            "Director": "Mike Nichols",
+            "Writer": "J.J. Abrams",
+            "Actors": "Harrison Ford, Annette Bening, Michael Haley, Stanley Swerdlow",
+            "Plot": "After being shot, a lawyer loses his memory and must relearn speech and mobility, but he has a loving family to support him.",
+            "Language": "English",
+            "Country": "USA",
+            "Awards": "1 win & 2 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMDU0YzM4MzAtZTNmNi00Yzc4LTliNTgtYzFmZmEzNmM4MmRmXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "6.7/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "41%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "47/100"
+                }
+            ],
+            "Metascore": "47",
+            "imdbRating": "6.7",
+            "imdbVotes": "28,716",
+            "imdbID": "tt0102768",
+            "Type": "movie",
+            "DVD": "09 Sep 2003",
+            "BoxOffice": "N/A",
+            "Production": "Paramount Home Video",
+            "Website": "N/A"
         },
         {
             "title": "I Am Legend",
@@ -1086,8 +2686,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "Park Avenue",
                 "coords": [
-                    0,
-                    1
+                    -73.97869,
+                    40.750212
                 ]
             },
             "images": [
@@ -1096,8 +2696,45 @@ const Helper = (function() {
                 "/iamlegend/iamlegend27.jpg",
                 "/iamlegend/iamlegend29.jpg"
             ],
-            "neighborhood": "Manhattan",
-            "comment": ""
+            "neighborhood": "Manhattan, Murray Hill",
+            "comment": "",
+            "place_name": "Park Avenue Tavern, 99 Park Ave, New York, New York 10016, United States",
+            "Year": "2007",
+            "Rated": "PG-13",
+            "Released": "14 Dec 2007",
+            "Runtime": "101 min",
+            "Genre": "Action, Adventure, Drama, Sci-Fi, Thriller",
+            "Director": "Francis Lawrence",
+            "Writer": "Mark Protosevich (screenplay), Akiva Goldsman (screenplay), Richard Matheson (novel), John William Corrington, Joyce Hooper Corrington",
+            "Actors": "Will Smith, Alice Braga, Charlie Tahan, Salli Richardson-Whitfield",
+            "Plot": "Years after a plague kills most of humanity and transforms the rest into monsters, the sole survivor in New York City struggles valiantly to find a cure in this post-apocalyptic action thriller.",
+            "Language": "English",
+            "Country": "USA",
+            "Awards": "9 wins & 22 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BYTE1ZTBlYzgtNmMyNS00ZTQ2LWE4NjEtZjUxNDJkNTg2MzlhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "7.2/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "68%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "65/100"
+                }
+            ],
+            "Metascore": "65",
+            "imdbRating": "7.2",
+            "imdbVotes": "674,957",
+            "imdbID": "tt0480249",
+            "Type": "movie",
+            "DVD": "18 Mar 2008",
+            "BoxOffice": "$256,399,999",
+            "Production": "Warner Bros. Pictures",
+            "Website": "N/A"
         },
         {
             "title": "Frankie and Johnny",
@@ -1107,8 +2744,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "Frankie's Apartment, 423 West 45th Street and 9th Avenue",
                 "coords": [
-                    0,
-                    1
+                    -73.783095,
+                    40.649816
                 ]
             },
             "images": [
@@ -1118,8 +2755,45 @@ const Helper = (function() {
                 "/frankieandjohnny/frankieandjohnny04.jpg",
                 "/frankieandjohnny/frankieandjohnny40.jpg"
             ],
-            "neighborhood": "Manhattan",
-            "comment": ""
+            "neighborhood": "Manhattan, John F. Kennedy International Airport",
+            "comment": "",
+            "place_name": "Apartment 7B Deli & Market, JFK Terminal 7, New York, New York 11430, United States",
+            "Year": "1991",
+            "Rated": "R",
+            "Released": "11 Oct 1991",
+            "Runtime": "118 min",
+            "Genre": "Comedy, Drama, Romance",
+            "Director": "Garry Marshall",
+            "Writer": "Terrence McNally (play), Terrence McNally (screenplay)",
+            "Actors": "Al Pacino, Michelle Pfeiffer, Hector Elizondo, Nathan Lane",
+            "Plot": "Johnny has just been released from prison, and gets a job in a café beside waitress Frankie. Frankie is a bit of a loner, but Johnny is determined their romance will blossom.",
+            "Language": "English",
+            "Country": "USA",
+            "Awards": "Nominated for 1 Golden Globe. Another 4 wins & 1 nomination.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMzA4Y2QyODMtNzBiYi00OGYwLTkxZjQtNjZmZGI3ZTc4NTk0XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "6.8/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "66%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "66/100"
+                }
+            ],
+            "Metascore": "66",
+            "imdbRating": "6.8",
+            "imdbVotes": "28,148",
+            "imdbID": "tt0101912",
+            "Type": "movie",
+            "DVD": "04 Dec 2001",
+            "BoxOffice": "N/A",
+            "Production": "Paramount Home Video",
+            "Website": "N/A"
         },
         {
             "title": "The Bourne Ultimatum",
@@ -1129,8 +2803,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "East 56th Street and Park Avenue",
                 "coords": [
-                    0,
-                    1
+                    -73.9711418,
+                    40.760902
                 ]
             },
             "images": [
@@ -1139,8 +2813,45 @@ const Helper = (function() {
                 "/thebourneultimatum/thebourneultimatum07.jpg",
                 "/thebourneultimatum/thebourneultimatum06.jpg"
             ],
-            "neighborhood": "Manhattan",
-            "comment": ""
+            "neighborhood": "Manhattan, Midtown",
+            "comment": "",
+            "place_name": "East 56th Street and Park Avenue, New York, New York 10457, United States",
+            "Year": "2007",
+            "Rated": "PG-13",
+            "Released": "03 Aug 2007",
+            "Runtime": "115 min",
+            "Genre": "Action, Mystery, Thriller",
+            "Director": "Paul Greengrass",
+            "Writer": "Tony Gilroy (screenplay), Scott Z. Burns (screenplay), George Nolfi (screenplay), Tony Gilroy (screen story), Robert Ludlum (novel)",
+            "Actors": "Matt Damon, Julia Stiles, David Strathairn, Scott Glenn",
+            "Plot": "Jason Bourne dodges a ruthless C.I.A. official and his Agents from a new assassination program while searching for the origins of his life as a trained killer.",
+            "Language": "English, French, Arabic, Russian, Spanish",
+            "Country": "USA, Germany, France, Spain",
+            "Awards": "Won 3 Oscars. Another 26 wins & 41 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BNGNiNmU2YTMtZmU4OS00MjM0LTlmYWUtMjVlYjAzYjE2N2RjXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "8.0/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "92%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "85/100"
+                }
+            ],
+            "Metascore": "85",
+            "imdbRating": "8.0",
+            "imdbVotes": "596,544",
+            "imdbID": "tt0440963",
+            "Type": "movie",
+            "DVD": "11 Dec 2007",
+            "BoxOffice": "$227,400,000",
+            "Production": "Universal Pictures",
+            "Website": "N/A"
         },
         {
             "title": "It Takes Two",
@@ -1150,8 +2861,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "Arden Elizabeth, 691 5th Avenue and East 54th Street",
                 "coords": [
-                    0,
-                    1
+                    -73.97588999999999,
+                    40.7600075
                 ]
             },
             "images": [
@@ -1162,8 +2873,45 @@ const Helper = (function() {
                 "/ittakestwo/ittakestwo22.jpg",
                 "/ittakestwo/ittakestwo25.jpg"
             ],
-            "neighborhood": "Manhattan",
-            "comment": ""
+            "neighborhood": "Manhattan, Midtown",
+            "comment": "",
+            "place_name": "Elizabeth Arden Red Door Spa, 663 5th Ave, New York, New York 10022, United States",
+            "Year": "1995",
+            "Rated": "PG",
+            "Released": "17 Nov 1995",
+            "Runtime": "101 min",
+            "Genre": "Comedy, Family, Romance",
+            "Director": "Andy Tennant",
+            "Writer": "Deborah Dean Davis",
+            "Actors": "Kirstie Alley, Steve Guttenberg, Mary-Kate Olsen, Ashley Olsen",
+            "Plot": "Alyssa and Amanda are two little girls who are identical, but complete strangers, that accidentally meet one day.",
+            "Language": "English",
+            "Country": "USA",
+            "Awards": "1 win & 3 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMzdhMGU0MzEtZjg1Ny00YzE5LWE0MGQtMTNiN2UwN2I5ZDBjXkEyXkFqcGdeQXVyNTgzMzU5MDI@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "5.9/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "8%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "45/100"
+                }
+            ],
+            "Metascore": "45",
+            "imdbRating": "5.9",
+            "imdbVotes": "20,207",
+            "imdbID": "tt0113442",
+            "Type": "movie",
+            "DVD": "11 Jun 2002",
+            "BoxOffice": "N/A",
+            "Production": "Warner Home Video",
+            "Website": "N/A"
         },
         {
             "title": "A Late Quartet",
@@ -1173,8 +2921,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "East 7th Street",
                 "coords": [
-                    0,
-                    1
+                    -73.8235981,
+                    40.8992375
                 ]
             },
             "images": [
@@ -1185,8 +2933,45 @@ const Helper = (function() {
                 "/alatequartet/alatequartet26.jpg",
                 "/alatequartet/alatequartet29.jpg"
             ],
-            "neighborhood": "Manhattan",
-            "comment": ""
+            "neighborhood": "Manhattan, Mount Vernon",
+            "comment": "",
+            "place_name": "East 7th Street, Mount Vernon, New York 10550, United States",
+            "Year": "2012",
+            "Rated": "R",
+            "Released": "23 Nov 2012",
+            "Runtime": "105 min",
+            "Genre": "Drama, Music",
+            "Director": "Yaron Zilberman",
+            "Writer": "Seth Grossman (screenplay), Yaron Zilberman (screenplay), Yaron Zilberman (story)",
+            "Actors": "Catherine Keener, Christopher Walken, Philip Seymour Hoffman, Mark Ivanir",
+            "Plot": "Members of a world-renowned string quartet struggle to stay together in the face of death, competing egos and insuppressible lust.",
+            "Language": "English",
+            "Country": "USA",
+            "Awards": "2 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTM3MDc3MzIzNV5BMl5BanBnXkFtZTcwNjkwNTU0OA@@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "7.1/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "76%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "67/100"
+                }
+            ],
+            "Metascore": "67",
+            "imdbRating": "7.1",
+            "imdbVotes": "13,641",
+            "imdbID": "tt1226240",
+            "Type": "movie",
+            "DVD": "05 Feb 2013",
+            "BoxOffice": "$1,400,000",
+            "Production": "Entertainment One",
+            "Website": "N/A"
         },
         {
             "title": "Deep Impact",
@@ -1196,8 +2981,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "Battery Park and the Financial District",
                 "coords": [
-                    0,
-                    1
+                    -74.0176534,
+                    40.7063675
                 ]
             },
             "images": [
@@ -1206,8 +2991,45 @@ const Helper = (function() {
                 "/deepimpact/deepimpact14.jpg",
                 "/deepimpact/deepimpact05.jpg"
             ],
-            "neighborhood": "Manhattan",
-            "comment": ""
+            "neighborhood": "Manhattan, Battery Park",
+            "comment": "",
+            "place_name": "Battery Place, New York, New York 10280, United States",
+            "Year": "1998",
+            "Rated": "PG-13",
+            "Released": "08 May 1998",
+            "Runtime": "120 min",
+            "Genre": "Action, Drama, Romance, Sci-Fi, Thriller",
+            "Director": "Mimi Leder",
+            "Writer": "Bruce Joel Rubin, Michael Tolkin",
+            "Actors": "Robert Duvall, Téa Leoni, Elijah Wood, Vanessa Redgrave",
+            "Plot": "A comet is discovered to be on a collision course with Earth. As doomsday nears, the human race prepares for the worst.",
+            "Language": "English",
+            "Country": "USA",
+            "Awards": "5 wins & 14 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BYTUwMTY1YmMtN2U5NC00YjkzLTg0YWQtZmEwNTEzZjdkNzQ2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "6.2/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "45%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "40/100"
+                }
+            ],
+            "Metascore": "40",
+            "imdbRating": "6.2",
+            "imdbVotes": "159,041",
+            "imdbID": "tt0120647",
+            "Type": "movie",
+            "DVD": "15 Dec 1998",
+            "BoxOffice": "N/A",
+            "Production": "Paramount Pictures",
+            "Website": "N/A"
         },
         {
             "title": "Exposed",
@@ -1217,8 +3039,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "West 173rd Street and Wadsworth Avenue",
                 "coords": [
-                    0,
-                    1
+                    -73.9387288,
+                    40.8446487
                 ]
             },
             "images": [
@@ -1227,8 +3049,45 @@ const Helper = (function() {
                 "/exposed2016/exposed50.jpg",
                 "/exposed2016/exposed34.jpg"
             ],
-            "neighborhood": "Washington Heights",
-            "comment": ""
+            "neighborhood": "Washington Heights, Washington Heights",
+            "comment": "",
+            "place_name": "West 173rd Street and Wadsworth Avenue, New York, New York 10033, United States",
+            "Year": "2016",
+            "Rated": "R",
+            "Released": "22 Jan 2016",
+            "Runtime": "102 min",
+            "Genre": "Crime, Drama, Mystery, Thriller",
+            "Director": "Gee Malik Linton",
+            "Writer": "Gee Malik Linton (screenplay)",
+            "Actors": "Ana de Armas, Gabe Vargas, Sandy Tejada, Ariel Pacheco",
+            "Plot": "A police detective investigates the truth behind his partner's death. The mysterious case reveals disturbing police corruption and a dangerous secret involving an unlikely young woman.",
+            "Language": "English, Spanish",
+            "Country": "USA",
+            "Awards": "N/A",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMjAwMzk1MDI1OF5BMl5BanBnXkFtZTgwMDYxODkzNzE@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "4.3/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "8%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "23/100"
+                }
+            ],
+            "Metascore": "23",
+            "imdbRating": "4.3",
+            "imdbVotes": "13,407",
+            "imdbID": "tt4019560",
+            "Type": "movie",
+            "DVD": "29 Mar 2016",
+            "BoxOffice": "N/A",
+            "Production": "Lionsgate Premiere",
+            "Website": "N/A"
         },
         {
             "title": "Side Street",
@@ -1238,8 +3097,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "Beauty Salon, 29 West 8th Street",
                 "coords": [
-                    0,
-                    1
+                    -73.855495,
+                    40.688049
                 ]
             },
             "images": [
@@ -1249,8 +3108,41 @@ const Helper = (function() {
                 "/sidestreet/sidestreet62.jpg",
                 "/sidestreet/sidestreet63.jpg"
             ],
-            "neighborhood": "Manhattan",
-            "comment": ""
+            "neighborhood": "Manhattan, Woodhaven",
+            "comment": "",
+            "place_name": "El Beauty Salon Ferreira, 8702 91st Ave, New York, New York 11421, United States",
+            "Year": "1950",
+            "Rated": "Passed",
+            "Released": "22 Apr 1950",
+            "Runtime": "83 min",
+            "Genre": "Crime, Drama, Film-Noir, Thriller",
+            "Director": "Anthony Mann",
+            "Writer": "Sydney Boehm (story), Sydney Boehm (screenplay)",
+            "Actors": "Farley Granger, Cathy O'Donnell, James Craig, Paul Kelly",
+            "Plot": "A struggling young father-to-be gives in to temptation and impulsively steals money from the office of a shady lawyer - with catastrophic consequences.",
+            "Language": "English, Turkish",
+            "Country": "USA",
+            "Awards": "N/A",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BNmRhNGM0YWYtMjZhMy00YTNiLWFhMTgtYjZlNGI5YjljYzlhXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "7.1/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "83%"
+                }
+            ],
+            "Metascore": "N/A",
+            "imdbRating": "7.1",
+            "imdbVotes": "2,337",
+            "imdbID": "tt0042960",
+            "Type": "movie",
+            "DVD": "N/A",
+            "BoxOffice": "N/A",
+            "Production": "MGM",
+            "Website": "N/A"
         },
         {
             "title": "They All Laughed",
@@ -1260,8 +3152,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "2nd Avenue and East 20th Street",
                 "coords": [
-                    0,
-                    1
+                    -73.982267,
+                    40.73602
                 ]
             },
             "images": [
@@ -1272,8 +3164,41 @@ const Helper = (function() {
                 "/theyalllaughed/theyalllaughed66.jpg",
                 "/theyalllaughed/theyalllaughed67.jpg"
             ],
-            "neighborhood": "Manhattan",
-            "comment": ""
+            "neighborhood": "Manhattan, Gramercy",
+            "comment": "",
+            "place_name": "2nd Avenue and East 20th Street, New York, New York 10003, United States",
+            "Year": "1981",
+            "Rated": "PG",
+            "Released": "05 Mar 1982",
+            "Runtime": "115 min",
+            "Genre": "Comedy, Romance",
+            "Director": "Peter Bogdanovich",
+            "Writer": "Peter Bogdanovich, Blaine Novak",
+            "Actors": "Audrey Hepburn, Ben Gazzara, Patti Hansen, John Ritter",
+            "Plot": "A mad cap private-eye caper about a team of detectives who are following, and are being followed by, a group of beautiful women.",
+            "Language": "English",
+            "Country": "USA",
+            "Awards": "1 win & 1 nomination.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BYTM3MjZhOTQtZjIxNi00OTUxLWJkOTgtMmM0YTFiZGM5Y2Y0XkEyXkFqcGdeQXVyMjA0MDQ0Mjc@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "6.4/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "44%"
+                }
+            ],
+            "Metascore": "N/A",
+            "imdbRating": "6.4",
+            "imdbVotes": "2,086",
+            "imdbID": "tt0083189",
+            "Type": "movie",
+            "DVD": "17 Oct 2006",
+            "BoxOffice": "N/A",
+            "Production": "20th Century Fox Film Corporation",
+            "Website": "N/A"
         },
         {
             "title": "Who's That Girl",
@@ -1283,8 +3208,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "Brooklyn Bridge Park Pier 2",
                 "coords": [
-                    0,
-                    1
+                    -73.9982015,
+                    40.699518999999995
                 ]
             },
             "images": [
@@ -1293,8 +3218,45 @@ const Helper = (function() {
                 "/whosthatgirl/whosthatgirl300.jpg",
                 "/whosthatgirl/whosthatgirl385.jpg"
             ],
-            "neighborhood": "Brooklyn",
-            "comment": ""
+            "neighborhood": "Brooklyn, Brooklyn Heights",
+            "comment": "",
+            "place_name": "Brooklyn Bridge Park - Pier 2, Furman St, New York, New York 10004, United States",
+            "Year": "1987",
+            "Rated": "PG",
+            "Released": "07 Aug 1987",
+            "Runtime": "92 min",
+            "Genre": "Comedy, Music, Romance",
+            "Director": "James Foley",
+            "Writer": "Andrew Smith (story), Andrew Smith (screenplay), Ken Finkleman (screenplay)",
+            "Actors": "Madonna, Griffin Dunne, Haviland Morris, John McMartin",
+            "Plot": "The life of an uptight tax lawyer turns chaotic when he is asked to escort a young woman newly released from prison, who persuades him to help prove her innocence.",
+            "Language": "English",
+            "Country": "USA",
+            "Awards": "Nominated for 1 Golden Globe. Another 2 wins & 6 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BN2EwMDJiNjEtNWIzZS00MDRlLTkwNTItNDllMDg1NDBiNjQ0XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "4.8/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "38%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "27/100"
+                }
+            ],
+            "Metascore": "27",
+            "imdbRating": "4.8",
+            "imdbVotes": "9,320",
+            "imdbID": "tt0094321",
+            "Type": "movie",
+            "DVD": "14 Feb 2006",
+            "BoxOffice": "N/A",
+            "Production": "Warner Bros. Pictures",
+            "Website": "N/A"
         },
         {
             "title": "Return to Montauk",
@@ -1304,8 +3266,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "Apartment, 23 Henry Street",
                 "coords": [
-                    0,
-                    1
+                    -73.783095,
+                    40.649816
                 ]
             },
             "images": [
@@ -1315,8 +3277,41 @@ const Helper = (function() {
                 "/returntomontauk/returntomontauk59.jpg",
                 "/returntomontauk/returntomontauk61.jpg"
             ],
-            "neighborhood": "Manhattan",
-            "comment": ""
+            "neighborhood": "Manhattan, John F. Kennedy International Airport",
+            "comment": "",
+            "place_name": "Apartment 7B Deli & Market, JFK Terminal 7, New York, New York 11430, United States",
+            "Year": "2017",
+            "Rated": "PG-13",
+            "Released": "11 May 2017",
+            "Runtime": "106 min",
+            "Genre": "Drama, Romance",
+            "Director": "Volker Schlöndorff",
+            "Writer": "Colm Tóibín (screenplay), Volker Schlöndorff (screenplay)",
+            "Actors": "Stellan Skarsgård, Bronagh Gallagher, Nina Hoss, Niels Arestrup",
+            "Plot": "The author Max Zorn, now in his early 60s, is on a promotional book tour in New York when he meets up again with the woman he could never forget. They spend a weekend together. 17 years have passed. Can there be a future for their past?",
+            "Language": "English, German, French",
+            "Country": "Germany, Ireland, France",
+            "Awards": "3 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BNjFmMjQ2MTctYmNjNy00YWYxLWEzYTYtOTZjODY2OThmMmNhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "5.9/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "50%"
+                }
+            ],
+            "Metascore": "N/A",
+            "imdbRating": "5.9",
+            "imdbVotes": "996",
+            "imdbID": "tt5247776",
+            "Type": "movie",
+            "DVD": "N/A",
+            "BoxOffice": "N/A",
+            "Production": "N/A",
+            "Website": "N/A"
         },
         {
             "title": "Self/less",
@@ -1339,7 +3334,43 @@ const Helper = (function() {
                 "/selfless/selfless14.jpg"
             ],
             "neighborhood": "New Orleans",
-            "comment": ""
+            "comment": "",
+            "Year": "2015",
+            "Rated": "PG-13",
+            "Released": "10 Jul 2015",
+            "Runtime": "117 min",
+            "Genre": "Action, Mystery, Sci-Fi, Thriller",
+            "Director": "Tarsem Singh",
+            "Writer": "Àlex Pastor, David Pastor",
+            "Actors": "Ryan Reynolds, Natalie Martinez, Matthew Goode, Ben Kingsley",
+            "Plot": "A dying real estate mogul transfers his consciousness into a healthy young body, but soon finds that neither the procedure nor the company that performed it are quite what they seem.",
+            "Language": "English",
+            "Country": "USA",
+            "Awards": "N/A",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTU0MTQzNzAxMl5BMl5BanBnXkFtZTgwNjg4MjcxNjE@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "6.5/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "19%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "34/100"
+                }
+            ],
+            "Metascore": "34",
+            "imdbRating": "6.5",
+            "imdbVotes": "87,842",
+            "imdbID": "tt2140379",
+            "Type": "movie",
+            "DVD": "10 Nov 2015",
+            "BoxOffice": "N/A",
+            "Production": "Focus Features",
+            "Website": "N/A"
         },
         {
             "title": "Heavy Petting",
@@ -1349,8 +3380,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "Pet Shop, 192 5th Avenue and Sackett Street",
                 "coords": [
-                    0,
-                    1
+                    -74.045984,
+                    40.721464
                 ]
             },
             "images": [
@@ -1359,8 +3390,37 @@ const Helper = (function() {
                 "/heavypetting/heavypetting01.jpg",
                 "/heavypetting/heavypetting04.jpg"
             ],
-            "neighborhood": "Brooklyn",
-            "comment": ""
+            "neighborhood": "Brooklyn, Downtown",
+            "comment": "",
+            "place_name": "The Pet Shop, 193 Newark Ave, Jersey City, New Jersey 07302, United States",
+            "Year": "2007",
+            "Rated": "R",
+            "Released": "15 Jul 2008",
+            "Runtime": "94 min",
+            "Genre": "Comedy",
+            "Director": "Marcel Sarmiento",
+            "Writer": "Marcel Sarmiento",
+            "Actors": "Malin Akerman, Brendan Hines, Mike Doyle, Juan Carlos Hernández",
+            "Plot": "When Charlie meets Daphne - the girl of his dreams - he never expects he'll have to battle past her pet dog \"Babydoll\" to woo her. And just when it seems he can't beat the beast and all is ...",
+            "Language": "English",
+            "Country": "USA",
+            "Awards": "N/A",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTI5Mjk0MzExOF5BMl5BanBnXkFtZTcwODUwMDU1MQ@@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "4.5/10"
+                }
+            ],
+            "Metascore": "N/A",
+            "imdbRating": "4.5",
+            "imdbVotes": "1,031",
+            "imdbID": "tt0491211",
+            "Type": "movie",
+            "DVD": "15 Jul 2008",
+            "BoxOffice": "N/A",
+            "Production": "Docurama",
+            "Website": "N/A"
         },
         {
             "title": "Purple Violets",
@@ -1370,8 +3430,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "Queensboro Bridge, East 59th Street",
                 "coords": [
-                    0,
-                    1
+                    -73.950445,
+                    40.755201
                 ]
             },
             "images": [
@@ -1380,8 +3440,37 @@ const Helper = (function() {
                 "/purpleviolets/purpleviolets69.jpg",
                 "/purpleviolets/purpleviolets70.jpg"
             ],
-            "neighborhood": "New York",
-            "comment": ""
+            "neighborhood": "New York, Hunters Point",
+            "comment": "",
+            "place_name": "Queensboro Bridge Pedestrian & Bike Path, Queensboro Bridge, New York, New York 11101, United States",
+            "Year": "2007",
+            "Rated": "N/A",
+            "Released": "20 Feb 2009",
+            "Runtime": "103 min",
+            "Genre": "Comedy, Drama, Romance",
+            "Director": "Edward Burns",
+            "Writer": "Edward Burns",
+            "Actors": "Annette Arnold, Max Baker, Selma Blair, James Biberi",
+            "Plot": "Patti Petalson (Blair) struggles with the pressure of becoming the next important American writer.",
+            "Language": "English",
+            "Country": "USA",
+            "Awards": "1 win.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMjAwOTU3Nzk4MV5BMl5BanBnXkFtZTcwMzU2NzAzMg@@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "6.4/10"
+                }
+            ],
+            "Metascore": "N/A",
+            "imdbRating": "6.4",
+            "imdbVotes": "3,044",
+            "imdbID": "tt0491109",
+            "Type": "movie",
+            "DVD": "26 Aug 2008",
+            "BoxOffice": "N/A",
+            "Production": "Lucky Day Pictures",
+            "Website": "N/A"
         },
         {
             "title": "My Last Day Without You",
@@ -1391,8 +3480,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "One Battery Park Plaza, State Street and Bridge Street",
                 "coords": [
-                    0,
-                    1
+                    -74.014183,
+                    40.70337
                 ]
             },
             "images": [
@@ -1401,8 +3490,37 @@ const Helper = (function() {
                 "/mylastdaywithoutyou/mylastdaywithoutyou01.jpg",
                 "/mylastdaywithoutyou/mylastdaywithoutyou22.jpg"
             ],
-            "neighborhood": "Manhattan",
-            "comment": ""
+            "neighborhood": "Manhattan, Financial District",
+            "comment": "",
+            "place_name": "One Battery Park Plaza, 24 Whitehall St, New York, New York 10004, United States",
+            "Year": "2011",
+            "Rated": "TV-MA",
+            "Released": "04 Oct 2013",
+            "Runtime": "90 min",
+            "Genre": "Comedy, Drama, Romance",
+            "Director": "Stefan C. Schaefer",
+            "Writer": "Stefan C. Schaefer, Chris Silber",
+            "Actors": "Nicole Beharie, Reg E. Cathey, Marlene Forte, Robert Clohessy",
+            "Plot": "On a one-day business trip to New York, a young German business executive falls in love with a singer-songwriter who exposes him to her Brooklyn world and emotions he's never experienced before.",
+            "Language": "English",
+            "Country": "USA",
+            "Awards": "3 wins & 2 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTc4ODM5MDM0Nl5BMl5BanBnXkFtZTgwMzg0NjkxMDE@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "5.6/10"
+                }
+            ],
+            "Metascore": "N/A",
+            "imdbRating": "5.6",
+            "imdbVotes": "1,185",
+            "imdbID": "tt1679248",
+            "Type": "movie",
+            "DVD": "18 Nov 2014",
+            "BoxOffice": "N/A",
+            "Production": "Novus Content and Mission Pictures",
+            "Website": "N/A"
         },
         {
             "title": "New York Minute",
@@ -1412,8 +3530,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "The Plaza Hotel, 750 5th Avenue and Central Park South",
                 "coords": [
-                    0,
-                    1
+                    -73.974466,
+                    40.764523499999996
                 ]
             },
             "images": [
@@ -1423,8 +3541,45 @@ const Helper = (function() {
                 "/newyorkminute/newyorkminute206.jpg",
                 "/newyorkminute/newyorkminute207.jpg"
             ],
-            "neighborhood": "Manhattan",
-            "comment": ""
+            "neighborhood": "Manhattan, Midtown",
+            "comment": "",
+            "place_name": "The Plaza Hotel, 768 5th Ave, New York, New York 10019, United States",
+            "Year": "2004",
+            "Rated": "PG",
+            "Released": "07 May 2004",
+            "Runtime": "91 min",
+            "Genre": "Comedy, Crime, Family, Romance",
+            "Director": "Dennie Gordon",
+            "Writer": "Emily Fox (story), Emily Fox (screenplay), Adam Cooper (screenplay), Bill Collage (screenplay)",
+            "Actors": "Ashley Olsen, Mary-Kate Olsen, Eugene Levy, Andy Richter",
+            "Plot": "One day in New York City, Jane Ryan tries out for an overseas college program, her twin sister Roxy schemes to meet her favorite punk rockers, and a series of mishaps throws their day into ...",
+            "Language": "English",
+            "Country": "USA",
+            "Awards": "6 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTI2Mjc0OTc0MV5BMl5BanBnXkFtZTcwMjM4MzUyMQ@@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "5.0/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "11%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "33/100"
+                }
+            ],
+            "Metascore": "33",
+            "imdbRating": "5.0",
+            "imdbVotes": "21,440",
+            "imdbID": "tt0363282",
+            "Type": "movie",
+            "DVD": "17 Aug 2004",
+            "BoxOffice": "$14,018,364",
+            "Production": "Warner Bros.",
+            "Website": "N/A"
         },
         {
             "title": "The Sorcerer's Apprentice",
@@ -1434,8 +3589,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "Bowling Green Park, Broadway",
                 "coords": [
-                    0,
-                    1
+                    -74.0137214,
+                    40.7044449
                 ]
             },
             "images": [
@@ -1445,8 +3600,45 @@ const Helper = (function() {
                 "/thesorcerersapprentice/thesorcerersapprentice65.jpg",
                 "/thesorcerersapprentice/thesorcerersapprentice66.jpg"
             ],
-            "neighborhood": "Manhattan",
-            "comment": ""
+            "neighborhood": "Manhattan, Financial District",
+            "comment": "",
+            "place_name": "Bowling Grn, New York, New York 10004, United States",
+            "Year": "2010",
+            "Rated": "PG",
+            "Released": "14 Jul 2010",
+            "Runtime": "109 min",
+            "Genre": "Action, Adventure, Family, Fantasy",
+            "Director": "Jon Turteltaub",
+            "Writer": "Lawrence Konner (screen story), Mark Rosenthal (screen story), Matt Lopez (screen story), Matt Lopez (screenplay), Doug Miro (screenplay), Carlo Bernard (screenplay)",
+            "Actors": "Nicolas Cage, Jay Baruchel, Alfred Molina, Teresa Palmer",
+            "Plot": "Master sorcerer Balthazar Blake must find and train Merlin's descendant to defeat dark sorceress Morgana la Fée.",
+            "Language": "English, Cantonese, Ukrainian",
+            "Country": "USA",
+            "Awards": "1 win & 1 nomination.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BN2EwMzg3YWUtMTQyYS00ZDY3LTgzNTctOWI5NzY3MmZkOTk2XkEyXkFqcGdeQXVyNjE1OTQ0NjA@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "6.1/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "40%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "46/100"
+                }
+            ],
+            "Metascore": "46",
+            "imdbRating": "6.1",
+            "imdbVotes": "150,273",
+            "imdbID": "tt0963966",
+            "Type": "movie",
+            "DVD": "30 Nov 2010",
+            "BoxOffice": "$63,143,812",
+            "Production": "Walt Disney Studios",
+            "Website": "N/A"
         },
         {
             "title": "Eat Pray Love",
@@ -1456,8 +3648,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "Robin Des Bois Cafe, 195 Smith Street and Warren Street",
                 "coords": [
-                    0,
-                    1
+                    -73.607964,
+                    40.744556
                 ]
             },
             "images": [
@@ -1467,8 +3659,45 @@ const Helper = (function() {
                 "/eatpraylove/eatpraylove03.jpg",
                 "/eatpraylove/eatpraylove11.jpg"
             ],
-            "neighborhood": "Brooklyn",
-            "comment": ""
+            "neighborhood": "Brooklyn, Downtown",
+            "comment": "",
+            "place_name": "Cafe Formaggio, 307 Old Country Rd, Carle Place, New York 11514, United States",
+            "Year": "2010",
+            "Rated": "PG-13",
+            "Released": "13 Aug 2010",
+            "Runtime": "133 min",
+            "Genre": "Biography, Drama, Romance",
+            "Director": "Ryan Murphy",
+            "Writer": "Ryan Murphy (screenplay), Jennifer Salt (screenplay), Elizabeth Gilbert (book)",
+            "Actors": "Julia Roberts, I. Gusti Ayu Puspawati, Hadi Subiyanto, Billy Crudup",
+            "Plot": "A married woman realizes how unhappy her marriage really is, and that her life needs to go in a different direction. After a painful divorce, she takes off on a round-the-world journey to \"find herself\".",
+            "Language": "English, Italian, Portuguese",
+            "Country": "USA",
+            "Awards": "2 wins & 2 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTY5NDkyNzkyM15BMl5BanBnXkFtZTcwNDQyNDk0Mw@@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "5.8/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "36%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "50/100"
+                }
+            ],
+            "Metascore": "50",
+            "imdbRating": "5.8",
+            "imdbVotes": "85,864",
+            "imdbID": "tt0879870",
+            "Type": "movie",
+            "DVD": "23 Nov 2010",
+            "BoxOffice": "$80,574,010",
+            "Production": "Sony Pictures",
+            "Website": "N/A"
         },
         {
             "title": "Fading Gigolo",
@@ -1478,8 +3707,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "Grand Avenue and Clifton Place",
                 "coords": [
-                    0,
-                    1
+                    -73.962694,
+                    40.687819
                 ]
             },
             "images": [
@@ -1491,8 +3720,45 @@ const Helper = (function() {
                 "/fadinggigolo/fadinggigolo73.jpg",
                 "/fadinggigolo/fadinggigolo75.jpg"
             ],
-            "neighborhood": "Brooklyn",
-            "comment": ""
+            "neighborhood": "Brooklyn, Clinton Hill",
+            "comment": "",
+            "place_name": "Grand Avenue and Clifton Place, Brooklyn, New York 11216, United States",
+            "Year": "2013",
+            "Rated": "R",
+            "Released": "09 Apr 2014",
+            "Runtime": "90 min",
+            "Genre": "Comedy, Romance",
+            "Director": "John Turturro",
+            "Writer": "John Turturro",
+            "Actors": "John Turturro, Woody Allen, Vanessa Paradis, Liev Schreiber",
+            "Plot": "Fioravante decides to become a professional Don Juan as a way of making money to help his cash-strapped friend, Murray. With Murray acting as his \"manager\", the duo quickly finds themselves caught up in the crosscurrents of love and money.",
+            "Language": "English, French, Spanish, Ladino, Hebrew, Italian, Portuguese, Latin",
+            "Country": "USA",
+            "Awards": "2 wins & 1 nomination.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTQzMjU3NjY0Nl5BMl5BanBnXkFtZTgwMTQ1NDM5MDE@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "6.2/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "54%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "58/100"
+                }
+            ],
+            "Metascore": "58",
+            "imdbRating": "6.2",
+            "imdbVotes": "23,359",
+            "imdbID": "tt2258345",
+            "Type": "movie",
+            "DVD": "19 Aug 2014",
+            "BoxOffice": "$3,179,352",
+            "Production": "Millenium Entertainment",
+            "Website": "N/A"
         },
         {
             "title": "Cruel Intentions 2",
@@ -1502,8 +3768,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "Times Square",
                 "coords": [
-                    0,
-                    1
+                    -73.983761,
+                    40.7624195
                 ]
             },
             "images": [
@@ -1512,8 +3778,41 @@ const Helper = (function() {
                 "/cruelintentions2/cruelintentions2_12.jpg",
                 "/cruelintentions2/cruelintentions2_13.jpg"
             ],
-            "neighborhood": "Manhattan",
-            "comment": ""
+            "neighborhood": "Manhattan, Midtown",
+            "comment": "",
+            "place_name": "Times Square Church, 237 W 51st St, New York, New York 10019, United States",
+            "Year": "2000",
+            "Rated": "R",
+            "Released": "13 Mar 2001",
+            "Runtime": "87 min",
+            "Genre": "Drama",
+            "Director": "Roger Kumble",
+            "Writer": "Roger Kumble",
+            "Actors": "Robin Dunne, Sarah Thompson, Keri Lynn Pratt, Amy Adams",
+            "Plot": "This takes place several years before Cruel Intentions (1999), back to when Kathryn first meets Sebastian, their sexual attraction to each other and their enjoyment in destroying the lives of their peers.",
+            "Language": "English",
+            "Country": "USA",
+            "Awards": "N/A",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTc2MjUyNDc4MF5BMl5BanBnXkFtZTYwOTA1ODQ5._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "4.4/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "17%"
+                }
+            ],
+            "Metascore": "N/A",
+            "imdbRating": "4.4",
+            "imdbVotes": "14,682",
+            "imdbID": "tt0196267",
+            "Type": "movie",
+            "DVD": "13 Mar 2001",
+            "BoxOffice": "N/A",
+            "Production": "Sony Pictures Home Entertainment",
+            "Website": "N/A"
         },
         {
             "title": "Woo",
@@ -1523,16 +3822,49 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "West 42nd Street and 6th Avenue",
                 "coords": [
-                    0,
-                    1
+                    -73.984118,
+                    40.754842
                 ]
             },
             "images": [
                 "/woo/woo01.jpg",
                 "/woo/woo10.jpg"
             ],
-            "neighborhood": "Manhattan",
-            "comment": ""
+            "neighborhood": "Manhattan, Garment District",
+            "comment": "",
+            "place_name": "West 42nd Street and 6th Avenue, New York, New York 10011, United States",
+            "Year": "1998",
+            "Rated": "R",
+            "Released": "08 May 1998",
+            "Runtime": "84 min",
+            "Genre": "Comedy, Romance",
+            "Director": "Daisy von Scherler Mayer",
+            "Writer": "David C. Johnson",
+            "Actors": "Jada Pinkett Smith, Tommy Davidson, Duane Martin, Michael Ralph",
+            "Plot": "Gorgeous and extravert Woo meets insecure and straight-laced law clerk Tim at a blind date.",
+            "Language": "English",
+            "Country": "USA",
+            "Awards": "N/A",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BZTIxMDQzNDktMWE5MS00ZjNkLTgxMWQtZTVlZWVkMjNkOGIwXkEyXkFqcGdeQXVyNjMwMjk0MTQ@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "4.0/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "10%"
+                }
+            ],
+            "Metascore": "N/A",
+            "imdbRating": "4.0",
+            "imdbVotes": "1,738",
+            "imdbID": "tt0120531",
+            "Type": "movie",
+            "DVD": "13 Jan 2004",
+            "BoxOffice": "N/A",
+            "Production": "New Line Home Entertainment",
+            "Website": "N/A"
         },
         {
             "title": "Sorry, Haters",
@@ -1542,8 +3874,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "East 22nd Street and Park Avenue",
                 "coords": [
-                    0,
-                    1
+                    -73.9867925,
+                    40.7394943
                 ]
             },
             "images": [
@@ -1552,8 +3884,45 @@ const Helper = (function() {
                 "/sorryhaters/sorryhaters01.jpg",
                 "/sorryhaters/sorryhaters13.jpg"
             ],
-            "neighborhood": "Manhattan",
-            "comment": ""
+            "neighborhood": "Manhattan, Flatiron District",
+            "comment": "",
+            "place_name": "East 22nd Street and Park Avenue South, New York, New York 10016, United States",
+            "Year": "2005",
+            "Rated": "Not Rated",
+            "Released": "01 Mar 2006",
+            "Runtime": "83 min",
+            "Genre": "Drama, Thriller",
+            "Director": "Jeff Stanzler",
+            "Writer": "Jeff Stanzler",
+            "Actors": "Robin Wright, Abdellatif Kechiche, Élodie Bouchez, Aasif Mandvi",
+            "Plot": "Against the anxieties and fears of post-9/11 America, an Arab cab driver picks up a troubled professional woman with unexpected results.",
+            "Language": "English, Arabic, French",
+            "Country": "USA",
+            "Awards": "2 wins & 4 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTg3NTQ0NjAyMF5BMl5BanBnXkFtZTcwMDUwNzMzMQ@@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "6.3/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "37%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "43/100"
+                }
+            ],
+            "Metascore": "43",
+            "imdbRating": "6.3",
+            "imdbVotes": "1,373",
+            "imdbID": "tt0425600",
+            "Type": "movie",
+            "DVD": "08 Aug 2006",
+            "BoxOffice": "N/A",
+            "Production": "IFC Films",
+            "Website": "N/A"
         },
         {
             "title": "August",
@@ -1563,8 +3932,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "Office, 180 Maiden Lane and Front Street",
                 "coords": [
-                    0,
-                    1
+                    -74.001789,
+                    40.715083
                 ]
             },
             "images": [
@@ -1574,8 +3943,45 @@ const Helper = (function() {
                 "/august/august28.jpg",
                 "/august/august21.jpg"
             ],
-            "neighborhood": "Manhattan",
-            "comment": ""
+            "neighborhood": "Manhattan, Lower East Side",
+            "comment": "",
+            "place_name": "Office of the City Clerk - Marriage Bureau, 141 Worth St, New York, New York 10013, United States",
+            "Year": "2008",
+            "Rated": "R",
+            "Released": "08 Oct 2009",
+            "Runtime": "88 min",
+            "Genre": "Drama",
+            "Director": "Austin Chick",
+            "Writer": "Howard A. Rodman",
+            "Actors": "Josh Hartnett, Naomie Harris, Adam Scott, Robin Tunney",
+            "Plot": "August centers on two brothers fighting to keep their start-up company afloat on Wall Street during August 2001, a month before the 9/11 terrorist attacks.",
+            "Language": "English",
+            "Country": "USA",
+            "Awards": "N/A",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BZDBjZTIzZmYtZjIzZC00ZTg3LTkyM2YtOTFiNTE4NmQxMTZlXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "5.3/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "36%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "39/100"
+                }
+            ],
+            "Metascore": "39",
+            "imdbRating": "5.3",
+            "imdbVotes": "4,008",
+            "imdbID": "tt0470679",
+            "Type": "movie",
+            "DVD": "26 Aug 2008",
+            "BoxOffice": "N/A",
+            "Production": "Original Media",
+            "Website": "N/A"
         },
         {
             "title": "Gloria",
@@ -1585,8 +3991,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "West 158th Street and Broadway",
                 "coords": [
-                    0,
-                    1
+                    -73.9445661,
+                    40.834739
                 ]
             },
             "images": [
@@ -1595,8 +4001,45 @@ const Helper = (function() {
                 "/gloria/gloria34.jpg",
                 "/gloria/gloria33.jpg"
             ],
-            "neighborhood": "Manhattan",
-            "comment": ""
+            "neighborhood": "Manhattan, Washington Heights",
+            "comment": "",
+            "place_name": "West 158th Street and E Broadway, New York, New York 10025, United States",
+            "Year": "1980",
+            "Rated": "PG",
+            "Released": "01 Oct 1980",
+            "Runtime": "123 min",
+            "Genre": "Crime, Drama, Thriller",
+            "Director": "John Cassavetes",
+            "Writer": "John Cassavetes",
+            "Actors": "Julie Carmen, Tony Knesich, Gregory Cleghorne, Buck Henry",
+            "Plot": "When a young boy's family is killed by the mob, their tough neighbor Gloria becomes his reluctant guardian. In possession of a book that the gangsters want, the pair go on the run in New York.",
+            "Language": "English",
+            "Country": "USA",
+            "Awards": "Nominated for 1 Oscar. Another 4 wins & 3 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BODRiMDViZTUtODQ3MC00NTE4LWI3MmItYjJhMzE3NjE0NThjL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjQwMjk0NjI@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "7.2/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "93%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "68/100"
+                }
+            ],
+            "Metascore": "68",
+            "imdbRating": "7.2",
+            "imdbVotes": "8,118",
+            "imdbID": "tt0080798",
+            "Type": "movie",
+            "DVD": "25 Feb 2003",
+            "BoxOffice": "N/A",
+            "Production": "Columbia Pictures Corporation",
+            "Website": "N/A"
         },
         {
             "title": "Then She Found Me",
@@ -1606,8 +4049,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "East 78th Street",
                 "coords": [
-                    0,
-                    1
+                    -73.9157014,
+                    40.635625
                 ]
             },
             "images": [
@@ -1616,8 +4059,45 @@ const Helper = (function() {
                 "/thenshefoundme/thenshefoundme06.jpg",
                 "/thenshefoundme/thenshefoundme01.jpg"
             ],
-            "neighborhood": "Manhattan",
-            "comment": ""
+            "neighborhood": "Manhattan, Canarsie",
+            "comment": "",
+            "place_name": "East 78th Street, Brooklyn, New York 11236, United States",
+            "Year": "2007",
+            "Rated": "R",
+            "Released": "09 May 2008",
+            "Runtime": "100 min",
+            "Genre": "Comedy, Drama, Romance",
+            "Director": "Helen Hunt",
+            "Writer": "Alice Arlen (screenplay), Victor Levin (screenplay), Helen Hunt (screenplay), Elinor Lipman (novel)",
+            "Actors": "Helen Hunt, Bette Midler, Colin Firth, Matthew Broderick",
+            "Plot": "39-year-old April Epner's childish husband and school teacher colleague Benjamin/Ben leaves her, but with her biological clock ticking ever more loudly. Her dying bossy adoptive mother is ...",
+            "Language": "English, Hebrew",
+            "Country": "USA, UK",
+            "Awards": "3 wins & 1 nomination.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTk4ODYxNTYzOF5BMl5BanBnXkFtZTcwNjMwODg2MQ@@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "6.0/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "50%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "56/100"
+                }
+            ],
+            "Metascore": "56",
+            "imdbRating": "6.0",
+            "imdbVotes": "9,520",
+            "imdbID": "tt0455805",
+            "Type": "movie",
+            "DVD": "02 Sep 2008",
+            "BoxOffice": "$3,728,972",
+            "Production": "ThinkFilm",
+            "Website": "N/A"
         },
         {
             "title": "Anger Management",
@@ -1627,8 +4107,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "St Bartholomew's Church, 325 Park Avenue and East 50th Street",
                 "coords": [
-                    0,
-                    1
+                    -73.973648,
+                    40.757607
                 ]
             },
             "images": [
@@ -1639,8 +4119,45 @@ const Helper = (function() {
                 "/angermanagement/angermanagement01.jpg",
                 "/angermanagement/angermanagement52.jpg"
             ],
-            "neighborhood": "Manhattan",
-            "comment": ""
+            "neighborhood": "Manhattan, Midtown",
+            "comment": "",
+            "place_name": "St. Bartholomew's Church, 325 Park Ave, New York, New York 10022, United States",
+            "Year": "2003",
+            "Rated": "PG-13",
+            "Released": "11 Apr 2003",
+            "Runtime": "106 min",
+            "Genre": "Comedy",
+            "Director": "Peter Segal",
+            "Writer": "David Dorfman",
+            "Actors": "Adam Sandler, Jack Nicholson, Marisa Tomei, Luis Guzmán",
+            "Plot": "Dave Buznik is a businessman who is wrongly sentenced to an anger management program, where he meets an aggressive instructor.",
+            "Language": "English",
+            "Country": "USA",
+            "Awards": "2 wins & 5 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMDg1YTNiODItZGYyOC00NGIwLWI3MjYtMTY3NDQ0ZDIwYjBiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "6.3/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "42%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "52/100"
+                }
+            ],
+            "Metascore": "52",
+            "imdbRating": "6.3",
+            "imdbVotes": "200,204",
+            "imdbID": "tt0305224",
+            "Type": "movie",
+            "DVD": "16 Sep 2003",
+            "BoxOffice": "$133,756,285",
+            "Production": "Sony Pictures Entertainment",
+            "Website": "N/A"
         },
         {
             "title": "The Object of My Affection",
@@ -1650,8 +4167,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "Central Park Zoo, Central Park",
                 "coords": [
-                    0,
-                    1
+                    -73.971747,
+                    40.7677165
                 ]
             },
             "images": [
@@ -1660,8 +4177,45 @@ const Helper = (function() {
                 "/theobjectofmyaffection/theobjectofmyaffection23.jpg",
                 "/theobjectofmyaffection/theobjectofmyaffection35.jpg"
             ],
-            "neighborhood": "Manhattan",
-            "comment": ""
+            "neighborhood": "Manhattan, Central Park",
+            "comment": "",
+            "place_name": "Central Park Zoo, Central Park, New York, New York 10024, United States",
+            "Year": "1998",
+            "Rated": "R",
+            "Released": "17 Apr 1998",
+            "Runtime": "111 min",
+            "Genre": "Comedy, Drama, Romance",
+            "Director": "Nicholas Hytner",
+            "Writer": "Stephen McCauley (novel), Wendy Wasserstein (screenplay)",
+            "Actors": "Paul Rudd, Kali Rocha, Jennifer Aniston, Lena Cardwell",
+            "Plot": "A pregnant New York City social worker begins to develop romantic feelings for her gay best friend, and decides she'd rather raise her child with him, much to the dismay of her overbearing boyfriend.",
+            "Language": "English",
+            "Country": "USA",
+            "Awards": "1 win & 1 nomination.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BYmNjODYxOTMtNTBhMS00MmVhLWFiODUtYzYxMDA1MzNmZTEyXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "6.0/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "53%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "51/100"
+                }
+            ],
+            "Metascore": "51",
+            "imdbRating": "6.0",
+            "imdbVotes": "18,393",
+            "imdbID": "tt0120772",
+            "Type": "movie",
+            "DVD": "08 Jan 2002",
+            "BoxOffice": "N/A",
+            "Production": "Twentieth Century Fox Home Entertainment",
+            "Website": "N/A"
         },
         {
             "title": "Léon, The Professional",
@@ -1671,8 +4225,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "3812 Broadway and West 159th Street",
                 "coords": [
-                    0,
-                    1
+                    -73.919432,
+                    40.759038
                 ]
             },
             "images": [
@@ -1682,8 +4236,9 @@ const Helper = (function() {
                 "/leon/leon85.jpg",
                 "/leon/leon97.jpg"
             ],
-            "neighborhood": "Harlem",
-            "comment": ""
+            "neighborhood": "Harlem, Astoria",
+            "comment": "",
+            "place_name": "38-12 Broadway, Queens, New York 11103, United States"
         },
         {
             "title": "Ghostbusters 2",
@@ -1693,8 +4248,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "East 77th Street",
                 "coords": [
-                    0,
-                    1
+                    -73.914944,
+                    40.6339851
                 ]
             },
             "images": [
@@ -1708,8 +4263,9 @@ const Helper = (function() {
                 "/ghostbusters2/ghostbusters2_235.jpg",
                 "/ghostbusters2/ghostbusters2_236.jpg"
             ],
-            "neighborhood": "Manhattan",
-            "comment": ""
+            "neighborhood": "Manhattan, Canarsie",
+            "comment": "",
+            "place_name": "East 77th Street, Brooklyn, New York 11236, United States"
         },
         {
             "title": "Confessions of a Shopaholic",
@@ -1719,8 +4275,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "Kleinfeld Store, 110 West 20th Street",
                 "coords": [
-                    0,
-                    1
+                    -73.992304,
+                    40.74287
                 ]
             },
             "images": [
@@ -1730,8 +4286,45 @@ const Helper = (function() {
                 "/confessionsofashopaholic/confessionsofashopaholic103.jpg",
                 "/confessionsofashopaholic/confessionsofashopaholic98.jpg"
             ],
-            "neighborhood": "Manhattan.",
-            "comment": ""
+            "neighborhood": "Manhattan., Flatiron District",
+            "comment": "",
+            "place_name": "The Storehouse, 69 W 23rd St, New York, New York 10010, United States",
+            "Year": "2009",
+            "Rated": "PG",
+            "Released": "13 Feb 2009",
+            "Runtime": "104 min",
+            "Genre": "Comedy, Romance",
+            "Director": "P.J. Hogan",
+            "Writer": "Tracey Jackson (screenplay), Tim Firth (screenplay), Kayla Alpert (screenplay), Sophie Kinsella (books)",
+            "Actors": "Isla Fisher, Hugh Dancy, Krysten Ritter, Joan Cusack",
+            "Plot": "A college grad lands a job as a financial journalist in New York City to support where she nurtures her shopping addiction and falls for a wealthy entrepreneur.",
+            "Language": "English, Finnish, Spanish, French",
+            "Country": "USA",
+            "Awards": "1 win & 3 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ1MzcyMTkwOF5BMl5BanBnXkFtZTcwMDM3MTc5MQ@@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "5.9/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "25%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "38/100"
+                }
+            ],
+            "Metascore": "38",
+            "imdbRating": "5.9",
+            "imdbVotes": "73,572",
+            "imdbID": "tt1093908",
+            "Type": "movie",
+            "DVD": "23 Jun 2009",
+            "BoxOffice": "$44,239,688",
+            "Production": "Walt Disney Studios",
+            "Website": "N/A"
         },
         {
             "title": "New Jack City",
@@ -1741,8 +4334,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "Grant's Tomb, West 122th Street & Riverside Drive",
                 "coords": [
-                    0,
-                    1
+                    -73.963239,
+                    40.813186
                 ]
             },
             "images": [
@@ -1753,8 +4346,45 @@ const Helper = (function() {
                 "/newjackcity/newjackcity09.jpg",
                 "/newjackcity/newjackcity10.jpg"
             ],
-            "neighborhood": "Manhattan",
-            "comment": ""
+            "neighborhood": "Manhattan, Morningside Heights",
+            "comment": "",
+            "place_name": "Grant's Tomb Visitor Center, New York, New York 10024, United States",
+            "Year": "1991",
+            "Rated": "R",
+            "Released": "08 Mar 1991",
+            "Runtime": "97 min",
+            "Genre": "Action, Crime, Drama, Thriller",
+            "Director": "Mario Van Peebles",
+            "Writer": "Thomas Lee Wright (story), Thomas Lee Wright (screenplay), Barry Michael Cooper (screenplay)",
+            "Actors": "Wesley Snipes, Ice-T, Allen Payne, Chris Rock",
+            "Plot": "A crime lord ascends to power and becomes megalomaniacal while a maverick police detective vows to stop him.",
+            "Language": "English",
+            "Country": "USA",
+            "Awards": "1 win & 5 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BOGZlYzg3NjEtMmFhOS00NTA3LWJlOTktMjFhOWNkMjc0YjBkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "6.7/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "77%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "61/100"
+                }
+            ],
+            "Metascore": "61",
+            "imdbRating": "6.7",
+            "imdbVotes": "30,804",
+            "imdbID": "tt0102526",
+            "Type": "movie",
+            "DVD": "25 Aug 1998",
+            "BoxOffice": "N/A",
+            "Production": "Warner Bros. Pictures",
+            "Website": "N/A"
         },
         {
             "title": "One Fine Day",
@@ -1764,8 +4394,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "Carnegie Deli, 854 7th Avenue and West 55th Street",
                 "coords": [
-                    0,
-                    1
+                    -74.057256,
+                    40.825332
                 ]
             },
             "images": [
@@ -1776,8 +4406,41 @@ const Helper = (function() {
                 "/onefineday/onefineday225.jpg",
                 "/onefineday/onefineday312.jpg"
             ],
-            "neighborhood": "Manhattan",
-            "comment": ""
+            "neighborhood": "Manhattan, Carlstadt",
+            "comment": "",
+            "place_name": "Carnegie Deli, 605 Washington Ave, Carlstadt, New Jersey 07072, United States",
+            "Year": "1996",
+            "Rated": "PG",
+            "Released": "20 Dec 1996",
+            "Runtime": "108 min",
+            "Genre": "Comedy, Drama, Romance",
+            "Director": "Michael Hoffman",
+            "Writer": "Terrel Seltzer, Ellen Simon",
+            "Actors": "Michelle Pfeiffer, George Clooney, Mae Whitman, Alex D. Linz",
+            "Plot": "The lives of two strangers and their young children unexpectedly intersect on one hectic, stressful day in New York City.",
+            "Language": "English, Spanish",
+            "Country": "USA",
+            "Awards": "Nominated for 1 Oscar. Another 4 wins & 5 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BNDdhMjgxODQtZjNhNS00YjZiLWFmYTAtODZmM2RhM2M3YmIwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "6.5/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "50%"
+                }
+            ],
+            "Metascore": "N/A",
+            "imdbRating": "6.5",
+            "imdbVotes": "42,560",
+            "imdbID": "tt0117247",
+            "Type": "movie",
+            "DVD": "08 Jan 2002",
+            "BoxOffice": "N/A",
+            "Production": "Twentieth Century Fox Home Entertainment",
+            "Website": "N/A"
         },
         {
             "title": "Begin Again",
@@ -1787,8 +4450,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "Avenue B and East 6th Street",
                 "coords": [
-                    0,
-                    1
+                    -73.981637,
+                    40.724494
                 ]
             },
             "images": [
@@ -1797,8 +4460,45 @@ const Helper = (function() {
                 "/beginagain/beginagain81.jpg",
                 "/beginagain/beginagain82.jpg"
             ],
-            "neighborhood": "Manhattan",
-            "comment": ""
+            "neighborhood": "Manhattan, East Village",
+            "comment": "",
+            "place_name": "Avenue B and East 6th Street, New York, New York 10009, United States",
+            "Year": "2013",
+            "Rated": "R",
+            "Released": "11 Jul 2014",
+            "Runtime": "104 min",
+            "Genre": "Comedy, Drama, Music, Romance",
+            "Director": "John Carney",
+            "Writer": "John Carney",
+            "Actors": "James Corden, Keira Knightley, Mark Ruffalo, Hailee Steinfeld",
+            "Plot": "A chance encounter between a down-and-out music-business executive and a young singer-songwriter, new to Manhattan, turns into a promising collaboration between the two talents.",
+            "Language": "English",
+            "Country": "USA",
+            "Awards": "Nominated for 1 Oscar. Another 5 wins & 17 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BNjAxMTI4MTgzMV5BMl5BanBnXkFtZTgwOTAwODEwMjE@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "7.4/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "83%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "62/100"
+                }
+            ],
+            "Metascore": "62",
+            "imdbRating": "7.4",
+            "imdbVotes": "139,291",
+            "imdbID": "tt1980929",
+            "Type": "movie",
+            "DVD": "28 Oct 2014",
+            "BoxOffice": "$12,078,174",
+            "Production": "The Weinstein Company",
+            "Website": "N/A"
         },
         {
             "title": "Here and Now",
@@ -1808,8 +4508,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "Riverside Drive and West 157th Street",
                 "coords": [
-                    0,
-                    1
+                    -73.9469169,
+                    40.8349476
                 ]
             },
             "images": [
@@ -1821,8 +4521,34 @@ const Helper = (function() {
                 "/hereandnow/hereandnow109.jpg",
                 "/hereandnow/hereandnow110.jpg"
             ],
-            "neighborhood": "Washington Heights",
-            "comment": ""
+            "neighborhood": "Washington Heights, Washington Heights",
+            "comment": "",
+            "place_name": "Riverside Drive and West 157th Street, New York, New York 10032, United States",
+            "Year": "2018",
+            "Rated": "TV-MA",
+            "Released": "11 Feb 2018",
+            "Runtime": "60 min",
+            "Genre": "Comedy, Drama, Fantasy",
+            "Director": "N/A",
+            "Writer": "Alan Ball",
+            "Actors": "Tim Robbins, Holly Hunter, Daniel Zovatto, Jerrika Hinton",
+            "Plot": "A dark dramedy about a progressive Portlandian family made up of husband, wife, three adopted children from Liberia, Vietnam and Colombia and one biological daughter who find their sanity tested and values challenged in 2018 America.",
+            "Language": "English",
+            "Country": "USA",
+            "Awards": "1 nomination.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTk2NDIwOTg4M15BMl5BanBnXkFtZTgwOTAxMzc1NDM@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "6.8/10"
+                }
+            ],
+            "Metascore": "N/A",
+            "imdbRating": "6.8",
+            "imdbVotes": "4,310",
+            "imdbID": "tt5923012",
+            "Type": "series",
+            "totalSeasons": "1"
         },
         {
             "title": "Wall Street: Money Never Sleeps",
@@ -1832,8 +4558,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "Winnie Gekko's Apartment, 41 Charlton Street and 6th Avenue",
                 "coords": [
-                    0,
-                    1
+                    -73.783095,
+                    40.649816
                 ]
             },
             "images": [
@@ -1844,8 +4570,45 @@ const Helper = (function() {
                 "/wallstreet2/wallstreet2_37.jpg",
                 "/wallstreet2/wallstreet2_52.jpg"
             ],
-            "neighborhood": "Manhattan",
-            "comment": ""
+            "neighborhood": "Manhattan, John F. Kennedy International Airport",
+            "comment": "",
+            "place_name": "Apartment 7B Deli & Market, JFK Terminal 7, New York, New York 11430, United States",
+            "Year": "2010",
+            "Rated": "PG-13",
+            "Released": "24 Sep 2010",
+            "Runtime": "133 min",
+            "Genre": "Drama",
+            "Director": "Oliver Stone",
+            "Writer": "Allan Loeb, Stephen Schiff, Stanley Weiser (characters), Oliver Stone (characters)",
+            "Actors": "Richard Stratton, Harry Kerrigan, Michael Douglas, Carey Mulligan",
+            "Plot": "Now out of prison but still disgraced by his peers, Gordon Gekko works his future son-in-law, an idealistic stock broker, when he sees an opportunity to take down a Wall Street enemy and rebuild his empire.",
+            "Language": "English",
+            "Country": "USA",
+            "Awards": "Nominated for 1 Golden Globe. Another 1 win & 3 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTU5MDEzMzYwMF5BMl5BanBnXkFtZTcwNTcwMjUxMw@@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "6.2/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "55%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "59/100"
+                }
+            ],
+            "Metascore": "59",
+            "imdbRating": "6.2",
+            "imdbVotes": "96,683",
+            "imdbID": "tt1027718",
+            "Type": "movie",
+            "DVD": "21 Dec 2010",
+            "BoxOffice": "$52,474,616",
+            "Production": "20th Century Fox",
+            "Website": "N/A"
         },
         {
             "title": "Two Weeks Notice",
@@ -1855,8 +4618,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "Lucy's Office, 55 Water Street",
                 "coords": [
-                    0,
-                    1
+                    -74.001789,
+                    40.715083
                 ]
             },
             "images": [
@@ -1866,8 +4629,45 @@ const Helper = (function() {
                 "/twoweeksnotice/2weeksnotice33.jpg",
                 "/twoweeksnotice/twoweeksnotice220.jpg"
             ],
-            "neighborhood": "Manhattan",
-            "comment": ""
+            "neighborhood": "Manhattan, Lower East Side",
+            "comment": "",
+            "place_name": "Office of the City Clerk - Marriage Bureau, 141 Worth St, New York, New York 10013, United States",
+            "Year": "2002",
+            "Rated": "PG-13",
+            "Released": "20 Dec 2002",
+            "Runtime": "101 min",
+            "Genre": "Comedy, Romance",
+            "Director": "Marc Lawrence",
+            "Writer": "Marc Lawrence",
+            "Actors": "Sandra Bullock, Hugh Grant, Alicia Witt, Dana Ivey",
+            "Plot": "A lawyer decides that she's used too much like a nanny by her boss, so she walks out on him.",
+            "Language": "English",
+            "Country": "USA, Australia",
+            "Awards": "2 wins & 3 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BYTg4N2M2ODItZjVjMy00YTljLTllNjUtYzY4ZTE2MTI2M2RhXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "6.1/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "42%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "42/100"
+                }
+            ],
+            "Metascore": "42",
+            "imdbRating": "6.1",
+            "imdbVotes": "104,361",
+            "imdbID": "tt0313737",
+            "Type": "movie",
+            "DVD": "29 Apr 2003",
+            "BoxOffice": "$93,300,000",
+            "Production": "Warner Bros.",
+            "Website": "N/A"
         },
         {
             "title": "Doppelganger",
@@ -1877,8 +4677,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "5th Avenue and West 59th Street",
                 "coords": [
-                    0,
-                    1
+                    -73.9736247,
+                    40.7645771
                 ]
             },
             "images": [
@@ -1889,8 +4689,37 @@ const Helper = (function() {
                 "/doppelganger/doppelganger01.jpg",
                 "/doppelganger/doppelganger17.jpg"
             ],
-            "neighborhood": "Manhattan",
-            "comment": ""
+            "neighborhood": "Manhattan, Midtown",
+            "comment": "",
+            "place_name": "5th Avenue and West 59th Street, New York, New York 10019, United States",
+            "Year": "1993",
+            "Rated": "R",
+            "Released": "23 Oct 1993",
+            "Runtime": "104 min",
+            "Genre": "Horror, Romance, Thriller",
+            "Director": "Avi Nesher",
+            "Writer": "Avi Nesher",
+            "Actors": "Drew Barrymore, George Newbern, Dennis Christopher, Leslie Hope",
+            "Plot": "A writer with a room for rent acquires a strange new roommate with a psychotic alter-ego that follows her wherever she goes.",
+            "Language": "English",
+            "Country": "USA, UK",
+            "Awards": "1 nomination.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BZDIwZjU3YTUtMTUyMC00ZWYyLWE1MzItZDAwNDE2NDFjMmMyXkEyXkFqcGdeQXVyNjU0NTI0Nw@@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "4.3/10"
+                }
+            ],
+            "Metascore": "N/A",
+            "imdbRating": "4.3",
+            "imdbVotes": "3,233",
+            "imdbID": "tt0106753",
+            "Type": "movie",
+            "DVD": "17 Dec 2002",
+            "BoxOffice": "N/A",
+            "Production": "Twentieth Century Fox Home Entertainment",
+            "Website": "N/A"
         },
         {
             "title": "Teenage Mutant Ninja Turtles",
@@ -1900,8 +4729,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "5th Avenue",
                 "coords": [
-                    0,
-                    1
+                    -73.9751235,
+                    40.761975
                 ]
             },
             "images": [
@@ -1911,8 +4740,45 @@ const Helper = (function() {
                 "/tmnt/tmnt01.jpg",
                 "/tmnt/tmnt34.jpg"
             ],
-            "neighborhood": "Manhattan",
-            "comment": ""
+            "neighborhood": "Manhattan, Midtown",
+            "comment": "",
+            "place_name": "Fifth Avenue Presbyterian Church, 7 W 55th St, New York, New York 10019, United States",
+            "Year": "2014",
+            "Rated": "PG-13",
+            "Released": "08 Aug 2014",
+            "Runtime": "101 min",
+            "Genre": "Action, Adventure, Comedy, Sci-Fi",
+            "Director": "Jonathan Liebesman",
+            "Writer": "Josh Appelbaum, André Nemec, Evan Daugherty, Peter Laird (based on the Teenage Mutant Ninja Turtles characters created by), Kevin Eastman (based on the Teenage Mutant Ninja Turtles characters created by)",
+            "Actors": "Megan Fox, Will Arnett, William Fichtner, Alan Ritchson",
+            "Plot": "When a kingpin threatens New York City, a group of mutated turtle warriors must emerge from the shadows to protect their home.",
+            "Language": "English, Japanese",
+            "Country": "USA",
+            "Awards": "1 win & 10 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BNjUzODQ5MDY5NV5BMl5BanBnXkFtZTgwOTc1NzcyMjE@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "5.8/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "21%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "31/100"
+                }
+            ],
+            "Metascore": "31",
+            "imdbRating": "5.8",
+            "imdbVotes": "198,640",
+            "imdbID": "tt1291150",
+            "Type": "movie",
+            "DVD": "16 Dec 2014",
+            "BoxOffice": "$163,911,409",
+            "Production": "Paramount Pictures",
+            "Website": "N/A"
         },
         {
             "title": "Bridge of Spies",
@@ -1922,8 +4788,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "Rudolf's Workshop, 135 Plymouth Street and Anchorage Place",
                 "coords": [
-                    0,
-                    1
+                    -73.957477,
+                    40.770052
                 ]
             },
             "images": [
@@ -1933,8 +4799,45 @@ const Helper = (function() {
                 "/bridgeofspies/bridgeofspies03.jpg",
                 "/bridgeofspies/bridgeofspies29.jpg"
             ],
-            "neighborhood": "Brooklyn",
-            "comment": ""
+            "neighborhood": "Brooklyn, Upper East Side",
+            "comment": "",
+            "place_name": "WORKSHOP, 1415 Second Avenue, New York, New York 10021, United States",
+            "Year": "2015",
+            "Rated": "PG-13",
+            "Released": "16 Oct 2015",
+            "Runtime": "142 min",
+            "Genre": "Drama, History, Thriller",
+            "Director": "Steven Spielberg",
+            "Writer": "Matt Charman, Ethan Coen, Joel Coen",
+            "Actors": "Mark Rylance, Domenick Lombardozzi, Victor Verhaeghe, Mark Fichera",
+            "Plot": "During the Cold War, an American lawyer is recruited to defend an arrested Soviet spy in court, and then help the CIA facilitate an exchange of the spy for the Soviet captured American U2 spy plane pilot, Francis Gary Powers.",
+            "Language": "English, German, Russian",
+            "Country": "Germany, India, USA",
+            "Awards": "Won 1 Oscar. Another 30 wins & 101 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMjIxOTI0MjU5NV5BMl5BanBnXkFtZTgwNzM4OTk4NTE@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "7.6/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "90%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "81/100"
+                }
+            ],
+            "Metascore": "81",
+            "imdbRating": "7.6",
+            "imdbVotes": "281,551",
+            "imdbID": "tt3682448",
+            "Type": "movie",
+            "DVD": "02 Feb 2016",
+            "BoxOffice": "N/A",
+            "Production": "Dreamworks Pictures",
+            "Website": "N/A"
         },
         {
             "title": "The Dark Tower",
@@ -1944,8 +4847,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "Lexington Avenue",
                 "coords": [
-                    0,
-                    1
+                    -73.983034,
+                    40.741364
                 ]
             },
             "images": [
@@ -1956,8 +4859,45 @@ const Helper = (function() {
                 "/thedarktower/thedarktower80.jpg",
                 "/thedarktower/thedarktower82.jpg"
             ],
-            "neighborhood": "Manhattan",
-            "comment": ""
+            "neighborhood": "Manhattan, Gramercy",
+            "comment": "",
+            "place_name": "Lexington Ave, 73 Lexington Ave, New York, New York 10016, United States",
+            "Year": "2017",
+            "Rated": "PG-13",
+            "Released": "04 Aug 2017",
+            "Runtime": "95 min",
+            "Genre": "Action, Adventure, Fantasy, Horror, Sci-Fi, Western",
+            "Director": "Nikolaj Arcel",
+            "Writer": "Akiva Goldsman (screenplay by), Jeff Pinkner (screenplay by), Anders Thomas Jensen (screenplay by), Nikolaj Arcel (screenplay by), Stephen King (based on \"The Dark Tower\" novels by)",
+            "Actors": "Matthew McConaughey, Idris Elba, Tom Taylor, Dennis Haysbert",
+            "Plot": "A boy haunted by visions of a dark tower from a parallel reality teams up with the tower's disillusioned guardian to stop an evil warlock known as the Man in Black who plans to use the boy to destroy the tower and open the gates of Hell.",
+            "Language": "English",
+            "Country": "USA",
+            "Awards": "4 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTU3MjUwMzQ3MF5BMl5BanBnXkFtZTgwMjcwNjkxMjI@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "5.6/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "16%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "34/100"
+                }
+            ],
+            "Metascore": "34",
+            "imdbRating": "5.6",
+            "imdbVotes": "123,195",
+            "imdbID": "tt1648190",
+            "Type": "movie",
+            "DVD": "31 Oct 2017",
+            "BoxOffice": "$50,644,837",
+            "Production": "Sony Pictures",
+            "Website": "N/A"
         },
         {
             "title": "The Art of Getting By",
@@ -1967,8 +4907,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "East 3rd Street and 2nd Avenue",
                 "coords": [
-                    0,
-                    1
+                    -73.833373,
+                    40.907237
                 ]
             },
             "images": [
@@ -1978,8 +4918,45 @@ const Helper = (function() {
                 "/theartofgettingby/theartofgettingby72.jpg",
                 "/theartofgettingby/theartofgettingby73.jpg"
             ],
-            "neighborhood": "Manhattan",
-            "comment": ""
+            "neighborhood": "Manhattan, Mount Vernon",
+            "comment": "",
+            "place_name": "East 3rd Street and Second Ave, Mount Vernon, New York 10550, United States",
+            "Year": "2011",
+            "Rated": "PG-13",
+            "Released": "17 Jun 2011",
+            "Runtime": "83 min",
+            "Genre": "Drama, Romance",
+            "Director": "Gavin Wiesen",
+            "Writer": "Gavin Wiesen",
+            "Actors": "Freddie Highmore, Emma Roberts, Sasha Spielberg, Marcus Carl Franklin",
+            "Plot": "George, a lonely and fatalistic teen who has made it all the way to his senior year without ever having done a real day of work, is befriended by Sally, a popular but complicated girl who recognizes in him a kindred spirit.",
+            "Language": "English",
+            "Country": "USA",
+            "Awards": "1 win & 2 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BNDg3NzE5MjU3MV5BMl5BanBnXkFtZTcwNjY1NTgxNQ@@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "6.6/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "20%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "36/100"
+                }
+            ],
+            "Metascore": "36",
+            "imdbRating": "6.6",
+            "imdbVotes": "55,784",
+            "imdbID": "tt1645080",
+            "Type": "movie",
+            "DVD": "29 Nov 2011",
+            "BoxOffice": "$1,429,260",
+            "Production": "Fox Searchlight",
+            "Website": "N/A"
         },
         {
             "title": "One Fine Day",
@@ -1989,8 +4966,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "1 Centre Street and Chambers Street",
                 "coords": [
-                    0,
-                    1
+                    -74.003757,
+                    40.712972
                 ]
             },
             "images": [
@@ -2003,8 +4980,41 @@ const Helper = (function() {
                 "/onefineday/onefineday03.jpg",
                 "/onefineday/onefineday218.jpg"
             ],
-            "neighborhood": "Manhattan",
-            "comment": ""
+            "neighborhood": "Manhattan, Lower East Side",
+            "comment": "",
+            "place_name": "1 Centre Street, New York, New York 10007, United States",
+            "Year": "1996",
+            "Rated": "PG",
+            "Released": "20 Dec 1996",
+            "Runtime": "108 min",
+            "Genre": "Comedy, Drama, Romance",
+            "Director": "Michael Hoffman",
+            "Writer": "Terrel Seltzer, Ellen Simon",
+            "Actors": "Michelle Pfeiffer, George Clooney, Mae Whitman, Alex D. Linz",
+            "Plot": "The lives of two strangers and their young children unexpectedly intersect on one hectic, stressful day in New York City.",
+            "Language": "English, Spanish",
+            "Country": "USA",
+            "Awards": "Nominated for 1 Oscar. Another 4 wins & 5 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BNDdhMjgxODQtZjNhNS00YjZiLWFmYTAtODZmM2RhM2M3YmIwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "6.5/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "50%"
+                }
+            ],
+            "Metascore": "N/A",
+            "imdbRating": "6.5",
+            "imdbVotes": "42,560",
+            "imdbID": "tt0117247",
+            "Type": "movie",
+            "DVD": "08 Jan 2002",
+            "BoxOffice": "N/A",
+            "Production": "Twentieth Century Fox Home Entertainment",
+            "Website": "N/A"
         },
         {
             "title": "The Freshman",
@@ -2014,8 +5024,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "Washington Square North, Greenwich Village",
                 "coords": [
-                    0,
-                    1
+                    -73.996652,
+                    40.7314067
                 ]
             },
             "images": [
@@ -2024,8 +5034,45 @@ const Helper = (function() {
                 "/thefreshman/thefreshman39.jpg",
                 "/thefreshman/thefreshman38.jpg"
             ],
-            "neighborhood": "Manhattan",
-            "comment": ""
+            "neighborhood": "Manhattan, Greenwich Village",
+            "comment": "",
+            "place_name": "Washington Square North, New York, New York 10011, United States",
+            "Year": "1990",
+            "Rated": "PG",
+            "Released": "27 Jul 1990",
+            "Runtime": "102 min",
+            "Genre": "Comedy, Crime",
+            "Director": "Andrew Bergman",
+            "Writer": "Andrew Bergman",
+            "Actors": "Marlon Brando, Matthew Broderick, Bruno Kirby, Penelope Ann Miller",
+            "Plot": "An N.Y.C. film school student accepts a job with a local mobster who resembles a famous cinema godfather and who takes the young man under his wing, after demanding total loyalty.",
+            "Language": "English, Italian, German, French",
+            "Country": "USA",
+            "Awards": "1 win & 2 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BNjMzZGE4YTctMzUxOS00OTYzLWI4YTAtNTdkZDFjYWQ5OGY4XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "6.4/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "94%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "78/100"
+                }
+            ],
+            "Metascore": "78",
+            "imdbRating": "6.4",
+            "imdbVotes": "18,373",
+            "imdbID": "tt0099615",
+            "Type": "movie",
+            "DVD": "30 Jun 1998",
+            "BoxOffice": "N/A",
+            "Production": "Sony Pictures Home Entertainment",
+            "Website": "N/A"
         },
         {
             "title": "Lola Versus",
@@ -2035,8 +5082,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "Times Square",
                 "coords": [
-                    0,
-                    1
+                    -73.983761,
+                    40.7624195
                 ]
             },
             "images": [
@@ -2047,8 +5094,45 @@ const Helper = (function() {
                 "/lolaversus/lolaversus112.jpg",
                 "/lolaversus/lolaversus95.jpg"
             ],
-            "neighborhood": "Manhattan",
-            "comment": ""
+            "neighborhood": "Manhattan, Midtown",
+            "comment": "",
+            "place_name": "Times Square Church, 237 W 51st St, New York, New York 10019, United States",
+            "Year": "2012",
+            "Rated": "R",
+            "Released": "08 Jun 2012",
+            "Runtime": "87 min",
+            "Genre": "Comedy",
+            "Director": "Daryl Wein",
+            "Writer": "Zoe Lister-Jones, Daryl Wein",
+            "Actors": "Greta Gerwig, Joel Kinnaman, Zoe Lister-Jones, Hamish Linklater",
+            "Plot": "Dumped by her boyfriend just three weeks before their wedding, Lola enlists her close friends for a series of adventures she hopes will help her come to terms with approaching 30 as a single woman.",
+            "Language": "English",
+            "Country": "USA",
+            "Awards": "2 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTA5MjQ1MzE2NzNeQTJeQWpwZ15BbWU3MDk2ODkzNjc@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "5.5/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "36%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "49/100"
+                }
+            ],
+            "Metascore": "49",
+            "imdbRating": "5.5",
+            "imdbVotes": "8,205",
+            "imdbID": "tt1710417",
+            "Type": "movie",
+            "DVD": "11 Sep 2012",
+            "BoxOffice": "$200,000",
+            "Production": "Fox Searchlight Pictures",
+            "Website": "N/A"
         },
         {
             "title": "Big",
@@ -2072,7 +5156,43 @@ const Helper = (function() {
                 "/big/big15.jpg"
             ],
             "neighborhood": "Manhattan",
-            "comment": "The 16ft piano that Tom Hanks walked on has been given to a US children's museum in \nPhiladelphia, Pennsylvania. The instrument was offered to the Please Touch Museum by a US couple who bought it after the film&apos;s release. It was built in Philadelphia by \nRemo Saraceni, who called his invention a Walking Piano. The three-octave piano went on display in January 2009."
+            "comment": "The 16ft piano that Tom Hanks walked on has been given to a US children's museum in \nPhiladelphia, Pennsylvania. The instrument was offered to the Please Touch Museum by a US couple who bought it after the film&apos;s release. It was built in Philadelphia by \nRemo Saraceni, who called his invention a Walking Piano. The three-octave piano went on display in January 2009.",
+            "Year": "1988",
+            "Rated": "PG",
+            "Released": "03 Jun 1988",
+            "Runtime": "104 min",
+            "Genre": "Comedy, Drama, Fantasy, Romance",
+            "Director": "Penny Marshall",
+            "Writer": "Gary Ross, Anne Spielberg",
+            "Actors": "Tom Hanks, Elizabeth Perkins, Robert Loggia, John Heard",
+            "Plot": "After wishing to be made big, a teenage boy wakes the next morning to find himself mysteriously in the body of an adult.",
+            "Language": "English, Spanish",
+            "Country": "USA",
+            "Awards": "Nominated for 2 Oscars. Another 11 wins & 12 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMDQ1ODM5MTMtMjAwYi00ZGUxLTliNTMtN2ZhODAwMjVhMTRlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "7.3/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "97%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "73/100"
+                }
+            ],
+            "Metascore": "73",
+            "imdbRating": "7.3",
+            "imdbVotes": "193,624",
+            "imdbID": "tt0094737",
+            "Type": "movie",
+            "DVD": "18 Dec 2001",
+            "BoxOffice": "N/A",
+            "Production": "Twentieth Century Fox Home Entertainment",
+            "Website": "N/A"
         },
         {
             "title": "You Stupid Man",
@@ -2082,8 +5202,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "Commerce Street and Bedford Street",
                 "coords": [
-                    0,
-                    1
+                    -74.0049377,
+                    40.7315444
                 ]
             },
             "images": [
@@ -2092,8 +5212,37 @@ const Helper = (function() {
                 "/youstupidman/youstupidman01.jpg",
                 "/youstupidman/youstupidman33.jpg"
             ],
-            "neighborhood": "Manhattan",
-            "comment": ""
+            "neighborhood": "Manhattan, West Village",
+            "comment": "",
+            "place_name": "Commerce Street and Bedford Street, New York, New York 10014, United States",
+            "Year": "2002",
+            "Rated": "Not Rated",
+            "Released": "27 Feb 2011",
+            "Runtime": "95 min",
+            "Genre": "Comedy, Romance",
+            "Director": "Brian Burns",
+            "Writer": "Brian Burns",
+            "Actors": "Milla Jovovich, David Krumholtz, William Baldwin, Denise Richards",
+            "Plot": "After a man finally gets over his former girlfriend, who has moved to Los Angeles and become a television star, and falls in love with another woman, the former girlfriend's show is canceled and she wants him back.",
+            "Language": "English",
+            "Country": "Canada, USA, Germany",
+            "Awards": "N/A",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BODg3MDM4NTM1N15BMl5BanBnXkFtZTgwMDY1NTgwMzE@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "5.8/10"
+                }
+            ],
+            "Metascore": "N/A",
+            "imdbRating": "5.8",
+            "imdbVotes": "2,333",
+            "imdbID": "tt0271882",
+            "Type": "movie",
+            "DVD": "07 Feb 2006",
+            "BoxOffice": "N/A",
+            "Production": "Warner Home Video",
+            "Website": "N/A"
         },
         {
             "title": "Ass Backwards",
@@ -2103,8 +5252,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "Manhattan Bridge, East River",
                 "coords": [
-                    0,
-                    1
+                    -73.992246,
+                    40.709965
                 ]
             },
             "images": [
@@ -2114,8 +5263,45 @@ const Helper = (function() {
                 "/assbackwards/assbackwards21.jpg",
                 "/assbackwards/assbackwards19.jpg"
             ],
-            "neighborhood": "Lower Manhattan",
-            "comment": ""
+            "neighborhood": "Lower Manhattan, Lower East Side",
+            "comment": "",
+            "place_name": "Manhattan Bridge North Plaque, Manhattan Bridge, New York, New York 10038, United States",
+            "Year": "2013",
+            "Rated": "Unrated",
+            "Released": "21 Jan 2013",
+            "Runtime": "85 min",
+            "Genre": "Adventure, Comedy",
+            "Director": "Chris Nelson",
+            "Writer": "June Diane Raphael, Casey Wilson",
+            "Actors": "June Diane Raphael, Casey Wilson, Jon Cryer, Vincent D'Onofrio",
+            "Plot": "Two best friends (Kate and Chloe) embark on a cross country trip back to their hometown to attempt to win a pageant that eluded them as children.",
+            "Language": "English",
+            "Country": "USA",
+            "Awards": "N/A",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTUzODI1MjY0M15BMl5BanBnXkFtZTgwMDk0MzgxMDE@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "4.2/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "27%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "37/100"
+                }
+            ],
+            "Metascore": "37",
+            "imdbRating": "4.2",
+            "imdbVotes": "2,132",
+            "imdbID": "tt1509788",
+            "Type": "movie",
+            "DVD": "27 Jan 2014",
+            "BoxOffice": "N/A",
+            "Production": "Gravitas Ventures",
+            "Website": "N/A"
         },
         {
             "title": "Anjaana Anjaani",
@@ -2125,8 +5311,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "Morris Street and Broadway, Financial",
                 "coords": [
-                    0,
-                    1
+                    -74.0132769,
+                    40.7058713
                 ]
             },
             "images": [
@@ -2135,8 +5321,37 @@ const Helper = (function() {
                 "/anjaanaanjaani/anjaanaanjaani24.jpg",
                 "/anjaanaanjaani/anjaanaanjaani25.jpg"
             ],
-            "neighborhood": "Manhattan",
-            "comment": ""
+            "neighborhood": "Manhattan, Financial District",
+            "comment": "",
+            "place_name": "Morris Street and E Broadway, New York, New York 10025, United States",
+            "Year": "2010",
+            "Rated": "Not Rated",
+            "Released": "01 Oct 2010",
+            "Runtime": "151 min",
+            "Genre": "Comedy, Drama, Musical, Romance",
+            "Director": "Siddharth Anand",
+            "Writer": "Mamta Anand (story), Siddharth Anand (dialogue), Siddharth Anand (screenplay), Vishal Dadlani (lyrics), Advaita Kala (screenplay), Kumaar (lyrics), Kausar Munir (lyrics)",
+            "Actors": "Priyanka Chopra, Ranbir Kapoor, Aubrey K. Miller, Carl Marino",
+            "Plot": "After numerous attempts at suicide fail, a couple decide to live it up and then kill themselves on New Year's Day.",
+            "Language": "Hindi",
+            "Country": "India",
+            "Awards": "1 win & 2 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTkyN2M4M2ItOTg0Yi00ZTA5LWI5NDctZjgzNmIxYzgzNjA2XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "5.8/10"
+                }
+            ],
+            "Metascore": "N/A",
+            "imdbRating": "5.8",
+            "imdbVotes": "6,083",
+            "imdbID": "tt1499201",
+            "Type": "movie",
+            "DVD": "21 Dec 2010",
+            "BoxOffice": "N/A",
+            "Production": "Eros International",
+            "Website": "N/A"
         },
         {
             "title": "Lola Versus",
@@ -2146,8 +5361,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "East 10th Street and Stuyvesant Street",
                 "coords": [
-                    0,
-                    1
+                    -73.9875129,
+                    40.7300663
                 ]
             },
             "images": [
@@ -2156,8 +5371,45 @@ const Helper = (function() {
                 "/lolaversus/lolaversus99.jpg",
                 "/lolaversus/lolaversus101.jpg"
             ],
-            "neighborhood": "Manhattan",
-            "comment": ""
+            "neighborhood": "Manhattan, East Village",
+            "comment": "",
+            "place_name": "East 10th Street and Stuyvesant Street, New York, New York 10003, United States",
+            "Year": "2012",
+            "Rated": "R",
+            "Released": "08 Jun 2012",
+            "Runtime": "87 min",
+            "Genre": "Comedy",
+            "Director": "Daryl Wein",
+            "Writer": "Zoe Lister-Jones, Daryl Wein",
+            "Actors": "Greta Gerwig, Joel Kinnaman, Zoe Lister-Jones, Hamish Linklater",
+            "Plot": "Dumped by her boyfriend just three weeks before their wedding, Lola enlists her close friends for a series of adventures she hopes will help her come to terms with approaching 30 as a single woman.",
+            "Language": "English",
+            "Country": "USA",
+            "Awards": "2 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTA5MjQ1MzE2NzNeQTJeQWpwZ15BbWU3MDk2ODkzNjc@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "5.5/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "36%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "49/100"
+                }
+            ],
+            "Metascore": "49",
+            "imdbRating": "5.5",
+            "imdbVotes": "8,205",
+            "imdbID": "tt1710417",
+            "Type": "movie",
+            "DVD": "11 Sep 2012",
+            "BoxOffice": "$200,000",
+            "Production": "Fox Searchlight Pictures",
+            "Website": "N/A"
         },
         {
             "title": "Lulu on the Bridge",
@@ -2167,8 +5419,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "Restaurant, 201A West 79th Street and Amsterdam Avenue",
                 "coords": [
-                    0,
-                    1
+                    -73.987381,
+                    40.722306
                 ]
             },
             "images": [
@@ -2179,8 +5431,41 @@ const Helper = (function() {
                 "/luluonthebridge/luluonthebridge10.jpg",
                 "/luluonthebridge/luluonthebridge11.jpg"
             ],
-            "neighborhood": "Manhattan",
-            "comment": ""
+            "neighborhood": "Manhattan, Lower East Side",
+            "comment": "",
+            "place_name": "Katz's Delicatessen, 205 E Houston St, New York, New York 10002, United States",
+            "Year": "1998",
+            "Rated": "PG-13",
+            "Released": "14 Aug 1998",
+            "Runtime": "103 min",
+            "Genre": "Drama, Music, Mystery, Romance",
+            "Director": "Paul Auster",
+            "Writer": "Paul Auster",
+            "Actors": "Harvey Keitel, Richard Edson, Don Byron, Kevin Corrigan",
+            "Plot": "A famous jazz saxophonist whose life is forever changed after he is accidentally shot.",
+            "Language": "English",
+            "Country": "USA",
+            "Awards": "2 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTY5NTAwNzA0MF5BMl5BanBnXkFtZTYwODI3MTc4._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "6.2/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "0%"
+                }
+            ],
+            "Metascore": "N/A",
+            "imdbRating": "6.2",
+            "imdbVotes": "3,721",
+            "imdbID": "tt0125879",
+            "Type": "movie",
+            "DVD": "21 Sep 1999",
+            "BoxOffice": "N/A",
+            "Production": "Trimark",
+            "Website": "N/A"
         },
         {
             "title": "5 Flights Up",
@@ -2190,8 +5475,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "Alex's Apartment, 327 Bedford Avenue and S 3rd Street",
                 "coords": [
-                    0,
-                    1
+                    -73.783095,
+                    40.649816
                 ]
             },
             "images": [
@@ -2203,8 +5488,45 @@ const Helper = (function() {
                 "/5flightsup/5flightsup24.jpg",
                 "/5flightsup/5flightsup25.jpg"
             ],
-            "neighborhood": "Brooklyn",
-            "comment": ""
+            "neighborhood": "Brooklyn, John F. Kennedy International Airport",
+            "comment": "",
+            "place_name": "Apartment 7B Deli & Market, JFK Terminal 7, New York, New York 11430, United States",
+            "Year": "2014",
+            "Rated": "PG-13",
+            "Released": "08 May 2015",
+            "Runtime": "88 min",
+            "Genre": "Comedy, Drama",
+            "Director": "Richard Loncraine",
+            "Writer": "Charlie Peters (screenplay), Jill Ciment (book)",
+            "Actors": "Diane Keaton, Morgan Freeman, Cynthia Nixon, Carrie Preston",
+            "Plot": "A long-time married couple who've spent their lives together in the same New York apartment become overwhelmed by personal and real estate-related issues when they plan to move away.",
+            "Language": "English",
+            "Country": "USA",
+            "Awards": "1 win.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ5MzU3MzgwN15BMl5BanBnXkFtZTgwNjM2NDQ3NDE@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "6.2/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "46%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "55/100"
+                }
+            ],
+            "Metascore": "55",
+            "imdbRating": "6.2",
+            "imdbVotes": "9,020",
+            "imdbID": "tt2933544",
+            "Type": "movie",
+            "DVD": "07 Jul 2015",
+            "BoxOffice": "N/A",
+            "Production": "Focus Features",
+            "Website": "N/A"
         },
         {
             "title": "Noel",
@@ -2214,8 +5536,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "Rose Collins' Workplace, 30 Rockefeller Plaza",
                 "coords": [
-                    0,
-                    1
+                    -73.993161,
+                    40.73373
                 ]
             },
             "images": [
@@ -2225,8 +5547,45 @@ const Helper = (function() {
                 "/noel/noel01.jpg",
                 "/noel/noel09.jpg"
             ],
-            "neighborhood": "Manhattan",
-            "comment": ""
+            "neighborhood": "Manhattan, Greenwich Village",
+            "comment": "",
+            "place_name": "Collins, 88 University Pl, New York, New York 10003, United States",
+            "Year": "2004",
+            "Rated": "PG",
+            "Released": "26 Nov 2004",
+            "Runtime": "96 min",
+            "Genre": "Drama",
+            "Director": "Chazz Palminteri",
+            "Writer": "David Hubbard",
+            "Actors": "Susan Sarandon, Paul Walker, Penélope Cruz, Alan Arkin",
+            "Plot": "Five New Yorkers come together on Christmas Eve, seeking a miracle.",
+            "Language": "English",
+            "Country": "USA, Canada",
+            "Awards": "N/A",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BOTAxMzY1MDUzNl5BMl5BanBnXkFtZTcwNzk4NTcyMQ@@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "6.2/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "28%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "29/100"
+                }
+            ],
+            "Metascore": "29",
+            "imdbRating": "6.2",
+            "imdbVotes": "8,847",
+            "imdbID": "tt0383534",
+            "Type": "movie",
+            "DVD": "25 Oct 2005",
+            "BoxOffice": "N/A",
+            "Production": "Convex Group",
+            "Website": "N/A"
         },
         {
             "title": "The Code",
@@ -2236,8 +5595,8 @@ const Helper = (function() {
             "locationInfo": {
                 "address": "Brighton Beach Avenue & Brighton 2nd Street",
                 "coords": [
-                    0,
-                    1
+                    -73.965095,
+                    40.576827
                 ]
             },
             "images": [
@@ -2246,14 +5605,39 @@ const Helper = (function() {
                 "/thecode/thecode28.jpg",
                 "/thecode/thecode29.jpg"
             ],
-            "neighborhood": "Brooklyn",
-            "comment": ""
+            "neighborhood": "Brooklyn, Brighton Beach",
+            "comment": "",
+            "place_name": "Brighton Beach Avenue and Brighton 2nd Street, Brooklyn, New York 11235, United States",
+            "Year": "2014–2016",
+            "Rated": "N/A",
+            "Released": "21 Sep 2014",
+            "Runtime": "54 min",
+            "Genre": "Drama, Thriller",
+            "Director": "N/A",
+            "Writer": "Shelley Birse",
+            "Actors": "Dan Spielman, Ashley Zukerman, Adele Perovic, Michael Denkha",
+            "Plot": "Two Canberra based brothers become entangled in a cover up that involves a remote outback community and key members of the Australian Government.",
+            "Language": "English",
+            "Country": "Australia",
+            "Awards": "9 wins & 9 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BNmRhYWNlYjktZTVhMi00OTViLWIxNjEtOWZiZmE5YTE0MTY2XkEyXkFqcGdeQXVyNTM4OTY2MDU@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "7.4/10"
+                }
+            ],
+            "Metascore": "N/A",
+            "imdbRating": "7.4",
+            "imdbVotes": "3,641",
+            "imdbID": "tt3914672",
+            "Type": "series",
+            "totalSeasons": "2"
         }
     ]
 
     return { 
-        locationList : locationList,
-        coordList: coordList,
+        locationList : shuffleArr(locationList),
         shuffle,
     }
 }());

@@ -13,7 +13,7 @@ import LocationsPagination from './LocationsPagination';
 export const LocationCardList = (props) => {
 
   // const fullLocationList = ScrapedData.locationList;
-  const fullLocationList = Helper.shuffle();
+  const fullLocationList = Helper.locationList;
   let numItems = 25;
 
   const [params, setParams] = useState({"title":"","neighborhood":""});
@@ -91,7 +91,11 @@ export const LocationCardList = (props) => {
             location={location}
           />
         })}
-
+          <LocationsPagination 
+            page={page}
+            setPage={setPageThenCheckForNextPage}
+            hasNextPage={hasNextPage}
+          />
       </Container>
     </div>
   );
