@@ -54,7 +54,7 @@ const Helper = (function() {
                 "/theycametogether/theycametogether51.jpg",
                 "/theycametogether/theycametogether50.jpg"
             ],
-            "neighborhood": "Manhattan, Gramercy",
+            "neighborhood": "Gramercy, Manhattan",
             "comment": "",
             "place_name": "2nd Ave Deli, 162 E 33rd St, New York, New York 10016, United States",
             "Year": "2014",
@@ -112,7 +112,7 @@ const Helper = (function() {
                 "/alienspaceavenger/alienspaceavenger21.jpg",
                 "/alienspaceavenger/alienspaceavenger22.jpg"
             ],
-            "neighborhood": "Manhattan, Upper West Side",
+            "neighborhood": "Upper West Side, Manhattan",
             "comment": "",
             "place_name": "Merchants' Gate, Columbus Cir, New York, New York 10023, United States",
             "Year": "1989",
@@ -164,7 +164,7 @@ const Helper = (function() {
                 "/misscongeniality2/misscongeniality2_11.jpg",
                 "/misscongeniality2/misscongeniality2_10.jpg"
             ],
-            "neighborhood": "Manhattan, Chelsea",
+            "neighborhood": "Chelsea, Manhattan",
             "comment": "Notice that the sign on the front of the school clearly shows PS 31, when \n\t\t\t\t\t\t\t\t\t\t\t\t\t\tin fact the school is PS 11 on 21st Street.",
             "place_name": "P.S. 11 William T. Harris Elementary School, 320 W 21st St, New York, New York 10011, United States",
             "Year": "2005",
@@ -222,7 +222,7 @@ const Helper = (function() {
                 "/mostbeautifulisland/mostbeautifulisland01.jpg",
                 "/mostbeautifulisland/mostbeautifulisland09.jpg"
             ],
-            "neighborhood": "Manhattan, Midtown",
+            "neighborhood": "Midtown, Manhattan",
             "comment": "",
             "place_name": "Grand Central Terminal Clock, Grand Central Terminal, New York, New York 10017, United States",
             "Year": "2017",
@@ -268,7 +268,7 @@ const Helper = (function() {
             "summary": "Al Connelly (Freddie Prinze Jr.) meets the girl of his dreams, freshman Imogen (Julia Stiles), and true love abounds. Thetwo engage on a whirlwind courtship--they pick a song, eat a cake together, even make love. But Imogen's fear of lost youth causes her to push away from Al, andthey go their separate ways. Al attempts to rebound from the relationship, determined to forget Imogen, and he goes to desperate measures to do so. The story istold from the points of view of both Al and Imogen.",
             "moviePoster": "/downtoyou/downtoyouposter.jpg",
             "locationInfo": {
-                "address": "Pond  Central Park",
+                "address": "Pond Central Park",
                 "coords": [
                     0,
                     1
@@ -396,7 +396,7 @@ const Helper = (function() {
                 "/singlewhitefemale/singlewhitefemale101.jpg",
                 "/singlewhitefemale/singlewhitefemale157.jpg"
             ],
-            "neighborhood": "Manhattan, Upper West Side",
+            "neighborhood": "Upper West Side, Manhattan",
             "comment": "",
             "place_name": "Broadway and West 75th Street, New York, New York 10023, United States",
             "Year": "1992",
@@ -456,7 +456,7 @@ const Helper = (function() {
                 "/confessionsofashopaholic/confessionsofashopaholic104.jpg",
                 "/confessionsofashopaholic/confessionsofashopaholic107.jpg"
             ],
-            "neighborhood": "Manhattan, Flatiron District",
+            "neighborhood": "Flatiron District, Manhattan",
             "comment": "",
             "place_name": "Madison Avenue Baptist Church, 30 E 31st St, New York, New York 10016, United States",
             "Year": "2009",
@@ -517,7 +517,7 @@ const Helper = (function() {
                 "/theoddcouple/theoddcouple27.jpg",
                 "/theoddcouple/theoddcouple25.jpg"
             ],
-            "neighborhood": "Queens, Elmont",
+            "neighborhood": "Elmont, Queens",
             "comment": "The scene at Shea Stadium, which also featured Heywood Hale Broun, \nwas filmed right before a real game btw the New York Mets and the Pittsburgh Pirates on June 27, 1967. Roberto Clemente was asked to hit into the \ntriple play that Oscar misses, but he refused to do it and Bill Mazeroski took his place.",
             "place_name": "Belmont Park Racetrack, 2150 Hempstead Tpke, Elmont, New York 11003, United States",
             "Year": "1968",
@@ -575,7 +575,7 @@ const Helper = (function() {
                 "/theanomaly/theanomaly01.jpg",
                 "/theanomaly/theanomaly13.jpg"
             ],
-            "neighborhood": "Manhattan, Central Valley Stream",
+            "neighborhood": "Central Valley Stream, Manhattan",
             "comment": "",
             "place_name": "72 Walker Street, Malverne, New York 11565, United States",
             "Year": "2014",
@@ -629,7 +629,7 @@ const Helper = (function() {
                 "/desperatelyseekingsusan/desperatelyseekingsusan205.jpg",
                 "/desperatelyseekingsusan/desperatelyseekingsusan204.jpg"
             ],
-            "neighborhood": "Manhattan, Midtown",
+            "neighborhood": "Midtown, Manhattan",
             "comment": "",
             "place_name": "Times Square Church, 237 W 51st St, New York, New York 10019, United States",
             "Year": "1985",
@@ -689,7 +689,7 @@ const Helper = (function() {
                 "/marathonman/marathonman37.jpg",
                 "/marathonman/marathonman38.jpg"
             ],
-            "neighborhood": "Manhattan, Central Park",
+            "neighborhood": "Central Park, Manhattan",
             "comment": "The fence which run around the reservior has since been replaced by an iron railing fence.",
             "place_name": "Central Park Zoo, Central Park, New York, New York 10024, United States",
             "Year": "1976",
@@ -748,7 +748,7 @@ const Helper = (function() {
                 "/buyingthecow/buyingthecow01.jpg",
                 "/buyingthecow/buyingthecow03.jpg"
             ],
-            "neighborhood": "Brooklyn, DUMBO",
+            "neighborhood": "DUMBO, Brooklyn",
             "comment": "The exterior shot was filmed in Brooklyn on Main Street. The interior shots have yet to be identified.",
             "place_name": "Main Street and Plymouth Street, Brooklyn, New York 11201, United States",
             "Year": "2002",
@@ -798,7 +798,7 @@ const Helper = (function() {
                 "/turk182/turk182_01.jpg",
                 "/turk182/turk182_20.jpg"
             ],
-            "neighborhood": "Manhattan, Midtown",
+            "neighborhood": "Midtown, Manhattan",
             "comment": "",
             "place_name": "Mayor's Office of Film, 1697 Broadway, New York, New York 10019, United States",
             "Year": "1985",
@@ -857,7 +857,7 @@ const Helper = (function() {
                 "/forgettingthegirl/forgettingthegirl15.jpg",
                 "/forgettingthegirl/forgettingthegirl16.jpg"
             ],
-            "neighborhood": "Manhattan, Clinton",
+            "neighborhood": "Clinton, Manhattan",
             "comment": "",
             "place_name": "10th Avenue and West 39th Street, New York, New York 10018, United States",
             "Year": "2012",
@@ -917,7 +917,7 @@ const Helper = (function() {
                 "/malcolmx/malcolmx10.jpg",
                 "/malcolmx/malcolmx09.jpg"
             ],
-            "neighborhood": "Manhattan, Harlem",
+            "neighborhood": "Harlem, Manhattan",
             "comment": "",
             "place_name": "West 125th Street and 8th Avenue, New York, New York 10039, United States",
             "Year": "1992",
@@ -977,7 +977,7 @@ const Helper = (function() {
                 "/forricherorpoorer/forricherorpoorer38.jpg",
                 "/forricherorpoorer/forricherorpoorer44.jpg"
             ],
-            "neighborhood": "Manhattan, Lower East Side",
+            "neighborhood": "Lower East Side, Manhattan",
             "comment": "",
             "place_name": "Office of the City Clerk - Marriage Bureau, 141 Worth St, New York, New York 10013, United States",
             "Year": "1997",
@@ -1091,7 +1091,7 @@ const Helper = (function() {
                 "/somethingborrowed/somethingborrowed01.jpg",
                 "/somethingborrowed/somethingborrowed40.jpg"
             ],
-            "neighborhood": "Manhattan, North Lynbrook",
+            "neighborhood": "North Lynbrook, Manhattan",
             "comment": "",
             "place_name": "Long Beach, Long Beach, New York 11561, United States",
             "Year": "2011",
@@ -1151,7 +1151,7 @@ const Helper = (function() {
                 "/purpleviolets/purpleviolets66.jpg",
                 "/purpleviolets/purpleviolets82.jpg"
             ],
-            "neighborhood": "Manhattan, John F. Kennedy International Airport",
+            "neighborhood": "John F. Kennedy International Airport, Manhattan",
             "comment": "",
             "place_name": "Apartment 7B Deli & Market, JFK Terminal 7, New York, New York 11430, United States",
             "Year": "2007",
@@ -1202,7 +1202,7 @@ const Helper = (function() {
                 "/nineandahalfweeks/nineweeks157.jpg",
                 "/nineandahalfweeks/nineweeks158.jpg"
             ],
-            "neighborhood": "Manhattan, Little Italy",
+            "neighborhood": "Little Italy, Manhattan",
             "comment": "",
             "place_name": "Mulberry Street Bar, 176 1/2 Mulberry St, New York, New York 10013, United States"
         },
@@ -1227,7 +1227,7 @@ const Helper = (function() {
                 "/diehard3/diehardwithavengeance183.jpg",
                 "/diehard3/diehardwithavengeance189.jpg"
             ],
-            "neighborhood": "Manhattan, Financial District",
+            "neighborhood": "Financial District, Manhattan",
             "comment": "The park on top of the Wall Street station in the film was a vacant lot that was made into a park for the film. It was turned back into a vacant lot after filming was completed.",
             "place_name": "William Street Residence, 84 William St, New York, New York 10038, United States"
         },
@@ -1250,7 +1250,7 @@ const Helper = (function() {
                 "/regardinghenry/regardinghenry34.jpg",
                 "/regardinghenry/regardinghenry33.jpg"
             ],
-            "neighborhood": "Manhattan, Gramercy",
+            "neighborhood": "Gramercy, Manhattan",
             "comment": "",
             "place_name": "AMC Kips Bay 15, 570 2nd Ave, New York, New York 10016, United States",
             "Year": "1991",
@@ -1310,7 +1310,7 @@ const Helper = (function() {
                 "/morningglory/morningglory79.jpg",
                 "/morningglory/morningglory66.jpg"
             ],
-            "neighborhood": "Manhattan, Midtown",
+            "neighborhood": "Midtown, Manhattan",
             "comment": "",
             "place_name": "5th Avenue and East 59th Street, New York, New York 10022, United States",
             "Year": "2010",
@@ -1373,7 +1373,7 @@ const Helper = (function() {
                 "/brightlightsbigcity/brightlightsbigcity32.jpg",
                 "/brightlightsbigcity/brightlightsbigcity05.jpg"
             ],
-            "neighborhood": "Manhattan, Tribeca",
+            "neighborhood": "Tribeca, Manhattan",
             "comment": "",
             "place_name": "Laight Street and Greenwich Street, New York, New York 10013, United States",
             "Year": "1988",
@@ -1432,7 +1432,7 @@ const Helper = (function() {
                 "/shame/shame45.jpg",
                 "/shame/shame46.jpg"
             ],
-            "neighborhood": "Manhattan, Garment District",
+            "neighborhood": "Garment District, Manhattan",
             "comment": "",
             "place_name": "Broadway and West 31st Street, New York, New York 10001, United States",
             "Year": "2011",
@@ -1491,7 +1491,7 @@ const Helper = (function() {
                 "/thedarktower/thedarktower85.jpg",
                 "/thedarktower/thedarktower89.jpg"
             ],
-            "neighborhood": "Brooklyn, Lower East Side",
+            "neighborhood": "Lower East Side, Brooklyn",
             "comment": "",
             "place_name": "Pig and Khao, 66 Clinton St, New York, New York 10002, United States",
             "Year": "2017",
@@ -1550,7 +1550,7 @@ const Helper = (function() {
                 "/onefineday/onefineday227.jpg",
                 "/onefineday/onefineday226.jpg"
             ],
-            "neighborhood": "Manhattan, Greenwich Village",
+            "neighborhood": "Greenwich Village, Manhattan",
             "comment": "",
             "place_name": "6th Avenue and Bleecker Street, New York, New York 10014, United States",
             "Year": "1996",
@@ -1606,7 +1606,7 @@ const Helper = (function() {
                 "/thesmurfs/thesmurfs57.jpg",
                 "/thesmurfs/thesmurfs56.jpg"
             ],
-            "neighborhood": "Manhattan, Midtown",
+            "neighborhood": "Midtown, Manhattan",
             "comment": "",
             "place_name": "Times Square Church, 237 W 51st St, New York, New York 10019, United States",
             "Year": "2011",
@@ -1663,7 +1663,7 @@ const Helper = (function() {
                 "/peopleiknow/peopleiknow01.jpg",
                 "/peopleiknow/peopleiknow14.jpg"
             ],
-            "neighborhood": "Manhattan, John F. Kennedy International Airport",
+            "neighborhood": "John F. Kennedy International Airport, Manhattan",
             "comment": "",
             "place_name": "Apartment 7B Deli & Market, JFK Terminal 7, New York, New York 11430, United States",
             "Year": "2002",
@@ -1721,7 +1721,7 @@ const Helper = (function() {
                 "/brokenenglish/brokenenglish01.jpg",
                 "/brokenenglish/brokenenglish10.jpg"
             ],
-            "neighborhood": "Manhattan, Midtown",
+            "neighborhood": "Midtown, Manhattan",
             "comment": "",
             "place_name": "15 West 56th Street, New York, New York 10019, United States",
             "Year": "2007",
@@ -1780,7 +1780,7 @@ const Helper = (function() {
                 "/tradingplaces/tradingplaces101.jpg",
                 "/tradingplaces/tradingplaces117.jpg"
             ],
-            "neighborhood": "Manhattan, Tribeca",
+            "neighborhood": "Tribeca, Manhattan",
             "comment": "",
             "place_name": "Greenwich Street Tavern, 399 Greenwich St, New York, New York 10013, United States",
             "Year": "1983",
@@ -1839,7 +1839,7 @@ const Helper = (function() {
                 "/collateralbeauty/collateralbeauty200.jpg",
                 "/collateralbeauty/collateralbeauty201.jpg"
             ],
-            "neighborhood": "Manhattan., Midtown",
+            "neighborhood": "Midtown, Manhattan.",
             "comment": "",
             "place_name": "West 58th Street and 5th Avenue, New York, New York 10019, United States",
             "Year": "2016",
@@ -1898,7 +1898,7 @@ const Helper = (function() {
                 "/thanksforsharing/thanksforsharing55.jpg",
                 "/thanksforsharing/thanksforsharing57.jpg"
             ],
-            "neighborhood": "Harlem, New York",
+            "neighborhood": "New York, Harlem",
             "comment": "",
             "place_name": "Barnum Island, New York, United States",
             "Year": "2012",
@@ -1958,7 +1958,7 @@ const Helper = (function() {
                 "/onenightstand/onenightstand15.jpg",
                 "/onenightstand/onenightstand24.jpg"
             ],
-            "neighborhood": "Manhattan, The Waterfront",
+            "neighborhood": "The Waterfront, Manhattan",
             "comment": "",
             "place_name": "20 Exchange Place, Jersey City, New Jersey 07302, United States",
             "Year": "1997",
@@ -2011,7 +2011,7 @@ const Helper = (function() {
                 "/bridewars/bridewars05.jpg",
                 "/bridewars/bridewars06.jpg"
             ],
-            "neighborhood": "Manhattan, Midtown",
+            "neighborhood": "Midtown, Manhattan",
             "comment": "",
             "place_name": "Pulitzer Fountain, 58th Street & 5th Avenue, New York, New York 10019, United States",
             "Year": "2009",
@@ -2068,7 +2068,7 @@ const Helper = (function() {
                 "/eraser/eraser10.jpg",
                 "/eraser/eraser01.jpg"
             ],
-            "neighborhood": "Manhattan, Chinatown",
+            "neighborhood": "Chinatown, Manhattan",
             "comment": "",
             "place_name": "Doyers Street and Pell Street, New York, New York 10013, United States",
             "Year": "1996",
@@ -2128,7 +2128,7 @@ const Helper = (function() {
                 "/thebagman/thebagman01.jpg",
                 "/thebagman/thebagman06.jpg"
             ],
-            "neighborhood": "Manhattan, Tribeca",
+            "neighborhood": "Tribeca, Manhattan",
             "comment": "",
             "place_name": "Broadway and Chambers Street, New York, New York 10007, United States",
             "Year": "2014",
@@ -2186,7 +2186,7 @@ const Helper = (function() {
                 "/thesorcerersapprentice/thesorcerersapprentice53.jpg",
                 "/thesorcerersapprentice/thesorcerersapprentice59.jpg"
             ],
-            "neighborhood": "Manhattan, Bayside",
+            "neighborhood": "Bayside, Manhattan",
             "comment": "",
             "place_name": "Alley Pond Park, Springfield Boulevard, New York, New York 11361, United States",
             "Year": "2010",
@@ -2245,7 +2245,7 @@ const Helper = (function() {
                 "/demolition/demolition23.jpg",
                 "/demolition/demolition24.jpg"
             ],
-            "neighborhood": "Manhattan, Lower East Side",
+            "neighborhood": "Lower East Side, Manhattan",
             "comment": "",
             "place_name": "Office of the City Clerk - Marriage Bureau, 141 Worth St, New York, New York 10013, United States",
             "Year": "2015",
@@ -2304,7 +2304,7 @@ const Helper = (function() {
                 "/thewanderers/thewanderers02.jpg",
                 "/thewanderers/thewanderers03.jpg"
             ],
-            "neighborhood": "Bronx, Kingsbridge",
+            "neighborhood": "Kingsbridge, Bronx",
             "comment": "",
             "place_name": "Kingsbridge Terrace, Bronx, New York 10463, United States",
             "Year": "1979",
@@ -2362,7 +2362,7 @@ const Helper = (function() {
                 "/psiloveyou/psiloveyou09.jpg",
                 "/psiloveyou/psiloveyou10.jpg"
             ],
-            "neighborhood": "Manhattan, John F. Kennedy International Airport",
+            "neighborhood": "John F. Kennedy International Airport, Manhattan",
             "comment": "",
             "place_name": "Apartment 7B Deli & Market, JFK Terminal 7, New York, New York 11430, United States",
             "Year": "2007",
@@ -2417,7 +2417,7 @@ const Helper = (function() {
                 "/sharknado2/sharknado2_14.jpg",
                 "/sharknado2/sharknado2_15.jpg"
             ],
-            "neighborhood": "New York Harbour, Searingtown",
+            "neighborhood": "Searingtown, New York Harbour",
             "comment": "",
             "place_name": "Circle Lane, Roslyn Heights, New York 11577, United States",
             "Year": "2014",
@@ -2527,7 +2527,7 @@ const Helper = (function() {
                 "/emanuelleandthelastcannibals/emanuelleandthelastcannibals34.jpg",
                 "/emanuelleandthelastcannibals/emanuelleandthelastcannibals35.jpg"
             ],
-            "neighborhood": "Brooklyn, DUMBO",
+            "neighborhood": "DUMBO, Brooklyn",
             "comment": "",
             "place_name": "Plymouth Street and Washington Street, Brooklyn, New York 11201, United States",
             "Year": "1977",
@@ -2578,7 +2578,7 @@ const Helper = (function() {
                 "/miracleon34thstreet/miracleon34thstreet14.jpg",
                 "/miracleon34thstreet/miracleon34thstreet13.jpg"
             ],
-            "neighborhood": "Manhattan, Downtown",
+            "neighborhood": "Downtown, Manhattan",
             "comment": "",
             "place_name": "Kings County Supreme Court, 360 Adams St, New York, New York 11201, United States",
             "Year": "1947",
@@ -2638,7 +2638,7 @@ const Helper = (function() {
                 "/regardinghenry/regardinghenry30.jpg",
                 "/regardinghenry/regardinghenry35.jpg"
             ],
-            "neighborhood": "Manhattan, Upper East Side",
+            "neighborhood": "Upper East Side, Manhattan",
             "comment": "",
             "place_name": "5th Avenue and East 82nd Street, New York, New York 10028, United States",
             "Year": "1991",
@@ -2696,7 +2696,7 @@ const Helper = (function() {
                 "/iamlegend/iamlegend27.jpg",
                 "/iamlegend/iamlegend29.jpg"
             ],
-            "neighborhood": "Manhattan, Murray Hill",
+            "neighborhood": "Murray Hill, Manhattan",
             "comment": "",
             "place_name": "Park Avenue Tavern, 99 Park Ave, New York, New York 10016, United States",
             "Year": "2007",
@@ -2755,7 +2755,7 @@ const Helper = (function() {
                 "/frankieandjohnny/frankieandjohnny04.jpg",
                 "/frankieandjohnny/frankieandjohnny40.jpg"
             ],
-            "neighborhood": "Manhattan, John F. Kennedy International Airport",
+            "neighborhood": "John F. Kennedy International Airport, Manhattan",
             "comment": "",
             "place_name": "Apartment 7B Deli & Market, JFK Terminal 7, New York, New York 11430, United States",
             "Year": "1991",
@@ -2813,7 +2813,7 @@ const Helper = (function() {
                 "/thebourneultimatum/thebourneultimatum07.jpg",
                 "/thebourneultimatum/thebourneultimatum06.jpg"
             ],
-            "neighborhood": "Manhattan, Midtown",
+            "neighborhood": "Midtown, Manhattan",
             "comment": "",
             "place_name": "East 56th Street and Park Avenue, New York, New York 10457, United States",
             "Year": "2007",
@@ -2873,7 +2873,7 @@ const Helper = (function() {
                 "/ittakestwo/ittakestwo22.jpg",
                 "/ittakestwo/ittakestwo25.jpg"
             ],
-            "neighborhood": "Manhattan, Midtown",
+            "neighborhood": "Midtown, Manhattan",
             "comment": "",
             "place_name": "Elizabeth Arden Red Door Spa, 663 5th Ave, New York, New York 10022, United States",
             "Year": "1995",
@@ -2933,7 +2933,7 @@ const Helper = (function() {
                 "/alatequartet/alatequartet26.jpg",
                 "/alatequartet/alatequartet29.jpg"
             ],
-            "neighborhood": "Manhattan, Mount Vernon",
+            "neighborhood": "Mount Vernon, Manhattan",
             "comment": "",
             "place_name": "East 7th Street, Mount Vernon, New York 10550, United States",
             "Year": "2012",
@@ -2991,7 +2991,7 @@ const Helper = (function() {
                 "/deepimpact/deepimpact14.jpg",
                 "/deepimpact/deepimpact05.jpg"
             ],
-            "neighborhood": "Manhattan, Battery Park",
+            "neighborhood": "Battery Park, Manhattan",
             "comment": "",
             "place_name": "Battery Place, New York, New York 10280, United States",
             "Year": "1998",
@@ -3108,7 +3108,7 @@ const Helper = (function() {
                 "/sidestreet/sidestreet62.jpg",
                 "/sidestreet/sidestreet63.jpg"
             ],
-            "neighborhood": "Manhattan, Woodhaven",
+            "neighborhood": "Woodhaven, Manhattan",
             "comment": "",
             "place_name": "El Beauty Salon Ferreira, 8702 91st Ave, New York, New York 11421, United States",
             "Year": "1950",
@@ -3164,7 +3164,7 @@ const Helper = (function() {
                 "/theyalllaughed/theyalllaughed66.jpg",
                 "/theyalllaughed/theyalllaughed67.jpg"
             ],
-            "neighborhood": "Manhattan, Gramercy",
+            "neighborhood": "Gramercy, Manhattan",
             "comment": "",
             "place_name": "2nd Avenue and East 20th Street, New York, New York 10003, United States",
             "Year": "1981",
@@ -3218,7 +3218,7 @@ const Helper = (function() {
                 "/whosthatgirl/whosthatgirl300.jpg",
                 "/whosthatgirl/whosthatgirl385.jpg"
             ],
-            "neighborhood": "Brooklyn, Brooklyn Heights",
+            "neighborhood": "Brooklyn Heights, Brooklyn",
             "comment": "",
             "place_name": "Brooklyn Bridge Park - Pier 2, Furman St, New York, New York 10004, United States",
             "Year": "1987",
@@ -3277,7 +3277,7 @@ const Helper = (function() {
                 "/returntomontauk/returntomontauk59.jpg",
                 "/returntomontauk/returntomontauk61.jpg"
             ],
-            "neighborhood": "Manhattan, John F. Kennedy International Airport",
+            "neighborhood": "John F. Kennedy International Airport, Manhattan",
             "comment": "",
             "place_name": "Apartment 7B Deli & Market, JFK Terminal 7, New York, New York 11430, United States",
             "Year": "2017",
@@ -3390,7 +3390,7 @@ const Helper = (function() {
                 "/heavypetting/heavypetting01.jpg",
                 "/heavypetting/heavypetting04.jpg"
             ],
-            "neighborhood": "Brooklyn, Downtown",
+            "neighborhood": "Downtown, Brooklyn",
             "comment": "",
             "place_name": "The Pet Shop, 193 Newark Ave, Jersey City, New Jersey 07302, United States",
             "Year": "2007",
@@ -3440,7 +3440,7 @@ const Helper = (function() {
                 "/purpleviolets/purpleviolets69.jpg",
                 "/purpleviolets/purpleviolets70.jpg"
             ],
-            "neighborhood": "New York, Hunters Point",
+            "neighborhood": "Hunters Point, New York",
             "comment": "",
             "place_name": "Queensboro Bridge Pedestrian & Bike Path, Queensboro Bridge, New York, New York 11101, United States",
             "Year": "2007",
@@ -3490,7 +3490,7 @@ const Helper = (function() {
                 "/mylastdaywithoutyou/mylastdaywithoutyou01.jpg",
                 "/mylastdaywithoutyou/mylastdaywithoutyou22.jpg"
             ],
-            "neighborhood": "Manhattan, Financial District",
+            "neighborhood": "Financial District, Manhattan",
             "comment": "",
             "place_name": "One Battery Park Plaza, 24 Whitehall St, New York, New York 10004, United States",
             "Year": "2011",
@@ -3541,7 +3541,7 @@ const Helper = (function() {
                 "/newyorkminute/newyorkminute206.jpg",
                 "/newyorkminute/newyorkminute207.jpg"
             ],
-            "neighborhood": "Manhattan, Midtown",
+            "neighborhood": "Midtown, Manhattan",
             "comment": "",
             "place_name": "The Plaza Hotel, 768 5th Ave, New York, New York 10019, United States",
             "Year": "2004",
@@ -3600,7 +3600,7 @@ const Helper = (function() {
                 "/thesorcerersapprentice/thesorcerersapprentice65.jpg",
                 "/thesorcerersapprentice/thesorcerersapprentice66.jpg"
             ],
-            "neighborhood": "Manhattan, Financial District",
+            "neighborhood": "Financial District, Manhattan",
             "comment": "",
             "place_name": "Bowling Grn, New York, New York 10004, United States",
             "Year": "2010",
@@ -3659,7 +3659,7 @@ const Helper = (function() {
                 "/eatpraylove/eatpraylove03.jpg",
                 "/eatpraylove/eatpraylove11.jpg"
             ],
-            "neighborhood": "Brooklyn, Downtown",
+            "neighborhood": "Downtown, Brooklyn",
             "comment": "",
             "place_name": "Cafe Formaggio, 307 Old Country Rd, Carle Place, New York 11514, United States",
             "Year": "2010",
@@ -3720,7 +3720,7 @@ const Helper = (function() {
                 "/fadinggigolo/fadinggigolo73.jpg",
                 "/fadinggigolo/fadinggigolo75.jpg"
             ],
-            "neighborhood": "Brooklyn, Clinton Hill",
+            "neighborhood": "Clinton Hill, Brooklyn",
             "comment": "",
             "place_name": "Grand Avenue and Clifton Place, Brooklyn, New York 11216, United States",
             "Year": "2013",
@@ -3778,7 +3778,7 @@ const Helper = (function() {
                 "/cruelintentions2/cruelintentions2_12.jpg",
                 "/cruelintentions2/cruelintentions2_13.jpg"
             ],
-            "neighborhood": "Manhattan, Midtown",
+            "neighborhood": "Midtown, Manhattan",
             "comment": "",
             "place_name": "Times Square Church, 237 W 51st St, New York, New York 10019, United States",
             "Year": "2000",
@@ -3830,7 +3830,7 @@ const Helper = (function() {
                 "/woo/woo01.jpg",
                 "/woo/woo10.jpg"
             ],
-            "neighborhood": "Manhattan, Garment District",
+            "neighborhood": "Garment District, Manhattan",
             "comment": "",
             "place_name": "West 42nd Street and 6th Avenue, New York, New York 10011, United States",
             "Year": "1998",
@@ -3884,7 +3884,7 @@ const Helper = (function() {
                 "/sorryhaters/sorryhaters01.jpg",
                 "/sorryhaters/sorryhaters13.jpg"
             ],
-            "neighborhood": "Manhattan, Flatiron District",
+            "neighborhood": "Flatiron District, Manhattan",
             "comment": "",
             "place_name": "East 22nd Street and Park Avenue South, New York, New York 10016, United States",
             "Year": "2005",
@@ -3943,7 +3943,7 @@ const Helper = (function() {
                 "/august/august28.jpg",
                 "/august/august21.jpg"
             ],
-            "neighborhood": "Manhattan, Lower East Side",
+            "neighborhood": "Lower East Side, Manhattan",
             "comment": "",
             "place_name": "Office of the City Clerk - Marriage Bureau, 141 Worth St, New York, New York 10013, United States",
             "Year": "2008",
@@ -4001,7 +4001,7 @@ const Helper = (function() {
                 "/gloria/gloria34.jpg",
                 "/gloria/gloria33.jpg"
             ],
-            "neighborhood": "Manhattan, Washington Heights",
+            "neighborhood": "Washington Heights, Manhattan",
             "comment": "",
             "place_name": "West 158th Street and E Broadway, New York, New York 10025, United States",
             "Year": "1980",
@@ -4059,7 +4059,7 @@ const Helper = (function() {
                 "/thenshefoundme/thenshefoundme06.jpg",
                 "/thenshefoundme/thenshefoundme01.jpg"
             ],
-            "neighborhood": "Manhattan, Canarsie",
+            "neighborhood": "Canarsie, Manhattan",
             "comment": "",
             "place_name": "East 78th Street, Brooklyn, New York 11236, United States",
             "Year": "2007",
@@ -4119,7 +4119,7 @@ const Helper = (function() {
                 "/angermanagement/angermanagement01.jpg",
                 "/angermanagement/angermanagement52.jpg"
             ],
-            "neighborhood": "Manhattan, Midtown",
+            "neighborhood": "Midtown, Manhattan",
             "comment": "",
             "place_name": "St. Bartholomew's Church, 325 Park Ave, New York, New York 10022, United States",
             "Year": "2003",
@@ -4177,7 +4177,7 @@ const Helper = (function() {
                 "/theobjectofmyaffection/theobjectofmyaffection23.jpg",
                 "/theobjectofmyaffection/theobjectofmyaffection35.jpg"
             ],
-            "neighborhood": "Manhattan, Central Park",
+            "neighborhood": "Central Park, Manhattan",
             "comment": "",
             "place_name": "Central Park Zoo, Central Park, New York, New York 10024, United States",
             "Year": "1998",
@@ -4236,7 +4236,7 @@ const Helper = (function() {
                 "/leon/leon85.jpg",
                 "/leon/leon97.jpg"
             ],
-            "neighborhood": "Harlem, Astoria",
+            "neighborhood": "Astoria, Harlem",
             "comment": "",
             "place_name": "38-12 Broadway, Queens, New York 11103, United States"
         },
@@ -4263,7 +4263,7 @@ const Helper = (function() {
                 "/ghostbusters2/ghostbusters2_235.jpg",
                 "/ghostbusters2/ghostbusters2_236.jpg"
             ],
-            "neighborhood": "Manhattan, Canarsie",
+            "neighborhood": "Canarsie, Manhattan",
             "comment": "",
             "place_name": "East 77th Street, Brooklyn, New York 11236, United States"
         },
@@ -4286,7 +4286,7 @@ const Helper = (function() {
                 "/confessionsofashopaholic/confessionsofashopaholic103.jpg",
                 "/confessionsofashopaholic/confessionsofashopaholic98.jpg"
             ],
-            "neighborhood": "Manhattan., Flatiron District",
+            "neighborhood": "Flatiron District, Manhattan.",
             "comment": "",
             "place_name": "The Storehouse, 69 W 23rd St, New York, New York 10010, United States",
             "Year": "2009",
@@ -4346,7 +4346,7 @@ const Helper = (function() {
                 "/newjackcity/newjackcity09.jpg",
                 "/newjackcity/newjackcity10.jpg"
             ],
-            "neighborhood": "Manhattan, Morningside Heights",
+            "neighborhood": "Morningside Heights, Manhattan",
             "comment": "",
             "place_name": "Grant's Tomb Visitor Center, New York, New York 10024, United States",
             "Year": "1991",
@@ -4406,7 +4406,7 @@ const Helper = (function() {
                 "/onefineday/onefineday225.jpg",
                 "/onefineday/onefineday312.jpg"
             ],
-            "neighborhood": "Manhattan, Carlstadt",
+            "neighborhood": "Carlstadt, Manhattan",
             "comment": "",
             "place_name": "Carnegie Deli, 605 Washington Ave, Carlstadt, New Jersey 07072, United States",
             "Year": "1996",
@@ -4460,7 +4460,7 @@ const Helper = (function() {
                 "/beginagain/beginagain81.jpg",
                 "/beginagain/beginagain82.jpg"
             ],
-            "neighborhood": "Manhattan, East Village",
+            "neighborhood": "East Village, Manhattan",
             "comment": "",
             "place_name": "Avenue B and East 6th Street, New York, New York 10009, United States",
             "Year": "2013",
@@ -4570,7 +4570,7 @@ const Helper = (function() {
                 "/wallstreet2/wallstreet2_37.jpg",
                 "/wallstreet2/wallstreet2_52.jpg"
             ],
-            "neighborhood": "Manhattan, John F. Kennedy International Airport",
+            "neighborhood": "John F. Kennedy International Airport, Manhattan",
             "comment": "",
             "place_name": "Apartment 7B Deli & Market, JFK Terminal 7, New York, New York 11430, United States",
             "Year": "2010",
@@ -4629,7 +4629,7 @@ const Helper = (function() {
                 "/twoweeksnotice/2weeksnotice33.jpg",
                 "/twoweeksnotice/twoweeksnotice220.jpg"
             ],
-            "neighborhood": "Manhattan, Lower East Side",
+            "neighborhood": "Lower East Side, Manhattan",
             "comment": "",
             "place_name": "Office of the City Clerk - Marriage Bureau, 141 Worth St, New York, New York 10013, United States",
             "Year": "2002",
@@ -4689,7 +4689,7 @@ const Helper = (function() {
                 "/doppelganger/doppelganger01.jpg",
                 "/doppelganger/doppelganger17.jpg"
             ],
-            "neighborhood": "Manhattan, Midtown",
+            "neighborhood": "Midtown, Manhattan",
             "comment": "",
             "place_name": "5th Avenue and West 59th Street, New York, New York 10019, United States",
             "Year": "1993",
@@ -4740,7 +4740,7 @@ const Helper = (function() {
                 "/tmnt/tmnt01.jpg",
                 "/tmnt/tmnt34.jpg"
             ],
-            "neighborhood": "Manhattan, Midtown",
+            "neighborhood": "Midtown, Manhattan",
             "comment": "",
             "place_name": "Fifth Avenue Presbyterian Church, 7 W 55th St, New York, New York 10019, United States",
             "Year": "2014",
@@ -4799,7 +4799,7 @@ const Helper = (function() {
                 "/bridgeofspies/bridgeofspies03.jpg",
                 "/bridgeofspies/bridgeofspies29.jpg"
             ],
-            "neighborhood": "Brooklyn, Upper East Side",
+            "neighborhood": "Upper East Side, Brooklyn",
             "comment": "",
             "place_name": "WORKSHOP, 1415 Second Avenue, New York, New York 10021, United States",
             "Year": "2015",
@@ -4859,7 +4859,7 @@ const Helper = (function() {
                 "/thedarktower/thedarktower80.jpg",
                 "/thedarktower/thedarktower82.jpg"
             ],
-            "neighborhood": "Manhattan, Gramercy",
+            "neighborhood": "Gramercy, Manhattan",
             "comment": "",
             "place_name": "Lexington Ave, 73 Lexington Ave, New York, New York 10016, United States",
             "Year": "2017",
@@ -4918,7 +4918,7 @@ const Helper = (function() {
                 "/theartofgettingby/theartofgettingby72.jpg",
                 "/theartofgettingby/theartofgettingby73.jpg"
             ],
-            "neighborhood": "Manhattan, Mount Vernon",
+            "neighborhood": "Mount Vernon, Manhattan",
             "comment": "",
             "place_name": "East 3rd Street and Second Ave, Mount Vernon, New York 10550, United States",
             "Year": "2011",
@@ -4980,7 +4980,7 @@ const Helper = (function() {
                 "/onefineday/onefineday03.jpg",
                 "/onefineday/onefineday218.jpg"
             ],
-            "neighborhood": "Manhattan, Lower East Side",
+            "neighborhood": "Lower East Side, Manhattan",
             "comment": "",
             "place_name": "1 Centre Street, New York, New York 10007, United States",
             "Year": "1996",
@@ -5034,7 +5034,7 @@ const Helper = (function() {
                 "/thefreshman/thefreshman39.jpg",
                 "/thefreshman/thefreshman38.jpg"
             ],
-            "neighborhood": "Manhattan, Greenwich Village",
+            "neighborhood": "Greenwich Village, Manhattan",
             "comment": "",
             "place_name": "Washington Square North, New York, New York 10011, United States",
             "Year": "1990",
@@ -5094,7 +5094,7 @@ const Helper = (function() {
                 "/lolaversus/lolaversus112.jpg",
                 "/lolaversus/lolaversus95.jpg"
             ],
-            "neighborhood": "Manhattan, Midtown",
+            "neighborhood": "Midtown, Manhattan",
             "comment": "",
             "place_name": "Times Square Church, 237 W 51st St, New York, New York 10019, United States",
             "Year": "2012",
@@ -5212,7 +5212,7 @@ const Helper = (function() {
                 "/youstupidman/youstupidman01.jpg",
                 "/youstupidman/youstupidman33.jpg"
             ],
-            "neighborhood": "Manhattan, West Village",
+            "neighborhood": "West Village, Manhattan",
             "comment": "",
             "place_name": "Commerce Street and Bedford Street, New York, New York 10014, United States",
             "Year": "2002",
@@ -5263,7 +5263,7 @@ const Helper = (function() {
                 "/assbackwards/assbackwards21.jpg",
                 "/assbackwards/assbackwards19.jpg"
             ],
-            "neighborhood": "Lower Manhattan, Lower East Side",
+            "neighborhood": "Lower East Side, Lower Manhattan",
             "comment": "",
             "place_name": "Manhattan Bridge North Plaque, Manhattan Bridge, New York, New York 10038, United States",
             "Year": "2013",
@@ -5321,7 +5321,7 @@ const Helper = (function() {
                 "/anjaanaanjaani/anjaanaanjaani24.jpg",
                 "/anjaanaanjaani/anjaanaanjaani25.jpg"
             ],
-            "neighborhood": "Manhattan, Financial District",
+            "neighborhood": "Financial District, Manhattan",
             "comment": "",
             "place_name": "Morris Street and E Broadway, New York, New York 10025, United States",
             "Year": "2010",
@@ -5371,7 +5371,7 @@ const Helper = (function() {
                 "/lolaversus/lolaversus99.jpg",
                 "/lolaversus/lolaversus101.jpg"
             ],
-            "neighborhood": "Manhattan, East Village",
+            "neighborhood": "East Village, Manhattan",
             "comment": "",
             "place_name": "East 10th Street and Stuyvesant Street, New York, New York 10003, United States",
             "Year": "2012",
@@ -5431,7 +5431,7 @@ const Helper = (function() {
                 "/luluonthebridge/luluonthebridge10.jpg",
                 "/luluonthebridge/luluonthebridge11.jpg"
             ],
-            "neighborhood": "Manhattan, Lower East Side",
+            "neighborhood": "Lower East Side, Manhattan",
             "comment": "",
             "place_name": "Katz's Delicatessen, 205 E Houston St, New York, New York 10002, United States",
             "Year": "1998",
@@ -5488,7 +5488,7 @@ const Helper = (function() {
                 "/5flightsup/5flightsup24.jpg",
                 "/5flightsup/5flightsup25.jpg"
             ],
-            "neighborhood": "Brooklyn, John F. Kennedy International Airport",
+            "neighborhood": "John F. Kennedy International Airport, Brooklyn",
             "comment": "",
             "place_name": "Apartment 7B Deli & Market, JFK Terminal 7, New York, New York 11430, United States",
             "Year": "2014",
@@ -5547,7 +5547,7 @@ const Helper = (function() {
                 "/noel/noel01.jpg",
                 "/noel/noel09.jpg"
             ],
-            "neighborhood": "Manhattan, Greenwich Village",
+            "neighborhood": "Greenwich Village, Manhattan",
             "comment": "",
             "place_name": "Collins, 88 University Pl, New York, New York 10003, United States",
             "Year": "2004",
@@ -5605,7 +5605,7 @@ const Helper = (function() {
                 "/thecode/thecode28.jpg",
                 "/thecode/thecode29.jpg"
             ],
-            "neighborhood": "Brooklyn, Brighton Beach",
+            "neighborhood": "Brighton Beach, Brooklyn",
             "comment": "",
             "place_name": "Brighton Beach Avenue and Brighton 2nd Street, Brooklyn, New York 11235, United States",
             "Year": "2014–2016",
