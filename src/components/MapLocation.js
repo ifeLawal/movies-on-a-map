@@ -22,14 +22,14 @@ export const MapLocation = () => {
                     <MapDisplay 
                         location={testData}
                     />
-                    <div className="h-100 col-md-5 mr-2 map-list">
+                    {/* <div className="h-100 col-md-5 mr-2 map-list">
                         {testData.map((location,index) => {
                             return <Location 
                                 key={index}
                                 location={location}
                             />
                         })}
-                    </div>
+                    </div> */}
                 </div>
             </Container>
         </div>

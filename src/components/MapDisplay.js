@@ -38,11 +38,15 @@ export class MapDisplay extends React.Component {
                         return (
                             <Marker position={point} key={index} >
                                 <Popup>
-                                    <span><strong>Movie: {obj.title}</strong></span>
-                                    <img 
-                                        style={{width:"90%"}} 
-                                        src={process.env.PUBLIC_URL + `/imgs/${obj.moviePoster}`} 
+                                    <div style={{maxWidth:"220px"}}>
+                                        <div><strong>Movie: </strong>{obj.title}</div>
+                                        <div ><strong>Location: </strong>{obj.place_name || obj.locationInfo.address}</div>
+                                    <div style={{textAlign:"center"}}><img 
+                                        style={{width:"220px"}} 
+                                        src={process.env.PUBLIC_URL + `/imgs/${obj.images[0]}`} 
                                         alt={`A scene from the movie ${obj.title}`}/>
+                                        </div>
+                                    </div>
                                 </Popup>
                             </Marker>
                         )
