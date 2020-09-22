@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "NYC Movie Website",
+  "name": "A website displaying NYC Movies on a map",
   "icons": [
     {
       "src": "favicon.ico",
