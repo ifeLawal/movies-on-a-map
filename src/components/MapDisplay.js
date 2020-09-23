@@ -38,9 +38,9 @@ export class MapDisplay extends React.Component {
                         return (
                             <Marker position={point} key={index} >
                                 <Popup>
-                                    <div style={{maxWidth:"220px"}}>
-                                        <div><strong>Movie: </strong>{obj.title}</div>
-                                        <div ><strong>Location: </strong>{obj.place_name || obj.locationInfo.address}</div>
+                                    <div style={{maxWidth:"220px"}} className="my-4">
+                                        <div className="my-2"><strong>Movie: </strong>{obj.title}</div>
+                                        <div className="my-2 mb-4"><strong>Location: </strong>{obj.place_name || obj.locationInfo.address}</div>
                                     <div style={{textAlign:"center"}}><img 
                                         style={{width:"220px"}} 
                                         src={process.env.PUBLIC_URL + `/imgs/${obj.images[0]}`} 

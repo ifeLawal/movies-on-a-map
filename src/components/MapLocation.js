@@ -10,13 +10,13 @@ import Navbar from './Navbar';
 
 export const MapLocation = () => {
     const testData = Helper.locationList;
-
+    
     return (
         <div>
             <Navbar />
             <Container className="my-3">
                 
-                <h1>Map of Scenes</h1>
+                <h1>A Map View of Movie Scenes Located in</h1>
                 
                 <div className="d-md-flex">
                     <MapDisplay 

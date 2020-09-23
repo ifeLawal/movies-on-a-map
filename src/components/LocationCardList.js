@@ -76,7 +76,7 @@ export const LocationCardList = (props) => {
     <div>
       <Navbar />
         <Container className="mt-3">
-        <h1>Movie Scenes List</h1>
+        <h1>A Listing of Movie Scenes Located in NYC</h1>
         <SearchForm 
           onParamChange={handleParamChange
           }/>
