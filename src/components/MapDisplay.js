@@ -42,7 +42,7 @@ export class MapDisplay extends React.Component {
                                         <div className="my-2"><strong>Movie: </strong>{obj.title}</div>
                                         <div className="my-2 mb-4"><strong>Location: </strong>{obj.place_name || obj.locationInfo.address}</div>
                                     <div style={{textAlign:"center"}}><img 
-                                        style={{width:"220px"}} 
+                                        style={{width:"220px", borderRadius:"5px"}} 
                                         src={process.env.PUBLIC_URL + `/imgs/${obj.images[0]}`} 
                                         alt={`A scene from the movie ${obj.title}`}/>
                                         </div>

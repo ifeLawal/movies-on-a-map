@@ -16,7 +16,10 @@ export const MapLocation = () => {
             <Navbar />
             <Container className="my-3">
                 
-                <h1>A Map View of Movie Scenes Located in</h1>
+                <h1 className="my-4">Pins of Movie Scenes Located in NYC</h1>
+                <div className="mb-4">
+                    Each pin represents a movie scene shot in NYC. <strong>By clicking on the pin</strong> you can <strong>see a picture from the movie, the title of the movie, and the address.
+                    </strong></div>
                 
                 <div className="d-md-flex">
                     <MapDisplay 

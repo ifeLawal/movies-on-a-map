@@ -76,7 +76,7 @@ export const LocationCardList = (props) => {
     <div>
       <Navbar />
         <Container className="mt-3">
-        <h1>A Listing of Movie Scenes Located in NYC</h1>
+        <h1 className="my-3">A Listing of Movie Scenes Located in NYC</h1>
         <SearchForm 
           onParamChange={handleParamChange
           }/>
@@ -85,12 +85,13 @@ export const LocationCardList = (props) => {
             setPage={setPageThenCheckForNextPage}
             hasNextPage={hasNextPage}
           />
+          <div className="mt-4">
         {locations.map((location,index) => {
           return <Location 
             key={index}
             location={location}
           />
-        })}
+        })}</div>
           <LocationsPagination 
             page={page}
             setPage={setPageThenCheckForNextPage}

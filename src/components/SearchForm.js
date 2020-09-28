@@ -4,7 +4,7 @@ import { Form, Col } from 'react-bootstrap'
 export default function SearchForm({params, onParamChange}) {
 
     return (
-        <Form className="mb-4">
+        <Form className="mb-1">
             <Form.Row>
                 <Form.Group as={Col}>
                     <Form.Label>Movie Title</Form.Label>
