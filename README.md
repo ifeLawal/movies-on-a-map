@@ -42,3 +42,10 @@ For a list of other create-react-app commands you can [check out their site for 
 - Set up a server and serve the data using Express across each page
 - Add individual pages for people to learn more about each movie
 - Add sorting by popularity
+
+
+FOR MORE INFORMATION VISIT OUR WEBSITE.
+
+GENUINE FEEDBACK IS ALWAYS APPRECIATED.
+
+THANKS FOR THE SUPPORT.
